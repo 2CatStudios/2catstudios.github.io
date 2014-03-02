@@ -2,13 +2,13 @@
 Slate Theme for GitHub Pages
 by Jason Costello, @jsncostello
 *******************************************************************************/
-
+<!--
 @import url(pygment_trac.css);
 
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
-<!--
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -43,12 +43,11 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
--->
+
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
 
-<!--
 body {
   box-sizing: border-box;
   color:#373737;
@@ -58,8 +57,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
--->
-<!--
+
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
@@ -102,8 +100,7 @@ p {
 footer p {
   color: #f2f2f2;
 }
--->
-<!--
+
 a {
   text-decoration: none;
   color: #007edf;
@@ -120,11 +117,9 @@ a {
   -ms-transition: color 0.5s ease;
   -ms-transition: text-shadow 0.5s ease;
 }
--->
-<!--
+
 a:hover, a:focus {text-decoration: underline;}
--->
-<!--
+
 footer a {
   color: #F2F2F2;
   text-decoration: underline;
@@ -137,8 +132,7 @@ em {
 strong {
   font-weight: bold;
 }
--->
-<!--
+
 img {
   position: relative;
   margin: 0 auto;
@@ -203,8 +197,7 @@ blockquote {
   padding: 0 0 0 20px;
   border-left: 3px solid #bbb;
 }
--->
-<!--
+
 ul, ol, dl {
   margin-bottom: 15px
 }
@@ -232,14 +225,14 @@ dl p {
   padding-left: 20px;
   font-style: italic;
 }
-<!--
+
 hr {
   height: 1px;
   margin-bottom: 5px;
   border: none;
   background: url('../images/bg_hr.png') repeat-x center;
 }
--->
+
 table {
   border: 1px solid #373737;
   margin-bottom: 20px;
@@ -262,11 +255,11 @@ form {
   background: #f2f2f2;
   padding: 20px;
 }
--->
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
-<!--
+
 .outer {
   width: 100%;
 }
@@ -374,13 +367,12 @@ Full-Width Styles
 #footer_wrap {
   background: #212121;
 }
--->
 
 
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
-<!--
+
 @media screen and (max-width: 480px) {
   body {
     font-size:14px;
