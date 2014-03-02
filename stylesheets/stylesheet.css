@@ -59,7 +59,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 -->
-
+<!--
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
@@ -102,7 +102,8 @@ p {
 footer p {
   color: #f2f2f2;
 }
-
+-->
+<!--
 a {
   text-decoration: none;
   color: #007edf;
@@ -119,11 +120,11 @@ a {
   -ms-transition: color 0.5s ease;
   -ms-transition: text-shadow 0.5s ease;
 }
-
+-->
 <!--
 a:hover, a:focus {text-decoration: underline;}
 -->
-
+<!--
 footer a {
   color: #F2F2F2;
   text-decoration: underline;
@@ -136,7 +137,7 @@ em {
 strong {
   font-weight: bold;
 }
-
+-->
 <!--
 img {
   position: relative;
@@ -203,7 +204,7 @@ blockquote {
   border-left: 3px solid #bbb;
 }
 -->
-
+<!--
 ul, ol, dl {
   margin-bottom: 15px
 }
@@ -261,11 +262,11 @@ form {
   background: #f2f2f2;
   padding: 20px;
 }
-
+-->
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
-
+<!--
 .outer {
   width: 100%;
 }
@@ -287,10 +288,9 @@ Full-Width Styles
   color: #fff;
   background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
   font-weight: 700;
-<!--  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
-    -->
 }
 
 #header_wrap {
@@ -360,13 +360,13 @@ Full-Width Styles
 .tar_download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top right;
 }
-<!--
+
 #main_content_wrap {
   background: #f2f2f2;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
--->
+
 #main_content {
   padding-top: 40px;
 }
@@ -374,13 +374,13 @@ Full-Width Styles
 #footer_wrap {
   background: #212121;
 }
-
+-->
 
 
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
-
+<!--
 @media screen and (max-width: 480px) {
   body {
     font-size:14px;
@@ -430,3 +430,4 @@ Small Device Styles
   }
 
 }
+-->
