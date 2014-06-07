@@ -177,8 +177,9 @@ p img {
 
 img.displayed {
     display: block;
-    margin-left: -5px;
-    margin-right: auto}
+    margin-left: auto;
+    margin-right: auto;
+}
 
 pre, code {
   width: 100%;
