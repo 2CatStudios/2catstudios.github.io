@@ -161,23 +161,28 @@ strong {
 img {
   position: relative;
   margin: 0 auto;
-
   padding: 5px;
   margin: 10px 0 10px 0;
 }
 
 p img {
-  display: inline;
-  padding: 0;
-  vertical-align: middle;
-  text-align: center;
-  border: none;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    vertical-align: middle;
+    text-align: center;
+    border: none;
 }
 
 img.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0px;
+    vertical-align: middle;
+    text-align: center;
+    border: none;
 }
 
 pre, code {
@@ -286,16 +291,17 @@ Full-Width Styles
 }
 
 .inner {
-  border-left: 2px solid #373737;
-  border-right: 2px solid #373737;
-  border-bottom: 2px solid #373737;
-  padding: 10px;
-  position: relative;
-  max-width: 1024px;
-  margin-top: 108px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 10px;
+    border-left: 2px solid #373737;
+    border-right: 2px solid #373737;
+    border-bottom: 2px solid #373737;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    max-width: 1024px;
+    margin-top: 108px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
 }
 
 #project_title {
