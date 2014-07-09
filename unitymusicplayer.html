@@ -9,6 +9,24 @@
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
     <title>2catstudios.github.io</title>
+      <script type="text/javascript">
+          var imageURLs = [
+              "",
+              "/images/UMP_SMwAV0.png",
+              "/images/UMP_SMwAV1.png",
+              "/images/UMP_SMwAV2.png"
+          ];
+          
+          function getImageTag() {
+              var img = '<a href="';
+              var randomIndex = Math.floor(Math.random() * imageURLs.length);
+              img += imageURLs[randomIndex];
+              img += '"><img class="displayed" src="';
+              img += imageURLs[randomIndex];
+              img += '" alt="UMP SlideshowMode with AudioVisualizer" width="914" height="736"/></a>';
+              return img;
+          }
+      </script>
   </head>
     
     <header>
@@ -24,9 +42,9 @@
 
             <p>If you're unhappy with your current music player, this is what you need! With lots of amazing features, download this if you want
 to be really cool and listen to your music on an application that only hipsters use! Also, shuffle works properly! *cough cough iTunes*</p>
-            <br>
+            <!--<br>
             
-            <!--<object width="1024" height="576"><param name="movie" value="//www.youtube-nocookie.com/v/zdBIOu4SOFQ?hl=en_US&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube-nocookie.com/v/zdBIOu4SOFQ?hl=en_US&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="1024" height="576" allowscriptaccess="always" allowfullscreen="true"></embed></object>-->
+           <object width="1024" height="576"><param name="movie" value="//www.youtube-nocookie.com/v/zdBIOu4SOFQ?hl=en_US&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube-nocookie.com/v/zdBIOu4SOFQ?hl=en_US&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="1024" height="576" allowscriptaccess="always" allowfullscreen="true"></embed></object>-->
             
             <br>
             <h3>Artists on UMP (by most recent)</h3>
@@ -81,28 +99,14 @@ to be really cool and listen to your music on an application that only hipsters 
             <br>
             <ul>
                 <dl>
-                <h6>▶ Featured tab in the OnlineMusicBrowser</h6>
+                <!--<h6>▶ Featured tab in the OnlineMusicBrowser</h6>
                     <dd>An even easier way to find great songs.</dd>
-                <h6>▶ Further improvements to the OnlineMusicBrowser</h6>
-                    <dd>The OnlineMusicBrowser needed just a little more love.</dd>
-                <h6>▶ Expanded MusicViewer</h6>
-                    <dd>For a more "unified" design.</dd>
-                <h6>▶ Buffer for future plans</h6>
-                    <dd>Yes, it's very unclear on purpose.</dd>
-                <h6>▶ Faster hosting solutions</h6>
-                    <dd>Blazing fast downloads are now a reality.</dd>
-                <h6>▶ Album artwork downloading</h6>
-                    <dd>Show off your collection.</dd>
                     
-                <br>
-                <h6>▽ Internal testing</h6>
-                    <dd>We're not EA.</dd>
-                <h6>▽ Bug fixes</h6>
-                    <dd>We're not Bethesda.</dd>
+                <br>-->
+                <h6>▽ In-App Tutorial</h6>
+                    <dd>To improve a new user's initial expirence.</dd>
                 
                 <br>  
-                <h6>▬ Optimized audio visualizer</h6>
-                    <dd>We're looking to support microwaves, too.</dd>
                 <h6>▬ Leap Motion support</h6>
                     <dd>Because, why not?</dd>
                 <h6>▬ Trackpad/Mouse gesture support</h6>
@@ -121,10 +125,12 @@ to be really cool and listen to your music on an application that only hipsters 
             <br>
             <h3>Pictures</h3>
             
-            <a href="/images/UMP-Display_MV.png"><img class="displayed" src="/images/UMP-Display_MV.png"  alt="UMP-Display_MV" width="914" height="736"/></a>
-            <a href="/images/UMP-Display_AudioVisualizer.png"><img class="displayed" src="/images/UMP-Display_AudioVisualizer.png"  alt="UMP-Display_AudioVisualizer" width="914" height="736"/></a>
-            <a href="/images/UMP-Display_OMB.png"><img class="displayed" src="/images/UMP-Display_OMB.png"  alt="UMP-Display_OMB" width="914" height="736"/></a>
-            <a href="/images/UMP-Display_SM.png"><img class="displayed" src="/images/UMP-Display_SM.png"  alt="UMP-Display_SM" width="914" height="736"/></a>
+            <a href="/images/UMP_MV.png"><img class="displayed" src="/images/UMP_MV.png" alt="UMP MusicViewer" width="914" height="736"/></a>
+            <a href="/images/UMP_AV.png"><img class="displayed" src="/images/UMP_AV.png" alt="UMP AudioVisualizer" width="914" height="736"/></a>
+            <a href="/images/UMP_OMB_Feat.png"><img class="displayed" src="/images/UMP_OMB_Feat.png" alt="UMP OMB Feat" width="914" height="736"/></a>
+            <a href="/images/UMP_OMB_Song.png"><img class="displayed" src="/images/UMP_OMB_Song.png" alt="UMP OMB Song" width="914" height="736"/></a>
+            <a href="/images/UMP_SM.png"><img class="displayed" src="/images/UMP_SM.png" alt="UMP SM" width="914" height="736"/></a>
+            <script type="text/javascript">document.write ( getImageTag ());</script>
       </section>
         <blockquote>If you find any bugs/glitches, please drop us an email at <a href="mailto:gibsonbethke@gmail.com?subject=Bug in UMP">
 gibsonbethke@gmail.com</a>!</blockquote>
