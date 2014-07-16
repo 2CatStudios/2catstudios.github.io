@@ -28,9 +28,17 @@
       </script>
   </head>
     
-    <header>
-        <iframe src=/header.html></iframe>
-    </header>
+    <script type='text/javascript'>
+        if(top==self)
+        {
+            this.location='/index.html';
+        } else {
+            var stateObject = { 'Website' : '2catstudios.github.io' };
+
+            window.history.pushState(stateObject, "Author : Saurabh Jain", '/unitymusicplayer.html');
+        }
+        
+    </script>
 
   <body>
     <div id="main_content_wrap" class="outer">
