@@ -11,9 +11,15 @@
     <title>2catstudios.github.io</title>
   </head>
     
-    <header>
-        <iframe src=/header.html></iframe>
-    </header>
+    <script type='text/javascript'>
+        if(top==self)
+        {
+            this.location='/index.html';
+        } else {
+            top.history.pushState("", "404", '/404.html');
+        }
+
+    </script>
 
   <body>
 

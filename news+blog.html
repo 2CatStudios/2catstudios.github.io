@@ -14,7 +14,12 @@
     
     <script type='text/javascript'>
         if(top==self)
-            this.location='/index.html'
+        {
+            this.location='/index.html';
+        } else {
+            top.history.pushState("", "News+Blog", '/news+blog.html');
+        }
+
     </script>
 
   <body>
