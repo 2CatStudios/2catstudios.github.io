@@ -3,13 +3,19 @@
 
   <head>
     <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
     <meta name="description" content="2catstudios.github.io : " />
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
     <title>2catstudios.github.io</title>
       <script type="text/javascript">
+          if(top==self)
+          {
+              this.location='/index.html';
+          } else {
+              top.history.pushState("", "UnityMusicPlayer", '/unitymusicplayer.html');
+          }
+          
           var imageURLs = [
               "/images/UMP_SMwAV0.png",
               "/images/UMP_SMwAV1.png",
@@ -27,16 +33,6 @@
           }
       </script>
   </head>
-    
-    <script type='text/javascript'>
-        if(top==self)
-        {
-            this.location='/index.html';
-        } else {
-            top.history.pushState("", "UnityMusicPlayer", '/unitymusicplayer.html');
-        }
-        
-    </script>
 
   <body>
     <div id="main_content_wrap" class="outer">
