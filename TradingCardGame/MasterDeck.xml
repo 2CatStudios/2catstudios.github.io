@@ -39,6 +39,7 @@
 		<imageIdentifier>1AH0</imageIdentifier>
 	</Card>
 </MasterDeck>
+
 <!--
 MasterDeck Version = Major (int) Minor (char)
 Card Identifier = Deck Major (int) Deck Minor (char) / Type Abbreviation (char) / Number
@@ -118,7 +119,13 @@ Card (unlimited)
 			<chance></chance>
 			<strengthModifier></strengthModifier>
 			<weaknessModifier></weaknessModifier>
-			<sideEffect></sideEffect>
+			<sideEffect>
+				<name></name>
+				<description></description>
+				<applyTo></applyTo>
+				<do operation=''></do>
+				<duration></duration>
+			</sideEffect>
 			<coolDown></coolDown>
 		</defence>
 		<imageIdentifier></imageIdentifier>
