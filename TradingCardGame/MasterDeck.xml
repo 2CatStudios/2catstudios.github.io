@@ -2,27 +2,27 @@
 
 <MasterDeck version='1A'>
 	<Card identifier='1A/H/0'>
-		<name>Harpie</name>
+		<name>Storm Cloud</name>
 		<health>100</health>
 		<element>Air</element>
 		<focus>70</focus>
 		<attack>
-			<name>Gust</name>
-			<baseDamage>12</baseDamage>
+			<name>Rain</name>
+			<baseDamage>4</baseDamage>
 			<chance operation='add'>5</chance>
 			<strengthModifier operation='multiply'>1.5</strengthModifier>
 			<weaknessModifier operation='multiply'>0.5</weaknessModifier>
 			<sideEffect>
-				<name>Dizzy</name>
-				<description>Being dizzy decreases this card's focus.</description>
-				<applyTo>focus</applyTo>
-				<do operation='subtract'>10</do>
+				<name>Wet</name>
+				<description>Being wet adds weakness to electricity-based attacks.</description>
+				<applyTo>weakness</applyTo>
+				<do operation='add'>electricity</do>
 				<duration>2</duration>
 			</sideEffect>
 			<coolDown>3</coolDown>
 		</attack>
 		<defence>
-			<name>Dodge</name>
+			<name>Harden</name>
 			<baseDefence>4</baseDefence>
 			<chance operation='subtract'>10</chance>
 			<strengthModifier operation='multiply'>1.2</strengthModifier>
@@ -38,6 +38,120 @@
 		</defence>
 		<imageIdentifier>1AH0</imageIdentifier>
 	</Card>
+	
+	<Card identifier='1A/C/1'>
+		<name>City</name>
+		<health>100</health>
+		<element>Earth</element>
+		<focus>50</focus>
+		<attack>
+			<name>Commute</name>
+			<baseDamage>12</baseDamage>
+			<chance operation='add'>5</chance>
+			<strengthModifier operation='multiply'>1.5</strengthModifier>
+			<weaknessModifier operation='multiply'>0.5</weaknessModifier>
+			<sideEffect>
+				<name>Enraged</name>
+				<description>Being enraged decreases focus.</description>
+				<applyTo>focus</applyTo>
+				<do operation='subtract'>10</do>
+				<duration>3</duration>
+			</sideEffect>
+			<coolDown>3</coolDown>
+		</attack>
+		<defence>
+			<name>Harden</name>
+			<baseDefence>4</baseDefence>
+			<chance operation='subtract'>10</chance>
+			<strengthModifier operation='multiply'>1.2</strengthModifier>
+			<weaknessModifier operation='multiply'>0.9</weaknessModifier>
+			<sideEffect>
+				<name>Tired</name>
+				<description>Being tired decreases this card's focus.</description>
+				<applyTo>focus</applyTo>
+				<do operation='subtract'>5</do>
+				<duration>2</duration>
+			</sideEffect>
+			<coolDown>0</coolDown>
+		</defence>
+		<imageIdentifier>1AC1</imageIdentifier>
+	</Card>
+	
+	<Card identifier='1A/J/2'>
+		<name>Fire</name>
+		<health>90</health>
+		<element>Fire</element>
+		<focus>40</focus>
+		<attack>
+			<name>Burn</name>
+			<baseDamage>16</baseDamage>
+			<chance operation='add'>5</chance>
+			<strengthModifier operation='multiply'>1.5</strengthModifier>
+			<weaknessModifier operation='multiply'>0.5</weaknessModifier>
+			<sideEffect>
+				<name>Inflamed</name>
+				<description>Being inflamed deals damage each turn.</description>
+				<applyTo>health</applyTo>
+				<do operation='subtract'>5</do>
+				<duration>2</duration>
+			</sideEffect>
+			<coolDown>4</coolDown>
+		</attack>
+		<defence>
+			<name>Harden</name>
+			<baseDefence>4</baseDefence>
+			<chance operation='subtract'>10</chance>
+			<strengthModifier operation='multiply'>1.2</strengthModifier>
+			<weaknessModifier operation='multiply'>0.9</weaknessModifier>
+			<sideEffect>
+				<name>Tired</name>
+				<description>Being tired decreases this card's focus.</description>
+				<applyTo>focus</applyTo>
+				<do operation='subtract'>5</do>
+				<duration>2</duration>
+			</sideEffect>
+			<coolDown>0</coolDown>
+		</defence>
+		<imageIdentifier>1AJ2</imageIdentifier>
+	</Card>
+	
+	<Card identifier='1A/I/3'>
+		<name>Water Droplet</name>
+		<health>120</health>
+		<element>Water</element>
+		<focus>90</focus>
+		<attack>
+			<name>Drench</name>
+			<baseDamage>6</baseDamage>
+			<chance operation='subtract'>5</chance>
+			<strengthModifier operation='multiply'>1.5</strengthModifier>
+			<weaknessModifier operation='multiply'>0.5</weaknessModifier>
+			<sideEffect>
+				<name>Wet</name>
+				<description>Being wet adds weakness to electricity-based attacks.</description>
+				<applyTo>weakness</applyTo>
+				<do operation='add'>electricity</do>
+				<duration>2</duration>
+			</sideEffect>
+			<coolDown>4</coolDown>
+		</attack>
+		<defence>
+			<name>Harden</name>
+			<baseDefence>4</baseDefence>
+			<chance operation='subtract'>10</chance>
+			<strengthModifier operation='multiply'>1.2</strengthModifier>
+			<weaknessModifier operation='multiply'>0.9</weaknessModifier>
+			<sideEffect>
+				<name>Tired</name>
+				<description>Being tired decreases this card's focus.</description>
+				<applyTo>focus</applyTo>
+				<do operation='subtract'>5</do>
+				<duration>5</duration>
+			</sideEffect>
+			<coolDown>0</coolDown>
+		</defence>
+		<imageIdentifier>1AI3</imageIdentifier>
+	</Card>
 </MasterDeck>
 
 <!--
@@ -45,11 +159,12 @@ MasterDeck Version = Major (int) Minor (char)
 Card Identifier = Deck Major (int) Deck Minor (char) / Type Abbreviation (char) / Number
 
 Elements
-	T - Test
+	D - Developer
 	H - Humanity  (air)
 	I - Intelligence (water)
 	J - Justice (fire)
 	C - Courtesy (earth)
+	S - Support
 
 
 Air > Water
