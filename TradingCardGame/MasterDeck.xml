@@ -11,6 +11,50 @@
 			<chance operation='add'>5</chance>
 		</Action>
 	</Card>
+    
+    <Card identifier='1A0H'>
+        <name>Humanity</name>
+        <hitPoints>90</hitPoints>
+        <focus>70</focus>
+        <Action>
+            <name>Downpour</name>
+            <baseEffect>12</baseEffect>
+            <chance operation='add'>10</chance>
+        </Action>
+    </Card>
+    
+    <Card identifier='1A0I'>
+        <name>Intelligence</name>
+        <hitPoints>80</hitPoints>
+        <focus>80</focus>
+        <Action>
+            <name>Logic</name>
+            <baseEffect>16</baseEffect>
+            <chance operation='add'>10</chance>
+        </Action>
+    </Card>
+    
+    <Card identifier='1A0J'>
+        <name>Justice</name>
+        <hitPoints>80</hitPoints>
+        <focus>60</focus>
+        <Action>
+            <name>Power</name>
+            <baseEffect>20</baseEffect>
+            <chance operation='subtract'>5</chance>
+        </Action>
+    </Card>
+    
+    <Card identifier='1A0R'>
+        <name>Ruse</name>
+        <hitPoints>50</hitPoints>
+        <focus>100</focus>
+        <Action>
+            <name>Snare</name>
+            <baseEffect>40</baseEffect>
+            <chance operation='add'>0</chance>
+        </Action>
+    </Card>
 </MasterDeck>
 
 <!--
@@ -23,7 +67,6 @@ Elements
 	I - Intelligence (water)
 	J - Justice (fire)
 	C - Courtesy (earth)
-	S - Snare
 	R - Ruse
 
 
