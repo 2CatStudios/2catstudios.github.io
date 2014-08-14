@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 
 <MasterDeck version='1A'>
-    <Card identifier='C0-1A'>
+    <Card identifier='C0A'>
 		<name>Courtesy</name>
 		<hitPoints>100</hitPoints>
 		<focus>60</focus>
@@ -12,7 +12,7 @@
 		</Action>
 	</Card>
     
-    <Card identifier='H0-1A'>
+    <Card identifier='H0A'>
         <name>Humanity</name>
         <hitPoints>90</hitPoints>
         <focus>70</focus>
@@ -23,7 +23,7 @@
         </Action>
     </Card>
     
-    <Card identifier='I0-1A'>
+    <Card identifier='I0A'>
         <name>Intelligence</name>
         <hitPoints>80</hitPoints>
         <focus>80</focus>
@@ -34,7 +34,7 @@
         </Action>
     </Card>
     
-    <Card identifier='J0-1A'>
+    <Card identifier='J0A'>
         <name>Justice</name>
         <hitPoints>80</hitPoints>
         <focus>60</focus>
@@ -45,7 +45,7 @@
         </Action>
     </Card>
     
-    <Card identifier='R0-1A'>
+    <Card identifier='R0A'>
         <name>Ruse</name>
         <hitPoints>50</hitPoints>
         <focus>100</focus>
@@ -59,7 +59,7 @@
 
 <!--
 MasterDeck Version = Major (int) Minor (char) [1A]
-Card Identifier = Abbreviation (char) _ Type Number (int) _ Hyphen _ Deck Major (int) Deck Minor (char) [C0-1A]
+Card Identifier = Abbreviation (char) _ Type Number (int) _ Card Version (char) [C0A]
 
 
 Elements
