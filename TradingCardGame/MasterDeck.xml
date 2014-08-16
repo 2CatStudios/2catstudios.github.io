@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 
 <MasterDeck version='1A'>
-    <Card identifier='C0-0'>
+    <GameCard identifier='C0-0'>
 		<name>Courtesy</name>
 		<hitPoints>100</hitPoints>
 		<focus>60</focus>
@@ -10,9 +10,9 @@
 			<baseEffect>16</baseEffect>
 			<chance operation='add'>5</chance>
 		</Action>
-	</Card>
+	</GameCard>
     
-    <Card identifier='H0-0'>
+    <GameCard identifier='H0-0'>
         <name>Humanity</name>
         <hitPoints>90</hitPoints>
         <focus>70</focus>
@@ -21,9 +21,9 @@
             <baseEffect>12</baseEffect>
             <chance operation='add'>10</chance>
         </Action>
-    </Card>
+    </GameCard>
     
-    <Card identifier='I0-0'>
+    <GameCard identifier='I0-0'>
         <name>Intelligence</name>
         <hitPoints>80</hitPoints>
         <focus>80</focus>
@@ -32,9 +32,9 @@
             <baseEffect>16</baseEffect>
             <chance operation='add'>10</chance>
         </Action>
-    </Card>
+    </GameCard>
     
-    <Card identifier='J0-0'>
+    <GameCard identifier='J0-0'>
         <name>Justice</name>
         <hitPoints>80</hitPoints>
         <focus>60</focus>
@@ -43,9 +43,9 @@
             <baseEffect>20</baseEffect>
             <chance operation='subtract'>5</chance>
         </Action>
-    </Card>
+    </GameCard>
     
-    <Card identifier='R0-0'>
+    <GameCard identifier='R0-0'>
         <name>Ruse</name>
         <hitPoints>50</hitPoints>
         <focus>100</focus>
@@ -54,7 +54,7 @@
             <baseEffect>40</baseEffect>
             <chance operation='add'>0</chance>
         </Action>
-    </Card>
+    </GameCard>
 </MasterDeck>
 
 <!--
