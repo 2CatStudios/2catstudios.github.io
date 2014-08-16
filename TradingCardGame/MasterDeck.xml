@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 
 <MasterDeck version='1A'>
+    <SupportCard>Deck</SupportCard>
+    
+    
     <GameCard identifier='C0-0'>
 		<name>Courtesy</name>
 		<hitPoints>100</hitPoints>
