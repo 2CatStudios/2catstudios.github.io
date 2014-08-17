@@ -91,7 +91,7 @@ div:before {
     display: block;
     content: " ";
     margin-top: -80px;
-    height: 80px;
+    height: 79px;
     visibility: hidden;
 }
 
