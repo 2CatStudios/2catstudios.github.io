@@ -4,6 +4,9 @@
     <SupportCard version='0'>
         <name>Deck</name>
     </SupportCard>
+    <SupportCard version='0'>
+        <name>Empty</name>
+    </SupportCard>
     
     
     <GameCard identifier='C0-0'>
