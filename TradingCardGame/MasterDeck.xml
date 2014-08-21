@@ -4,12 +4,14 @@
     <SupportCard version='0'>
         <name>Deck</name>
     </SupportCard>
+    
     <SupportCard version='0'>
         <name>Empty</name>
     </SupportCard>
     
     
     <GameCard identifier='C0-0'>
+        <type></type>
 		<name>Courtesy</name>
 		<hitPoints>100</hitPoints>
 		<focus>60</focus>
