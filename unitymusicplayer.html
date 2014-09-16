@@ -1,146 +1,197 @@
 <!DOCTYPE html>
 <html lang=en>
 
-  <head>
-    <meta charset='utf-8' />
-    <meta name="description" content="2catstudios.github.io : " />
+    <head>
+        <meta charset='utf-8'/>
+        <meta name="description" content="2catstudios.github.io"/>
+    
+        <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    
+        <title>2catstudios.github.io</title>
+        <script type="text/javascript">
+            if(top==self)
+            {
+                this.location='/index.html';
+            } else {
+                top.history.pushState("", "UnityMusicPlayer", '/unitymusicplayer.html');
+            }
+              
+            var imageURLs = [
+                "/images/UMP_SMwAV0.png",
+                "/images/UMP_SMwAV1.png",
+                "/images/UMP_SMwAV2.png"
+            ];
+              
+            function getImageTag ()
+            {
+                
+                var img = '<a href="';
+                var randomIndex = Math.floor(Math.random() * imageURLs.length);
+                img += imageURLs[randomIndex];
+                img += '"><img class="displayed" src="';
+                img += imageURLs[randomIndex];
+                img += '" alt="UMP SlideshowMode with AudioVisualizer" width=914 height=736/></a>';
+                return img;
+            }
+              
+            window.parent.document.body.style.overflow = "hidden";
+    
+            var OSName = "Unknown OS";
+            var downloadLink = "http://2catstudios.github.io/404.html";
+    
+            var umpMacStable = "http://cl.ly/1o1Z1h2Q2Z0C";
+            var umpMacDev = "http://cl.ly/2W422A0Q1k2M";
+    
+            var umpWin64Stable = "http://cl.ly/210U2b0A1E0q";
+            var umpWin64Dev = "http://cl.ly/2j0j0e1f272u";
+    
+            var umpWin32Stable = "http://cl.ly/310N2Y2c2b2P";
+            var umpWin32Dev = "http://cl.ly/2o1O38270x3g";
+    
+            if (navigator.appVersion.indexOf("Win")!=-1)
+            {
+    
+                OSName="Windows";
+                downloadLink = umpWin32Stable;
+            }
+    
+            if (navigator.appVersion.indexOf("Mac")!=-1)
+            {
+    
+                OSName="Macintosh";
+                downloadLink = umpMacStable;
+            }
+    
+            if (navigator.appVersion.indexOf("X11")!=-1)
+            {
+    
+                OSName="UNIX";
+                downloadLink = "http://2catstudios.github.io/404.html";
+            }
+    
+            if (navigator.appVersion.indexOf("Linux")!=-1)
+            {
+    
+                OSName="Linux";
+                downloadLink = umpWin64Stable;
+                
+            }
+    
+            window.onload = function ()
+            {
+                
+                document.getElementById ( "DownloadLink" ).href = downloadLink;
+                document.getElementById ( "DownloadText" ).innerHTML = "Not using " + OSName + "? View all available downloads.";
+            }
+        </script>
+    </head>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <body>
+        <div id="main_content_wrap" class="outer">
+            <section id="main_content" class="inner">
 
-    <title>2catstudios.github.io</title>
-      <script type="text/javascript">
-          if(top==self)
-          {
-              this.location='/index.html';
-          } else {
-              top.history.pushState("", "UnityMusicPlayer", '/unitymusicplayer.html');
-          }
-          
-          var imageURLs = [
-              "/images/UMP_SMwAV0.png",
-              "/images/UMP_SMwAV1.png",
-              "/images/UMP_SMwAV2.png"
-          ];
-          
-          function getImageTag() {
-              var img = '<a href="';
-              var randomIndex = Math.floor(Math.random() * imageURLs.length);
-              img += imageURLs[randomIndex];
-              img += '"><img class="displayed" src="';
-              img += imageURLs[randomIndex];
-              img += '" alt="UMP SlideshowMode with AudioVisualizer" width=914 height=736/></a>';
-              return img;
-          }
-          
-          window.parent.document.body.style.overflow="hidden";
-      </script>
-  </head>
-
-  <body>
-    <div id="main_content_wrap" class="outer">
-        <section id="main_content" class="inner">
+                <img src="/images/UMP_Title_Reflection.png"  alt="UMP_Title_Reflection" width="470" height="245"/>
+                <h1><a id="DownloadLink" href="">Download UnityMusicPlayer 1.2</a></h1>
+                <blockquote><a id="DownloadText" href="downloads.html#unitymusicplayer"></a></blockquote>
             
-            <img src="/images/UMP_Title_Reflection.png"  alt="UMP_Title_Reflection" width="470" height="245"/>
-            <h1 id="Title"><a href="/downloads.html#unitymusicplayer">Download</a> UnityMusicPlayer 1.2</h1>
-
-            <p>If you're unhappy with your current music player, this is what you need! With lots of amazing features, download this if you want
+                <p>If you're unhappy with your current music player, this is what you need! With lots of amazing features, download this if you want
 to be really cool and listen to your music on an application that only hipsters use! Also, shuffle works properly! *cough cough iTunes*</p>
             <!--<br>
             
            <object width="1024" height="576"><param name="movie" value="//www.youtube-nocookie.com/v/zdBIOu4SOFQ?hl=en_US&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube-nocookie.com/v/zdBIOu4SOFQ?hl=en_US&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="1024" height="576" allowscriptaccess="always" allowfullscreen="true"></embed></object>-->
             
-            <br>
-            <h3>Artists on UMP (by most recent)</h3>
-            <ul>
-                <li><a href=http://soundcloud.com/rchetypednb>Rchetype</a></li>
-                <li><a href=http://soundcloud.com/second_flight>Second Flight</a></li>
-                <li><a href=http://soundcloud.com/abludomusic>Abludo</a></li>
-                <li><a href=http://soundcloud.com/brian-amin>ManiaRib</a></li>
-                <li><a href=http://soundcloud.com/umcaruje>UMCΛRUJΞ</a></li>
-                <li><a href=http://soundcloud.com/avelocity>Avelocity</a></li>
-                <li><a href=http://soundcloud.com/dj-purify>DJ Purify</a></li>
-                <li><a href=http://soundcloud.com/wolfgunmusic>Wolfgun</a></li>
-                <li><a href=http://soundcloud.com/combustible-lemonade>Combustible Lemonade</a></li>
-                <li><a href=http://soundcloud.com/blacktie-vivid>BlackTie Vivid</a></li>
-                <li>We're contacting more!</li>
-            </ul>
-
-            <p>Are you an artist who wants their music on UMP? Fill out <a href=https://docs.google.com/forms/d/1d5gBnL3iI4UJED-Qgnv3rrpWfz6fYAaKzV1HhkE0E7Q/viewform> this form</a>, and we'll be in touch!</p>
+                <br>
+                <h3>Artists on UMP (by most recent)</h3>
+                <ul>
+                    <li><a href=http://soundcloud.com/rchetypednb>Rchetype</a></li>
+                    <li><a href=http://soundcloud.com/second_flight>Second Flight</a></li>
+                    <li><a href=http://soundcloud.com/abludomusic>Abludo</a></li>
+                    <li><a href=http://soundcloud.com/brian-amin>ManiaRib</a></li>
+                    <li><a href=http://soundcloud.com/umcaruje>UMCΛRUJΞ</a></li>
+                    <li><a href=http://soundcloud.com/avelocity>Avelocity</a></li>
+                    <li><a href=http://soundcloud.com/dj-purify>DJ Purify</a></li>
+                    <li><a href=http://soundcloud.com/wolfgunmusic>Wolfgun</a></li>
+                    <li><a href=http://soundcloud.com/combustible-lemonade>Combustible Lemonade</a></li>
+                    <li><a href=http://soundcloud.com/blacktie-vivid>BlackTie Vivid</a></li>
+                    <p>We're contacting more!</p>
+                </ul>
+    
+                <p>Are you an artist who wants their music on UMP? Fill out <a href=https://docs.google.com/forms/d/1d5gBnL3iI4UJED-Qgnv3rrpWfz6fYAaKzV1HhkE0E7Q/viewform> this form</a>, and we'll be in touch!</p>
             
-            <img class="displayed" src="/images/UMP-OnlineMusicBrowser-SupportingArtists.png"  alt="Supported Artists" width="960" height="960"/>
-            <HR>
-            <br>
-            
-            <h3>Features</h3>
-                <dl>
-                <dt>Simplistic design</dt>
-                    <dd>Inconspicuous &amp; Intuitive</dd>
-                <dt>Clean interface</dt>
-                    <dd>Perfect for meditating.</dd>
-                <dt>Multi-file capability</dt>
-                    <dd>UMP supports WAV, AIFF, and OGG.</dd>
-                <dt>Fully legal online database of free music</dt>
-                    <dd>New tunes are just a click away.</dd>
-                <dt>Realtime dynamic audio-visualizer</dt>
-                    <dd>For all your audio visualization needs.</dd>
-                <dt>Features for both advanced and new users</dt>
-                    <dd>You won't be turned away for knowing the perfect Wet/Dry balance.</dd>
-                <dt>Fun audio-effects</dt>
-                    <dd>Wait, did you hear that? Play it again- slower this time.</dd>
-                <dt>Optimized to run on almost any <del>toaster</del> computer</dt>
-                    <dd>Still rocking Windows Vista?</dd>
-                </dl>
-            
-            <br>
-            <h3>Future Plans</h3>
-            <p>"▶" Denotes that we have already finished working on this feature, and you will see it in the next update.</p>
-            <p>"▽" Denotes a feature we're currently working on. It will hopefully be in the next update.</p>
-            <p>"▬" Denotes a planned feature that you will not see in the next update.</p>
-            
-            <br>
-                <dl>
-                <dt>▶ Vignetting effect for AudioVisualizer</dt>
-                    <dd>We're one step closer to supporting VR.</dd>
-                <dt>▶ Updated GUI</dt>
-                    <dd>Flatter textures and a tad more colour all around.</dd>
-                </dl>
+                <img class="displayed" src="/images/UMP-OnlineMusicBrowser-SupportingArtists.png"  alt="Supported Artists" width="960" height="960"/>
+                <HR>
+                <br>
+                
+                <h3>Features</h3>
+                    <dl>
+                    <dt>Simplistic design</dt>
+                        <dd>Inconspicuous &amp; Intuitive</dd>
+                    <dt>Clean interface</dt>
+                        <dd>Perfect for meditating.</dd>
+                    <dt>Multi-file capability</dt>
+                        <dd>UMP supports WAV, AIFF, and OGG.</dd>
+                    <dt>Fully legal online database of free music</dt>
+                        <dd>New tunes are just a click away.</dd>
+                    <dt>Realtime dynamic audio-visualizer</dt>
+                        <dd>For all your audio visualization needs.</dd>
+                    <dt>Features for both advanced and new users</dt>
+                        <dd>You won't be turned away for knowing the perfect Wet/Dry balance.</dd>
+                    <dt>Fun audio-effects</dt>
+                        <dd>Wait, did you hear that? Play it again- slower this time.</dd>
+                    <dt>Optimized to run on almost any <del>toaster</del> computer</dt>
+                        <dd>Still rocking Windows Vista?</dd>
+                    </dl>
+                
+                <br>
+                <h3>Future Plans</h3>
+                <p>"▶" Denotes that we have already finished working on this feature, and you will see it in the next update.</p>
+                <p>"▽" Denotes a feature we're currently working on. It will hopefully be in the next update.</p>
+                <p>"▬" Denotes a planned feature that you will not see in the next update.</p>
+                
+                <br>
+                    <dl>
+                    <dt>▶ Vignetting effect for AudioVisualizer</dt>
+                        <dd>We're one step closer to supporting VR.</dd>
+                    <dt>▶ Updated GUI</dt>
+                        <dd>Flatter textures and a tad more colour all around.</dd>
+                    </dl>
+                        
+                    <dl>
+                    <dt>▽ In-App Tutorial</dt>
+                        <dd>To improve a new user's initial expirence.</dd>
+                    <dt>▽ Key Binds</dt>
+                        <dd>All of your favorite commands are just a button away.</dd>
                     
-                <dl>
-                <dt>▽ In-App Tutorial</dt>
-                    <dd>To improve a new user's initial expirence.</dd>
-                <dt>▽ Key Binds</dt>
-                    <dd>All of your favorite commands are just a button away.</dd>
+                    
+                    </dl>
+                    <dl>
+                    <dt>▬ Leap Motion support</dt>
+                        <dd>Because, why not?</dd>
+                    <dt>▬ Trackpad/Mouse gesture support</dt>
+                        <dd>We can't let the rich kids have all the fun.</dd>
+                    <dt>▬ DJ Mode</dt>
+                        <dd>The long-promised DJ Mode is still promised.</dd>
+                    <dt>▬ Stream music from the OnlineMusicBrowser</dt>
+                        <dd>Why fill up your hard-drive when you can stream?</dd>
+                    <dt>▬ Trump Card</dt>
+                        <dd>I'm afriad I can't tell you what our trump card is, but you'll know soon enough.</dd>
+                    </dl>
+                    
+                    <dl><dt></dt><dd><p style="font-size:12px">This list is subject to change at any time.</p></dd></dl>
                 
+                <br>
+                <h3>Pictures</h3>
                 
-                </dl>
-                <dl>
-                <dt>▬ Leap Motion support</dt>
-                    <dd>Because, why not?</dd>
-                <dt>▬ Trackpad/Mouse gesture support</dt>
-                    <dd>We can't let the rich kids have all the fun.</dd>
-                <dt>▬ DJ Mode</dt>
-                    <dd>The long-promised DJ Mode is still promised.</dd>
-                <dt>▬ Stream music from the OnlineMusicBrowser</dt>
-                    <dd>Why fill up your hard-drive when you can stream?</dd>
-                <dt>▬ Trump Card</dt>
-                    <dd>I'm afriad I can't tell you what our trump card is, but you'll know soon enough.</dd>
-                </dl>
-                
-                <dl><dt></dt><dd><p style="font-size:12px">This list is subject to change at any time.</p></dd></dl>
-            
-            <br>
-            <h3>Pictures</h3>
-            
-            <a href="/images/UMP_MV.png"><img class="displayed" src="/images/UMP_MV.png" alt="UMP MusicViewer" width="914" height="736"/></a>
-            <a href="/images/UMP_AV.png"><img class="displayed" src="/images/UMP_AV.png" alt="UMP AudioVisualizer" width="914" height="736"/></a>
-            <a href="/images/UMP_OMB_Feat.png"><img class="displayed" src="/images/UMP_OMB_Feat.png" alt="UMP OMB Feat" width="914" height="736"/></a>
-            <a href="/images/UMP_OMB_Song.png"><img class="displayed" src="/images/UMP_OMB_Song.png" alt="UMP OMB Song" width="914" height="736"/></a>
-            <a href="/images/UMP_SM.png"><img class="displayed" src="/images/UMP_SM.png" alt="UMP SM" width="914" height="736"/></a>
-            <a href="/images/UMP_SMwAV1.png"><img class="displayed" src="/images/UMP_SMwAV1.png" alt="UMP SMwAV1" width="914" height="736"/></a>
-            <!--<script type="text/javascript">document.write ( getImageTag ());</script>-->
-      </section>
-        <blockquote>If you find any bugs/glitches, please drop us an email at <a href="mailto:gibsonbethke@gmail.com?subject=Bug%20in%20UMP">
+                <a href="/images/UMP_MV.png"><img class="displayed" src="/images/UMP_MV.png" alt="UMP MusicViewer" width="914" height="736"/></a>
+                <a href="/images/UMP_AV.png"><img class="displayed" src="/images/UMP_AV.png" alt="UMP AudioVisualizer" width="914" height="736"/></a>
+                <a href="/images/UMP_OMB_Feat.png"><img class="displayed" src="/images/UMP_OMB_Feat.png" alt="UMP OMB Feat" width="914" height="736"/></a>
+                <a href="/images/UMP_OMB_Song.png"><img class="displayed" src="/images/UMP_OMB_Song.png" alt="UMP OMB Song" width="914" height="736"/></a>
+                <a href="/images/UMP_SM.png"><img class="displayed" src="/images/UMP_SM.png" alt="UMP SM" width="914" height="736"/></a>
+                <a href="/images/UMP_SMwAV1.png"><img class="displayed" src="/images/UMP_SMwAV1.png" alt="UMP SMwAV1" width="914" height="736"/></a>
+                <!--<script type="text/javascript">document.write ( getImageTag ());</script>-->
+            </section>
+            <blockquote>If you find any bugs/glitches, please drop us an email at <a href="mailto:gibsonbethke@gmail.com?subject=Bug%20in%20UMP">
 gibsonbethke@gmail.com</a>!</blockquote>
-    </div>
-  </body>
+        </div>
+    </body>
 </html>

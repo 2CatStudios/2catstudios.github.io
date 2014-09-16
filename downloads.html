@@ -18,6 +18,46 @@
         }
         
         window.parent.document.body.style.overflow="hidden";
+        
+        var OSName="Unknown OS";
+        
+        var umpStable = "http://2catstudios.github.io/index.html";
+        var umpDev = "http://2catstudios.github.io/index.html";
+        
+        var umpMacStable = "http://cl.ly/1o1Z1h2Q2Z0C";
+        var umpMacDev = "http://cl.ly/2W422A0Q1k2M";
+        
+        var umpWin64Stable = "http://cl.ly/210U2b0A1E0q";
+        var umpWin64Dev = "http://cl.ly/2j0j0e1f272u";
+        
+        var umpWin32Stable = "http://cl.ly/310N2Y2c2b2P";
+        var umpWin32Dev = "http://cl.ly/2o1O38270x3g";
+        
+        if (navigator.appVersion.indexOf("Win")!=-1)
+        {
+            
+            OSName="Windows";
+        }
+        
+        if (navigator.appVersion.indexOf("Mac")!=-1)
+        {
+            
+            OSName="MacOS";
+        }
+        
+        if (navigator.appVersion.indexOf("X11")!=-1)
+        {
+            
+            OSName="UNIX";
+        }
+        
+        if (navigator.appVersion.indexOf("Linux")!=-1)
+        {
+            
+            OSName="Linux";
+        }
+
+        //alert('Your OS: '+OSName);
     </script>
     </head>
 
@@ -29,14 +69,21 @@
             
             <div id="unitymusicplayer">
                 <h1><a href="/unitymusicplayer.html">UnityMusicPlayer</a></h1>
-                <p>Stable Version 1.2</p>
-              
+                <p>Stable Version 1.2<br>Development Version 1.22</p>
+
                 <dl>
-                    <dt><a href="http://cl.ly/1o1Z1h2Q2Z0C">Macintosh</a></dt>
+                    <dt><a href="http://cl.ly/1o1Z1h2Q2Z0C">(Stable) Macintosh</a></dt>
+                    <dt><a href="http://cl.ly/2W422A0Q1k2M">(Dev) Macintosh</a></dt>
                         <dd>Mac OS 10.6+</dd>
-                    <dt><a href="http://cl.ly/210U2b0A1E0q">Windows 64bit</a></dt>
+                    
+                    <br>
+                    <dt><a href="http://cl.ly/210U2b0A1E0q">(Stable) Windows 64bit</a></dt>
+                    <dt><a href="http://cl.ly/2j0j0e1f272u">(Dev) Windows 64bit</a></dt>
                         <dd>Windows Vista or newer</dd>
-                    <dt><a href="http://cl.ly/310N2Y2c2b2P">Windows 32bit</a></dt>
+                    
+                    <br>
+                    <dt><a href="http://cl.ly/310N2Y2c2b2P">(Stable) Windows 32bit</a></dt>
+                    <dt><a href="http://cl.ly/2o1O38270x3g">(Dev) Windows 32bit</a></dt>
                         <dd>Windows Vista or newer</dd>
                 </dl>
                   
@@ -51,6 +98,13 @@
                     <li>Audio Visualizer improved and optimized</li>
                     <li>More error handling</li>
                     <li>Many bug fixes</li>
+                </ul>
+
+                <br>
+                <h4>Major Changes in Development Update</h4>
+                <ul>
+                    <li>UI fixes</li>
+                    <li>Minor bug fixes</li>
                 </ul>
             </div>
             
