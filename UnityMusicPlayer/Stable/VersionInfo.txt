@@ -1,5 +1,5 @@
 Current Version
 1.2
-NOTE: This update is suggested!
+Debug testing is currently taking place, please ignore this update notification. An update to UnityMusicPlayer will be available in a few days, please check back soon.
 
 http://2catstudios.github.io/unitymusicplayer.html
