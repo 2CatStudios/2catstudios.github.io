@@ -823,17 +823,4 @@
         <largeArtworkURL>https://copy.com/HSwj0jWpMyzs</largeArtworkURL>
         <smallArtworkURL>https://copy.com/cbByLo1HGrby</smallArtworkURL>
 	</Song>
-	
-	<Song featured=‘false’>
-		<name>Speed of Light</name>
-		<album>Darkest Mornings - Brightest Nights</album>
-		<artist>BlackTie Vivid</artist>
-		<genre>Ambient</genre>
-		<format>wav</format>
-        <downloadURL>https://copy.com/BkMDSNLYMOdh</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
-		<releaseDate>September 08, 2014</releaseDate>
-        <largeArtworkURL>https://copy.com/rsuVkswaBtrT</largeArtworkURL>
-        <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
-	</Song>
 </Songs>
