@@ -361,7 +361,7 @@
         <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
 	</Song>
     
-	<Song featured='false'>
+	<Song featured=‘true’>
 		<name>Rhapsody on Linux</name>
 		<album>it burns</album>
 		<artist>Combustible Lemonade</artist>
