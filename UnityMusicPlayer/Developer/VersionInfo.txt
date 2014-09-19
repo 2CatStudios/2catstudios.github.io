@@ -1,5 +1,5 @@
 Current Version
-1.2
-No beta is currently in progress.
+1.25
+Beta 1.25 has started!
 
 http://2catstudios.github.io/unitymusicplayer.html
