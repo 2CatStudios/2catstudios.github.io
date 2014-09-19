@@ -633,7 +633,7 @@
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
     
-	<Song featured=‘true’>
+	<Song featured=‘false’>
 		<name>Love (Purify Remix)</name>
 		<album>Silent Room</album>
 		<artist>DJ Purify</artist>
