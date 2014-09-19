@@ -425,7 +425,7 @@
         <smallArtworkURL>https://copy.com/d4llPHke9z00</smallArtworkURL>
 	</Song>
     
-	<Song featured='true'>
+	<Song featured=‘false’>
 		<name>One More</name>
 		<album>Reality - EP</album>
 		<artist>Abludo</artist>
@@ -633,7 +633,7 @@
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
     
-	<Song featured='false'>
+	<Song featured=‘true’>
 		<name>Love (Purify Remix)</name>
 		<album>Silent Room</album>
 		<artist>DJ Purify</artist>
@@ -782,7 +782,7 @@
         <smallArtworkURL>https://copy.com/U8qgTb2WvsNm</smallArtworkURL>
 	</Song>
     
-	<Song featured='true'>
+	<Song featured=‘false’>
 		<name>Unknown</name>
 		<album>Doorways EP</album>
 		<artist>Face of Flynn</artist>
