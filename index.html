@@ -9,21 +9,17 @@
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
         
         <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-        <title>2CatStudios.github.io</title>
-    </head>
-    
-    <body>
+        <title>2CatStudios // Index</title>
         <script type="text/javascript">
-            top.history.pushState("", "2CatStudios", '/index.html');
+            if(top==self)
+            {
+                this.location='/main.html';
+            }
         </script>
+    </head>
         
-        <header>
-            <h1>&nbsp;<a href=/index.html target="mainInFrame">2Cat Studios</a></h1>
-            <a href=/news+blog.html target="mainInFrame" style="margin-left: 10px;">News+Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=/unitymusicplayer.html target="mainInFrame">UnityMusicPlayer</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=/tradingcardgame.html target="mainInFrame">TradingCardGame</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=/newtown.html target="mainInFrame">NewTown</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=/oldprojects.html target="mainInFrame">Old Projects</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=/about-us.html target="mainInFrame">About Us</a>
-        </header>
-        
-        <div id="wrap">
-            <iframe name="mainInFrame" src=/main.html id="iframe"></iframe>
-        </div>
-    </body>
+    <header>
+        <h1>&nbsp;<a href=/index.html target="_top">2Cat Studios</a></h1>
+        <a href=/news+blog.html target="_top" style="margin-left: 10px;">News+Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=/unitymusicplayer.html target="_top">UnityMusicPlayer</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=/tradingcardgame.html target="_top">TradingCardGame</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=/newtown.html target="_top">NewTown</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=/oldprojects.html target="_top">Old Projects</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=/about-us.html target="_top">About Us</a>
+    </header>
 </html>

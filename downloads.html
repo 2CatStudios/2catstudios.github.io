@@ -10,14 +10,6 @@
     <title>2catstudios.github.io</title>
       
     <script type="text/javascript">
-        if(top==self)
-        {
-            this.location='/index.html';
-        } else {
-            top.history.pushState("", "2CatStudios", '/downloads.html');
-        }
-        
-        window.parent.document.body.style.overflow="hidden";
         
         var OSName="Unknown OS";
         
@@ -63,7 +55,7 @@
   <body>
 
     <div id="main_content_wrap" class="outer">
-        
+        <iframe name="index" src=/index.html id="iframe"></iframe>
         <section id="main_content" class="inner">
             
             <div id="unitymusicplayer">

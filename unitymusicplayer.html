@@ -9,12 +9,6 @@
     
         <title>2catstudios.github.io</title>
         <script type="text/javascript">
-            if(top==self)
-            {
-                this.location='/index.html';
-            } else {
-                top.history.pushState("", "UnityMusicPlayer", '/unitymusicplayer.html');
-            }
               
             var imageURLs = [
                 "/images/UMP_SMwAV0.png",
@@ -88,6 +82,7 @@
 
     <body>
         <div id="main_content_wrap" class="outer">
+            <iframe name="index" src=/index.html id="iframe"></iframe>
             <section id="main_content" class="inner">
 
                 <img src="/images/UMP_Title_Reflection.png"  alt="UMP_Title_Reflection" width="470" height="245"/>
