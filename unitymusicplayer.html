@@ -27,8 +27,6 @@
                 img += '" alt="UMP SlideshowMode with AudioVisualizer" width=914 height=736/></a>';
                 return img;
             }
-              
-            window.parent.document.body.style.overflow = "hidden";
     
             var OSName = "Unknown OS";
             var downloadLink = "http://2catstudios.github.io/downloads.html";
@@ -41,49 +39,37 @@
     
             var umpWin32Stable = "http://cl.ly/310N2Y2c2b2P";
             var umpWin32Dev = "http://cl.ly/2o1O38270x3g";
-            
-            var OSRecognized = false;
-            
-            if (navigator.appVersion.indexOf("Win")!=-1)
-            {
     
-                OSName="Windows";
-                downloadLink = umpWin32Stable;
-                OSRecognized = true;
-            }
-    
-            if (navigator.appVersion.indexOf("Mac")!=-1)
-            {
-    
-                OSName="Macintosh";
-                downloadLink = umpMacStable;
-                OSRecognized = true;
-            }
-    
-            if (navigator.appVersion.indexOf("X11")!=-1)
-            {
-    
-                OSName="UNIX";
-                downloadLink = "http://2catstudios.github.io/404.html";
-                OSRecognized = true;
-            }
-    
-            if (navigator.appVersion.indexOf("Linux")!=-1)
-            {
-    
-                OSName="Linux";
-                downloadLink = umpWin64Stable;
-                OSRecognized = true;
-            }
-            
-            if ( OSRecognized == false )
+            function FunctionName ()
             {
                 
-                OSName="Unknown OS";
-            }
-    
-            window.onload = function ()
-            {
+                if (navigator.appVersion.indexOf("Win")!=-1)
+                {
+
+                    OSName="Windows";
+                    downloadLink = umpWin32Stable;
+                }
+
+                if (navigator.appVersion.indexOf("Mac")!=-1)
+                {
+
+                    OSName="Macintosh";
+                    downloadLink = umpMacStable;
+                }
+
+                if (navigator.appVersion.indexOf("X11")!=-1)
+                {
+
+                    OSName="UNIX";
+                    downloadLink = "http://2catstudios.github.io/404.html";
+                }
+
+                if (navigator.appVersion.indexOf("Linux")!=-1)
+                {
+
+                    OSName="Linux";
+                    downloadLink = umpWin64Stable;
+                }
                 
                 document.getElementById ( "DownloadLink" ).href = downloadLink;
                 document.getElementById ( "DownloadText" ).innerHTML = "Not using " + OSName + "? Interested in the beta? View all available downloads.";
@@ -91,7 +77,7 @@
         </script>
     </head>
 
-    <body>
+    <body onload="FunctionName();">
         <div id="main_content_wrap" class="outer">
             <iframe name="index" src=/index.html id="iframe"></iframe>
             <section id="main_content" class="inner">
@@ -99,7 +85,7 @@
                 <img src="/images/UMP_Title_Reflection.png"  alt="UMP_Title_Reflection" width="470" height="245"/>
                 <h1><a id="DownloadLink" href="">Download UnityMusicPlayer 1.2</a></h1>
                 <blockquote><a id="DownloadText" href="downloads.html#unitymusicplayer"></a></blockquote>
-            
+                
                 <p>If you're unhappy with your current music player, this is what you need! With lots of amazing features, download this if you want
 to be really cool and listen to your music on an application that only hipsters use! Also, shuffle works properly! *cough cough iTunes*</p>
             <!--<br>
