@@ -27,7 +27,7 @@
         <smallArtworkURL>https://copy.com/cbByLo1HGrby</smallArtworkURL>
 	</Song>
     
-	<Song featured='false'>
+	<Song featured='true'>
 		<name>Valley of the Shadows</name>
 		<album>Physics</album>
 		<artist>Wolfgun</artist>
@@ -361,7 +361,7 @@
         <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
 	</Song>
     
-    <Song featured='true'>
+    <Song featured='false'>
 		<name>Rhapsody on Linux</name>
 		<album>it burns</album>
 		<artist>Combustible Lemonade</artist>
