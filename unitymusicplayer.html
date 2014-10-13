@@ -31,7 +31,7 @@
             window.parent.document.body.style.overflow = "hidden";
     
             var OSName = "Unknown OS";
-            var downloadLink = "http://2catstudios.github.io/404.html";
+            var downloadLink = "http://2catstudios.github.io/downloads.html";
     
             var umpMacStable = "http://cl.ly/1o1Z1h2Q2Z0C";
             var umpMacDev = "http://cl.ly/2W422A0Q1k2M";
@@ -41,12 +41,15 @@
     
             var umpWin32Stable = "http://cl.ly/310N2Y2c2b2P";
             var umpWin32Dev = "http://cl.ly/2o1O38270x3g";
-    
+            
+            var OSRecognized = false;
+            
             if (navigator.appVersion.indexOf("Win")!=-1)
             {
     
                 OSName="Windows";
                 downloadLink = umpWin32Stable;
+                OSRecognized = true;
             }
     
             if (navigator.appVersion.indexOf("Mac")!=-1)
@@ -54,6 +57,7 @@
     
                 OSName="Macintosh";
                 downloadLink = umpMacStable;
+                OSRecognized = true;
             }
     
             if (navigator.appVersion.indexOf("X11")!=-1)
@@ -61,6 +65,7 @@
     
                 OSName="UNIX";
                 downloadLink = "http://2catstudios.github.io/404.html";
+                OSRecognized = true;
             }
     
             if (navigator.appVersion.indexOf("Linux")!=-1)
@@ -68,7 +73,13 @@
     
                 OSName="Linux";
                 downloadLink = umpWin64Stable;
+                OSRecognized = true;
+            }
+            
+            if ( OSRecognized == false )
+            {
                 
+                OSName="Unknown OS";
             }
     
             window.onload = function ()
@@ -190,13 +201,14 @@ to be really cool and listen to your music on an application that only hipsters 
                 
                 <br>
                 <h3>Pictures</h3>
+                <blockquote>From UMP 1.25 <a href="/downloads.html">DevBuild</a> (out soon!)</blockquote>
                 
-                <a href="/images/UMP_MV.png"><img class="displayed" src="/images/UMP_MV.png" alt="UMP MusicViewer" width="914" height="736"/></a>
-                <a href="/images/UMP_AV.png"><img class="displayed" src="/images/UMP_AV.png" alt="UMP AudioVisualizer" width="914" height="736"/></a>
-                <a href="/images/UMP_OMB_Feat.png"><img class="displayed" src="/images/UMP_OMB_Feat.png" alt="UMP OMB Feat" width="914" height="736"/></a>
-                <a href="/images/UMP_OMB_Song.png"><img class="displayed" src="/images/UMP_OMB_Song.png" alt="UMP OMB Song" width="914" height="736"/></a>
-                <a href="/images/UMP_SM.png"><img class="displayed" src="/images/UMP_SM.png" alt="UMP SM" width="914" height="736"/></a>
-                <a href="/images/UMP_SMwAV1.png"><img class="displayed" src="/images/UMP_SMwAV1.png" alt="UMP SMwAV1" width="914" height="736"/></a>
+                <a href="/images/UMP_MV.png"><img class="displayed" src="/images/UMP_MV.png" alt="UMP MusicViewer" width="912" height="734"/></a>
+                <a href="/images/UMP_OMB_Song.png"><img class="displayed" src="/images/UMP_OMB_Song.png" alt="UMP OMB Song" width="912" height="734"/></a>
+                <a href="/images/UMP_FB_D_AV.png"><img class="displayed" src="/images/UMP_FB_D_AV.png" alt="UMP FB D AV" width="912" height="734"/></a>
+                <a href="/images/UMP_AV.png"><img class="displayed" src="/images/UMP_AV.png" alt="UMP AudioVisualizer" width="912" height="734"/></a>
+                <a href="/images/UMP_SM.png"><img class="displayed" src="/images/UMP_SM.png" alt="UMP SM" width="912" height="734"/></a>
+                <a href="/images/UMP_SM_AV_Trans.png"><img class="displayed" src="/images/UMP_SM_AV_Trans.png" alt="UMP SM AV Trans" width="912" height="734"/></a>
                 <!--<script type="text/javascript">document.write ( getImageTag ());</script>-->
             </section>
             <blockquote>If you find any bugs/glitches, please drop us an email at <a href="mailto:gibsonbethke@gmail.com?subject=Bug%20in%20UMP">
