@@ -40,7 +40,7 @@
         <smallArtworkURL>https://copy.com/2etcRfhvIItF</smallArtworkURL>
 	</Song>
     
-	<Song featured='true'>
+	<Song featured='false'>
 		<name>River (ft. Tim Bonvallet)</name>
 		<album>SUNDISK</album>
 		<artist>Wolfgun</artist>
@@ -516,7 +516,7 @@
         <smallArtworkURL>https://copy.com/ynNHY1VCWOEu</smallArtworkURL>
 	</Song>
     
-	<Song featured='false'>
+	<Song featured='true'>
 		<name>Starlight (Umcaruje's wreck the dancehall mix)</name>
 		<album>Starlight</album>
 		<artist>Avelocity</artist>
