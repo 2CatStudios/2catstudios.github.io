@@ -352,6 +352,7 @@ img.centeredImage {
 }
 
 #RightColumn {
+    float:right;
     clear: right;
     width:50%;
 }
