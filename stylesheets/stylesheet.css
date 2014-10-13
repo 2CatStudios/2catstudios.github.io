@@ -44,13 +44,6 @@ ol, ul {
   list-style:none;
 }
 
-table {
-  border-collapse:collapse;
-  border-spacing:0;
-  margin-left:auto;
-  margin-right:auto;
-}
-
 iframe {
     position:fixed;
     border:0px;
@@ -256,21 +249,33 @@ dl p {
 }
 
 hr {
-    height: 1px;
     width:100%;
-    margin-bottom: 5px;
-    border: none;
+    border: 1px solid #FF0000;
 }
 
 table {
-  border: 0px solid #f2f2f2;
-  margin-bottom: 20px;
-  text-align: left;
+    margin-left:0px;
+    margin-right:0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+    padding:0;
+    margin:0;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    border: 0px solid #f2f2f2;
+    
+    text-align: left;
  }
 
 
 th {
-  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lucida Grande', 'Helvetica Neue', 'Helvetica, Arial', sans-serif;
   padding: 10px;
   background: #373737;
   color: #fff;
@@ -310,20 +315,45 @@ Full-Width Styles
     margin-bottom: auto;
 }
 
-#project_title {
-  margin: 0;
-  color: #fff;
-  font-size: 42px;
-  font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
+.centeredImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    vertical-align: middle;
+    text-align: center;
+    border: none;
 }
 
-#project_tagline {
-  color: #fff;
-  font-size: 24px;
-  font-weight: 300;
-  background: none;
-  text-shadow: #111 0px 0px 10px;
+.leftImage {
+    display: block;
+    margin-left: 0px;
+    margin-right: auto;
+    padding: 0px;
+    vertical-align: middle;
+    text-align: center;
+    border: none;
+}
+
+.rightImage {
+    display: block;
+    margin-left: auto;
+    margin-right: 0px;
+    padding: 0px;
+    vertical-align: middle;
+    text-align: center;
+    border: none;
+}
+
+#LeftColumn {
+    float:left;
+    clear: left;
+    width:50%;
+}
+
+#RightColumn {
+    clear: right;
+    width:50%;
 }
 
 #main_content_wrap {
@@ -331,13 +361,3 @@ Full-Width Styles
   border-top: 1px solid #f2f2f2;
   border-bottom: 1px solid #f2f2f2;
 }
-
-<style type="text/css">
-  .centeredImage
-    {
-    text-align:center;
-    margin-top:0px;
-    margin-bottom:0px;
-    padding:0px;
-    }
-</style>
