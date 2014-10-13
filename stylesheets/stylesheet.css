@@ -315,7 +315,7 @@ Full-Width Styles
     margin-bottom: auto;
 }
 
-.centeredImage {
+img.centeredImage {
     display: block;
     margin-left: auto;
     margin-right: auto;
