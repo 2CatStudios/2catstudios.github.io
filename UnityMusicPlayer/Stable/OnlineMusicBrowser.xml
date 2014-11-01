@@ -27,7 +27,7 @@
         <smallArtworkURL>https://copy.com/cbByLo1HGrby</smallArtworkURL>
 	</Song>
     
-	<Song featured='false'>
+	<Song featured='true'>
 		<name>Valley of the Shadows</name>
 		<album>Physics</album>
 		<artist>Wolfgun</artist>
@@ -40,7 +40,7 @@
         <smallArtworkURL>https://copy.com/2etcRfhvIItF</smallArtworkURL>
 	</Song>
     
-	<Song featured='true'>
+	<Song featured='false'>
 		<name>River (ft. Tim Bonvallet)</name>
 		<album>SUNDISK</album>
 		<artist>Wolfgun</artist>
@@ -361,7 +361,7 @@
         <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
 	</Song>
     
-	<Song featured='false'>
+    <Song featured='false'>
 		<name>Rhapsody on Linux</name>
 		<album>it burns</album>
 		<artist>Combustible Lemonade</artist>
@@ -425,7 +425,7 @@
         <smallArtworkURL>https://copy.com/d4llPHke9z00</smallArtworkURL>
 	</Song>
     
-	<Song featured='true'>
+    <Song featured='false'>
 		<name>One More</name>
 		<album>Reality - EP</album>
 		<artist>Abludo</artist>
@@ -516,7 +516,7 @@
         <smallArtworkURL>https://copy.com/ynNHY1VCWOEu</smallArtworkURL>
 	</Song>
     
-	<Song featured='false'>
+	<Song featured='true'>
 		<name>Starlight (Umcaruje's wreck the dancehall mix)</name>
 		<album>Starlight</album>
 		<artist>Avelocity</artist>
@@ -633,7 +633,7 @@
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
     
-	<Song featured='false'>
+    <Song featured='false'>
 		<name>Love (Purify Remix)</name>
 		<album>Silent Room</album>
 		<artist>DJ Purify</artist>
@@ -782,7 +782,7 @@
         <smallArtworkURL>https://copy.com/U8qgTb2WvsNm</smallArtworkURL>
 	</Song>
     
-	<Song featured='true'>
+	<Song featured='false'>
 		<name>Unknown</name>
 		<album>Doorways EP</album>
 		<artist>Face of Flynn</artist>
@@ -822,5 +822,18 @@
 		<releaseDate>February 22, 2014</releaseDate>
         <largeArtworkURL>https://copy.com/HSwj0jWpMyzs</largeArtworkURL>
         <smallArtworkURL>https://copy.com/cbByLo1HGrby</smallArtworkURL>
+	</Song>
+
+    <Song featured='true'>
+		<name>Speed of Light</name>
+		<album>Darkest Mornings - Brightest Nights</album>
+		<artist>BlackTie Vivid</artist>
+		<genre>Ambient</genre>
+		<format>wav</format>
+        <downloadURL>https://copy.com/BkMDSNLYMOdh</downloadURL>
+		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
+		<releaseDate>September 08, 2014</releaseDate>
+        <largeArtworkURL>https://copy.com/rsuVkswaBtrT</largeArtworkURL>
+        <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
 	</Song>
 </Songs>
