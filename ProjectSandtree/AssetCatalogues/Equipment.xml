@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="us-ascii"?>
-<Helmets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Equipment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Meta>
+		<version>0</version>
+	</Meta>
+
 	<Helmet>
 		<identifier>FishHelmet1</identifier>
 		<name>Fishius Helmetius</name>
 		<armourRating>5</armourRating>
 	</Helmet>
-</Helmets>
+</Equipment>
