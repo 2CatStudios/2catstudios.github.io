@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang=en>
+
+    <head>
+        <meta charset='utf-8' />
+        <meta name="description" content="2catstudios.github.io" />
+
+        <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+        <title>2CatStudios // SRoguelike</title>
+
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-57157141-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+        
+        <script type="text/javascript">
+            function verifyAge ()
+            {
+                
+                if(window.location.href.indexOf("?AgeVerified") == -1)
+                {
+                    
+                    this.location='/agegate.html';
+                }
+            }
+        </script>
+    </head>
+
+    <body onload="verifyAge();">
+
+        <div id="main_content_wrap" class="outer">
+            <iframe name="index" src=/index.html id="iframe"></iframe>
+            <section id="main_content" class="inner">
+
+                <p>Content goes here.</p>
+            </section>
+            <blockquote>If you want to discuss missing pages, drop us an email at <a href="mailto:gibsonbethke@gmail.com?subject=Your%20404%20page%20has%20helped%20improve%20my%20productivity!">
+                gibsonbethke@gmail.com</a>!</blockquote>
+        </div>
+    </body>
+</html>
