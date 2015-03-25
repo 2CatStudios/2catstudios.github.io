@@ -7,7 +7,7 @@
 	<description>Latest news from 2Cat Studios</description>
 	<language>en-us</language>
 	<webMaster>gibsonbethke@gmail.com (Michael Bethke)</webMaster>
-	<atom:link href="http://2catstudios.github.io/news+blog_rss.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://2catstudios.github.io/news+blog.xml" rel="self" type="application/rss+xml" />
 	<image>
     	<url>http://2catstudios.github.io/logo_large.gif</url>
     	<title>2Cat Studios News+Blog</title>
