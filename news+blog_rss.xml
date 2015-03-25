@@ -2,13 +2,13 @@
 <rss version="2.0">
 
 <channel>
-	<title>2Cat Studios' News+Blog</title>
+	<title>2Cat Studios News+Blog</title>
 	<link>http://2catstudios.github.io/news+blog.html</link>
 	<description>Latest news from 2Cat Studios</description>
 	<image>
     	<url>http://2catstudios.github.io/logo_large.gif</url>
-    	<title>2Cat Studios Logo</title>
-    	<link>http://2catstudios.github.io</link>
+    	<title>2Cat Studios News+Blog</title>
+    	<link>http://2catstudios.github.io/news+blog.html</link>
 	</image>
 	
   <item>
