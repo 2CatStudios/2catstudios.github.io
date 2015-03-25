@@ -5,6 +5,8 @@
 	<title>2Cat Studios News+Blog</title>
 	<link>http://2catstudios.github.io/news+blog.html</link>
 	<description>Latest news from 2Cat Studios</description>
+	<language>en-us</language>
+	<webMaster>gibsonbethke@gmail.com</webMaster>
 	<atom:link href="http://2catstudios.github.io/news+blog_rss.xml" rel="self" type="application/rss+xml" />
 	<image>
     	<url>http://2catstudios.github.io/logo_large.gif</url>
