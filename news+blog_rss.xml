@@ -11,7 +11,7 @@
     	<link>http://2catstudios.github.io/news+blog.html</link>
 	</image>
 	
-  <item guid="http://2catstudios.github.io/news+blog.html#2015-03-24-0">
+  <item>
     <title>Notice of Upcoming Service Disruption</title>
     <link>http://2catstudios.github.io/news+blog.html#2015-03-24-0</link>
     <description>Tuesday, March 24, 2015
@@ -20,6 +20,7 @@
 	  
 	  Michael, 2Cat Studios
 	  </description>
+	  <guid>2015-03-24-0</guid>
   </item>
 	
 </channel>
