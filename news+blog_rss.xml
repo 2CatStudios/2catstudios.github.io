@@ -17,15 +17,14 @@
 	<item>
 		<title>Notice of Upcoming Service Disruption</title>
 		<link>http://2catstudios.github.io/news+blog.html#2015-03-24-0</link>
-		<description><![CDATA[<img src="http://2catstudios.github.io/favicon.png"  alt="2Cat Studios Logo" width="196" height="196"/><h3>Tuesday, March 24, 2015</h3>
+		<description><![CDATA[<h3>Tuesday, March 24, 2015</h3>
 					
 					<p>Notice of Upcoming Service Disruption</p>
 					
 					<p>Just a heads up; the web server we use for application distribution is changing it's service methods on April 2. Unfortunately, this change makes further use of their service economically unviable for us. Therefore, we will be experimenting with alternative hosting solutions, hopefully without much noticable affect. If, however, there are some periods of unavailability between now and April 2, don't fret!</p>
 					
 					<h5>Michael, 2Cat Studios</h5>]]></description>
-		<enclosure url="http://2catstudios.github.io/favicon.png"
-    length="24598" type="image/png" />
+		<enclosure url="http://2catstudios.github.io/favicon.png" length="24598" type="image/png"/>
 		<pubDate>Tue, 24 Mar 2015 16:23:00 -0500</pubDate>
 		<guid isPermaLink="false">2015-03-24-0</guid>
 	</item>
