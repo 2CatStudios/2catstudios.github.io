@@ -2,9 +2,14 @@
 <rss version="2.0">
 
 <channel>
-  <title>2Cat Studios News+Blog</title>
-  <link>http://2catstudios.github.io/news+blog.html</link>
-  <description>Latest news from 2Cat Studios</description>
+	<title>2Cat Studios News+Blog</title>
+	<link>http://2catstudios.github.io/news+blog.html</link>
+	<description>Latest news from 2Cat Studios</description>
+	<image>
+    	<url>http://2catstudios.github.io/favicon.png</url>
+    	<title>2Cat Studios Logo</title>
+    	<link>http://2catstudios.github.io</link>
+	</image>
 	
   <item>
     <title>Notice of Upcoming Service Disruption</title>
