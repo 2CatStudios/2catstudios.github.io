@@ -137,9 +137,7 @@ a {
   -ms-transition: text-shadow 0.5s ease;
 }
 
-color:red {
-    color: FF0000;
-}
+
 
 a:hover, a:focus { text-decoration: underline; }
 a:target { display: block; position: relative; top: -125px; visibility: hidden; }
