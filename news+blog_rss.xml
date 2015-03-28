@@ -14,7 +14,7 @@
     	<link>http://2catstudios.github.io/news+blog.html</link>
 	</image>-->
 	
-	<item>
+	<!--<item>
             <title>Battery Diag - Free download available for every Mac</title>
             <link>https://itunes.apple.com/app/battery-diag/id836505650?ls=1&amp;mt=12&amp;at=11lwtR&amp;ct=rss_BD_update</link>
             <pubDate> Tue, 17 Mar 2015 16:20:00 GMT</pubDate>
@@ -39,14 +39,14 @@
                     
                 ]]>
             </content:encoded>
-        </item>
+        </item>-->
 
 	
 	<item>
 		<title>Notice of Upcoming Service Disruption</title>
 		<link>http://2catstudios.github.io/news+blog.html#2015-03-24-0</link>
 		<description>Notice of Upcoming Service Disruption</description>
-		<content:encoded><![CDATA[<img src="http://2catstudios.github.io/favicon.png"  alt="" width="196" height="196"/>
+		<content:encoded><![CDATA[<img src="http://2catstudios.github.io/images/SquareKitty.png"/>
 
 					<h3>Tuesday, March 24, 2015</h3>
 					
