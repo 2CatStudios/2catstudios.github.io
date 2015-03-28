@@ -18,7 +18,7 @@
 		<title>RSS and News+Blog Update</title>
 		<link>http://2catstudios.github.io/news+blog.html#2015-03-28-0</link>
 		<description>Since you're reading this, perhaps you've already seen the updated News+Blog page? If not, what do you think of the RSS?</description>
-		<content:encoded><h3>Saturday, March 28, 2015</h3>
+		<content:encoded><![CDATA[<h3>Saturday, March 28, 2015</h3>
 					
 					<p>RSS and News+Blog Update</p>
 					
@@ -30,9 +30,9 @@
 					
 					<p>Finally, just a quick update on the progress of our other projects, and the general state of things. We are working hard on the, as-of-yet, unannounced "Secret Project", and will have some fresh details on that soon. There will probably still be some service disruptions in the coming days, as we do more work on the website. Due to the issues mentioned in the last post, we're working on hosting files locally, further freeing us (and you) from third-party "middle-men", and creating less oppertunities for data to be lost or stolen. Do note that we don't collect cookies, nor do we actually store any information about you, nor your visit. There will probably be a post in the near future, which better outlines our privacy policy, and a page dedicated to that shortly after. In the mean time, know that we don't even gather information, and do all we can to limit what third parties do.</p>
 					
-					<h5>Michael, 2Cat Studios</h5></content:encoded>
+					<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Sat, 28 Mar 2015 18:00:00 -0500</pubDate>
-		<guid isPermaLink="false">2015-03-28-0</guid>
+		<guid isPermaLink="false">2015-03-28-1</guid>
 	</item>
 	
 	<item>
