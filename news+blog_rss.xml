@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 <channel>
 	<title>2Cat Studios News+Blog</title>
@@ -17,7 +17,7 @@
 	<item>
 		<title>Notice of Upcoming Service Disruption</title>
 		<link>http://2catstudios.github.io/news+blog.html#2015-03-24-0</link>
-		<description>Just a heads up; the web server we use for application distribution is changing it's service methods on April 2. Unfortunately, this change makes further use of their service economically unviable for us. Therefore, we will be experimenting with alternative hosting solutions, hopefully without much noticable affect. If, however, there are some periods of unavailability between now and April 2, don't fret!</description>
+		<description>Notice of Upcoming Service Disruption</description>
 		<content:encoded><![CDATA[<h3>Tuesday, March 24, 2015</h3>
 					
 					<p>Notice of Upcoming Service Disruption</p>
