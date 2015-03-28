@@ -8,39 +8,11 @@
 	<language>en-us</language>
 	<webMaster>gibsonbethke@gmail.com (Michael Bethke)</webMaster>
 	<atom:link href="http://2catstudios.github.io/news+blog_rss.xml" rel="self" type="application/rss+xml"/>
-	<!--<image>
-    	<url>http://2catstudios.github.io/favicon.png</url>
+	<image>
+    	<url>http://2catstudios.github.io/images/SquareKitty.png</url>
     	<title>2Cat Studios News+Blog</title>
     	<link>http://2catstudios.github.io/news+blog.html</link>
-	</image>-->
-	
-	<!--<item>
-            <title>Battery Diag - Free download available for every Mac</title>
-            <link>https://itunes.apple.com/app/battery-diag/id836505650?ls=1&amp;mt=12&amp;at=11lwtR&amp;ct=rss_BD_update</link>
-            <pubDate> Tue, 17 Mar 2015 16:20:00 GMT</pubDate>
-            <guid isPermaLink="false">http://rockysandstudio.com/rss/battery-diag-update.html</guid>
-            <description>
-                Battery Diag - Free download available for all popular OS X releases
-            </description>
-            <content:encoded>
-                <![CDATA[
-                    <center>
-                    <p><a href="https://itunes.apple.com/app/battery-diag/id836505650?ls=1&mt=12&at=11lwtR&ct=rss_BD_update"><img src="http://www.rockysandstudio.com/rss/images/battery_diag_banner.png"/></a>
-                    </p>
-                    <p><b>Battery Diag - Beautiful Battery Information</b></p>
-                    <p>"Does the job well, and with an attractive interface." - <i>Macworld</i></p>
-                    <p>"Helps you to keep an eye on your laptop battery." - <i>TUAW</i></p>
-                    <p>"Looks great and provides useful information about the battery" - <i>lifehacker</i></p>
-                    <p>
-                    The <b>No.1 Battery Monitor</b> is now available for OS X <b>10.7</b> (Lion), <b>10.8</b> (Mountain Lion), <b>10.9</b> (Mavericks) and <b>10.10</b> (Yosemite)</p>
-                    <p><a href="https://itunes.apple.com/app/battery-diag/id836505650?ls=1&mt=12&at=11lwtR&ct=rss_BD_update" target="_blank"><img src="http://www.rockysandstudio.com/rss/images/mas_download.svg" alt="Download on the Mac App Store"/></a><br/>
-                    <a href="https://itunes.apple.com/app/battery-diag/id836505650?ls=1&mt=12&at=11lwtR&ct=rss_BD_update" target="_blank">Free download for a limited time only</a></p>
-                    </center>
-                    
-                ]]>
-            </content:encoded>
-        </item>-->
-
+	</image>
 	
 	<item>
 		<title>Notice of Upcoming Service Disruption</title>
@@ -55,7 +27,6 @@
 					<p>Just a heads up; the web server we use for application distribution is changing it's service methods on April 2. Unfortunately, this change makes further use of their service economically unviable for us. Therefore, we will be experimenting with alternative hosting solutions, hopefully without much noticable affect. If, however, there are some periods of unavailability between now and April 2, don't fret!</p>
 					
 					<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
-		<!--<enclosure url="http://2catstudios.github.io/favicon.png" length="24598" type="image/png"/>-->
 		<pubDate>Tue, 24 Mar 2015 16:23:00 -0500</pubDate>
 		<guid isPermaLink="false">2015-03-24-0</guid>
 	</item>
@@ -396,4 +367,37 @@
 		<pubDate>Mon, 01 Jan 2015 00:00:00 -0500</pubDate>
 		<guid isPermaLink="false"></guid>
 	</item>
+-->
+
+<!--
+<enclosure url="http://2catstudios.github.io/favicon.png" length="24598" type="image/png"/>
+-->
+
+<!--
+	<item>
+            <title>Battery Diag - Free download available for every Mac</title>
+            <link>https://itunes.apple.com/app/battery-diag/id836505650?ls=1&amp;mt=12&amp;at=11lwtR&amp;ct=rss_BD_update</link>
+            <pubDate> Tue, 17 Mar 2015 16:20:00 GMT</pubDate>
+            <guid isPermaLink="false">http://rockysandstudio.com/rss/battery-diag-update.html</guid>
+            <description>
+                Battery Diag - Free download available for all popular OS X releases
+            </description>
+            <content:encoded>
+                <![CDATA[
+                    <center>
+                    <p><a href="https://itunes.apple.com/app/battery-diag/id836505650?ls=1&mt=12&at=11lwtR&ct=rss_BD_update"><img src="http://www.rockysandstudio.com/rss/images/battery_diag_banner.png"/></a>
+                    </p>
+                    <p><b>Battery Diag - Beautiful Battery Information</b></p>
+                    <p>"Does the job well, and with an attractive interface." - <i>Macworld</i></p>
+                    <p>"Helps you to keep an eye on your laptop battery." - <i>TUAW</i></p>
+                    <p>"Looks great and provides useful information about the battery" - <i>lifehacker</i></p>
+                    <p>
+                    The <b>No.1 Battery Monitor</b> is now available for OS X <b>10.7</b> (Lion), <b>10.8</b> (Mountain Lion), <b>10.9</b> (Mavericks) and <b>10.10</b> (Yosemite)</p>
+                    <p><a href="https://itunes.apple.com/app/battery-diag/id836505650?ls=1&mt=12&at=11lwtR&ct=rss_BD_update" target="_blank"><img src="http://www.rockysandstudio.com/rss/images/mas_download.svg" alt="Download on the Mac App Store"/></a><br/>
+                    <a href="https://itunes.apple.com/app/battery-diag/id836505650?ls=1&mt=12&at=11lwtR&ct=rss_BD_update" target="_blank">Free download for a limited time only</a></p>
+                    </center>
+                    
+                ]]>
+            </content:encoded>
+        </item>
 -->
