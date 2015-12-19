@@ -184,7 +184,7 @@ img.displayed {
     border: none;
 }
 
-pre, code {
+code {
   width: 100%;
   color: #222;
   background-color: #fff;
@@ -198,10 +198,8 @@ pre, code {
 }
 
 pre {
-  width: 100%;
-  padding: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
-  overflow: auto;
+	width: auto;
+	white-space: pre-wrap;
 }
 
 code {
