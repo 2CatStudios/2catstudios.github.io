@@ -27,15 +27,6 @@
         <iframe name="index" src=/index.html id="iframe"></iframe>
         <section id="main_content" class="inner">
 			
-			<script type="text/javascript">
-				function hover(element) {
-    				element.setAttribute('src', '/images/about+us/AboutUs_Icon_JanHeemstra_Wizard.png');
-				}
-				function unhover(element) {
-    				element.setAttribute('src', '/images/about+us/AboutUs_Icon_JanHeemstra.png');
-				}
-			</script>
-			
 			<h1>&nbsp;Company</h1>
 			
 			<p style="text-align:justify; text-justify:inter-word">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2Cat Studios is a two <del>cat</del> man computer-software development team, writing code, and playing with yarn. They formed in 2012, although they were informally working together long before that. Their first major project, <a href="unitymusicplayer.html">UnityMusicPlayer</a>, has been in development since the inception of the studio, and has seen many changes and improvements over the years. It has garnished the attention of many indie-music artists from around the industry, and has greatly benefited from the suggestions of users and fans. 2Cat Studios is in active development on a few other projects, and their progress can be monitored on each respective project's page.</p>
@@ -54,13 +45,40 @@
                 <a href="/images/about+us/AboutUs_Square_MichaelBethke.jpg"><img class="leftImage" src="/images/about+us/AboutUs_Icon_MichaelBethke.png" alt="Michael Bethke" width="512" height="512"/></a>
             </block>
 			
+			<script type="text/javascript">
+				/*function hover(element) {
+    				element.next('img').setAttribute('src', '/images/about+us/AboutUs_Icon_JanHeemstra_Wizard.png');
+				}
+				function unhover(element) {
+    				element..next('img')setAttribute('src', '/images/about+us/AboutUs_Icon_JanHeemstra.png');
+				}*/
+				
+				/*function hover(element){
+					$element.next('img').attr("src","/images/about+us/AboutUs_Icon_JanHeemstra_Wizard.png");
+    			}
+    			function unhover(element){
+					$element.next('img').attr("src", "/images/about+us/AboutUs_Icon_JanHeemstra.png");             
+    			}*/
+				
+				function hover()
+				{
+					
+    				document.getElementById("jan").setAttribute('src', '/images/about+us/AboutUs_Icon_JanHeemstra_Wizard.png');
+				}
+				function unhover()
+				{
+					
+    				document.getElementById("jan").setAttribute('src', '/images/about+us/AboutUs_Icon_JanHeemstra.png');
+				}
+			</script>
+			
             <block>
                 <h2>Heemstra, Jan</h2>
-				<p style="text-align:justify; text-justify:inter-word">&nbsp;&nbsp;Hi, my name is Jan, and I make <a href="https://soundcloud.com/combustible-lemonade">music</a> and <a href="http://combustible-lemonade.itch.io/squared">videogames</a>. I like to use <a href="https://lmms.io">LMMS</a> and the <a href="http://godotengine.org/projects/godot-engine">Godot Engine</a> respectively for those things. I'm also a wizard.</p>
+				<p style="text-align:justify; text-justify:inter-word">&nbsp;&nbsp;Hi, my name is Jan, and I make <a href="https://soundcloud.com/combustible-lemonade">music</a> and <a href="http://combustible-lemonade.itch.io/squared">videogames</a>. I like to use <a href="https://lmms.io">LMMS</a> and the <a href="http://godotengine.org/projects/godot-engine">Godot Engine</a> respectively for those things. I'm also a <a onmouseover="hover();" onmouseout="unhover();">wizard</a>.</p>
                 <br>
 				<br>
 				<br>
-                <a href="/images/about+us/AboutUs_Square_Jan%20Heemstra.jpg"><img id="jan" class="rightImage" src="/images/about+us/AboutUs_Icon_JanHeemstra.png" alt="Jan Heemstra" width="512" height="512" onmouseover="hover(this);" onmouseout="unhover(this);"/></a>
+                <a href="/images/about+us/AboutUs_Square_Jan%20Heemstra.jpg"><img id="jan" class="rightImage" src="/images/about+us/AboutUs_Icon_JanHeemstra.png" alt="Jan Heemstra" width="512" height="512"/></a>
             </block>
         </section>
         <blockquote>If you want to confess your love, drop us an email at <a href="mailto:gibsonbethke@gmail.com?subject=I%20Love%20You!">
