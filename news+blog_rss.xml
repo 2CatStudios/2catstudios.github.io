@@ -13,6 +13,26 @@
     	<title>2Cat Studios News+Blog</title>
     	<link>http://2catstudios.github.io/news+blog.html</link>
 	</image>
+	
+	
+	<item>
+		<title>Privacy Policy</title>
+		<link>http://2catstudios.github.io/news+blog.html#2015-12-20-0</link>
+		<description>Deeply-concerned internet users, hello! Read on for some information about our privacy policy.</description>
+		<content:encoded><![CDATA[<h3>Sunday, December 20, 2015</h3>
+					
+					<p>Privacy Policy</p>
+					
+					<p>Deeply-concerned internet users, hello!</p>
+					
+					<p>This is just a quick update to inform you that our privacy policy can now be found on our <a href="about-us.html">About Us</a> page. The general gist is that we don't collect anything outselves, but use several third-party solutions that may, among which is Google Analytics. The information we do receive is used solely for improving user experience on this website – we do not give it to anyone.</p>
+					
+					<p>Also, we're not dead! I promise. Check back in a bit for exciting news!</p>
+					
+					<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+		<pubDate>Sun, 20 Dec 2015 23:43:00 -0500</pubDate>
+		<guid isPermaLink="false">2015-12-20-0</guid>
+	</item>
 
 	
 	<item>
@@ -37,7 +57,7 @@
 					
 					<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Wed, 29 Apr 2015 16:14:00 -0500</pubDate>
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">2015-04-29-0</guid>
 	</item>
 	
 	<item>
