@@ -19,6 +19,11 @@
             ga('send', 'pageview');
 
         </script>
+		<script type="text/javascript">
+			function sendEvent () {
+				ga('send', 'event', 'Zip', 'Download', 'UnityMusicPlayer OSX Download', {'nonInteraction': 1});
+			}
+		</script>
     </head>
 
   <body>
@@ -29,7 +34,7 @@
 			
 			<h2>Let us imPRESS our creativity on you (and pun-crafting skills).</h2>
 			
-			<a onclick="ga('send', 'event', 'Zip', 'Download', 'UnityMusicPlayer OSX Download', {'nonInteraction': 1});" href="downloads/UnityMusicPlayer%20%5BMac%5D.zip">Download UMP</a>
+			<a onclick="sendEvent();" href="downloads/UnityMusicPlayer%20%5BMac%5D.zip">Download UMP</a>
         </section>
 		<br>
         <blockquote>If you want to contact 2CatStudios, drop us an email at <a href="mailto:gibsonbethke@gmail.com?subject=Press%20Inquiry">
