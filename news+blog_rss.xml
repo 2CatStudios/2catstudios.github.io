@@ -7,7 +7,7 @@
 	<link>http://2catstudios.github.io/news+blog.html</link>
 	<description>Latest news from 2Cat Studios</description>
 	<language>en-US</language>
-	<lastBuildDate>Sun, 07 Feb 2016 12:58:00 CST</lastBuildDate>
+	<lastBuildDate>Sun, 07 Feb 2016 14:23:00 CST</lastBuildDate>
 	<webMaster>gibsonbethke@gmail.com (Michael Bethke)</webMaster>
 	<image>
     	<url>http://2catstudios.github.io/images/meta/SquareKitty.png</url>
@@ -28,7 +28,7 @@
                     
                     <p>First things first, however, the less-exciting news: we'll be updating our website over the coming week to be more portable. This is only the first step towards having a mobile-friendly website, however it will also have some (positive) impact on you; you'll soon see some minor changes as we update what images we can to a higher resolution (some old images of projects long-gone will remain as they are). This is to cater towards devices with "retina displays", or high-density monitors. As I said earlier, this is only the first update in a series of many that will ultimately push our website onto smaller screens.</p>
                     
-                    <p>You may have also noticed that our Privacy Policy was recently modified. Now, hold on, we have not silently professed to selling all of your private data to North Korea (we haven't, I sware!), we've actually taken steps to make your browsing data on our site more secure. As of Monday, February first, we no longer use CloudApp for download hosting. This may sound like a minor improvement, but CloudApp, as a service provider, also routes through Amazon's S3 web storage, and who knows what else. In an effort to simplify and keep better track of what we do with your data, we've completely transitioned to a more personal hosting-solution: namely, our website. In the interest of transparency, we would like to remind you that we're hosted, now both our website and files, by GitHub.</p>
+                    <p>You may have also noticed that our Privacy Policy was recently modified. Now, hold on, we have not silently professed to selling all of your private data to North Korea (we haven't, I swear!), we've actually taken steps to make your browsing data on our site more secure. As of Monday, February first, we no longer use CloudApp for download hosting. This may sound like a minor improvement, but CloudApp, as a service provider, also routes through Amazon's S3 web storage, and who knows what else. In an effort to simplify and keep better track of what we do with your data, we've completely transitioned to a more personal hosting-solution: namely, our website. In the interest of transparency, we would like to remind you that we're hosted, now both our website and files, by GitHub.</p>
                     
                     <p>Initially, CloudApp was chosen to allow for download tracking and user metrics, but as we've now finished integrating Google Analytics with our site, we no longer have a need for another third-party to keep track of user access to our content. What does this mean for you? Well, not much, unless you're into reading EULAs, in which case we've got bad news, since we now have one less for you to pretend you can understand.</p>
                     
@@ -39,8 +39,8 @@
                     <img src="/images/lightyear/teaser.png" alt="Teaser" width="986" height="350"/>
                     
                     <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
-		<pubDate>Sun, 07 Feb 2016 12:58:00 -0600</pubDate>
-		<guid isPermaLink="false">2016-02-07-1</guid>
+		<pubDate>Sun, 07 Feb 2016 14:23:00 -0600</pubDate>
+		<guid isPermaLink="false">2016-02-07-2</guid>
 	</item>
 
 
