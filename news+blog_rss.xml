@@ -36,7 +36,7 @@
                     
                     <p>Okay, I did promise a super exciting preview, now didn't I? It's about time, then, you've put up with enough. Also, keep in mind that we're deep into development on our next project, so while this preview is super exciting, it may yet be a while before we're ready to make another statement. Now, without further ado, please enjoy!</p>
                     
-                    <img src="/images/lightyear/teaser.png" alt="Teaser" width="986" height="350"/>
+                    <img src="http://2catstudios.github.io/images/lightyear/teaser.png" alt="Teaser" width="986" height="350"/>
                     
                     <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Sun, 07 Feb 2016 14:23:00 -0600</pubDate>
@@ -47,10 +47,8 @@
 	<item>
 		<title>This one New Game that Doctors don't want You to Know About</title>
 		<link>http://2catstudios.github.io/news+blog.html#2016-01-07-0</link>
-		<guid isPermaLink="false">2016-01-07-0</guid>
-
 		<description>Nineteen out of Twenty medical professionals agree that this one new game can cure mass cell-mutation, hair loss, and lazyness, although only one of those has been verified in lab tests. More details after the jump!</description>
-		<pubDate>Thu, 07 Jan 2016 00:80:00 CST</pubDate>
+		
 		<content:encoded><![CDATA[<h3>Thursday, January 07, 2016</h3>
 
             <p>This one New Game that Doctors don't want You to Know About</p>
@@ -62,6 +60,8 @@
             <p>Squared has been in development for something like twelve months, and was built with the <a href="http://godotengine.org">Godot engine</a>, so it's crossplatform, running on OS X, Linux, and Windows. Specific information can be found on it's <a href="http://combustible-lemonade.itch.io/squared">official site</a>, but we just wanted to give it a shout-out here, as it's worthy of recognition. Development is ongoing, so please report any bugs or feature requests on the <a href="https://github.com/CombustibleLemonade/Squared">GitHub page</a>. We reached out to Jan for a statement about his new game, and this is what he had to say: <i>I MADE GAME. BUY NAO 4 FREE!</i>.</p>
             
             <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+        <pubDate>Thu, 07 Jan 2016 00:80:00 CST</pubDate>
+        <guid isPermaLink="false">2016-01-07-0</guid>
 	</item>
 
 
