@@ -40,6 +40,15 @@ footer, header, hgroup, menu, nav, section {
   display:block;
 }
 
+article:before {
+    
+    display: block;
+    content: " ";
+    margin-top: -80px;
+    height: 79px;
+    visibility: hidden;
+}
+
 ol, ul {
   list-style:none;
 }
