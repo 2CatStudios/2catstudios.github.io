@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?> 
+<?xml version="1.0" encoding="utf-8" ?>
 
 <Songs>
 	<Song featured='false'>
@@ -13,7 +13,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>You Are Like Me</name>
 		<album>Act Of Love-You Are Like Me</album>
@@ -26,7 +26,7 @@
         <largeArtworkURL>https://copy.com/HSwj0jWpMyzs</largeArtworkURL>
         <smallArtworkURL>https://copy.com/cbByLo1HGrby</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='true'>
 		<name>Valley of the Shadows</name>
 		<album>Physics</album>
@@ -39,7 +39,7 @@
         <largeArtworkURL>https://copy.com/xJmiHZbF8Z1r</largeArtworkURL>
         <smallArtworkURL>https://copy.com/2etcRfhvIItF</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>River (ft. Tim Bonvallet)</name>
 		<album>SUNDISK</album>
@@ -52,7 +52,7 @@
         <largeArtworkURL>https://copy.com/93Xrnkugjcbn</largeArtworkURL>
         <smallArtworkURL>https://copy.com/aYo4bx6XrVYV</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Pacific</name>
 		<album>SUNDISK</album>
@@ -65,7 +65,7 @@
         <largeArtworkURL>https://copy.com/93Xrnkugjcbn</largeArtworkURL>
         <smallArtworkURL>https://copy.com/aYo4bx6XrVYV</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Classic Tetris</name>
 		<album>UMP Exclusive</album>
@@ -77,7 +77,7 @@
         <largeArtworkURL></largeArtworkURL>
         <smallArtworkURL></smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Epic Classic</name>
 		<album>UMP Exclusive</album>
@@ -89,7 +89,7 @@
         <largeArtworkURL></largeArtworkURL>
         <smallArtworkURL></smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Blended</name>
 		<album>it burns</album>
@@ -102,7 +102,7 @@
         <largeArtworkURL>https://copy.com/XYKr3N7Axplv</largeArtworkURL>
         <smallArtworkURL>https://copy.com/NUxxnHATLD28</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Quantum Realm</name>
 		<album>it burns</album>
@@ -115,7 +115,7 @@
         <largeArtworkURL>https://copy.com/XYKr3N7Axplv</largeArtworkURL>
         <smallArtworkURL>https://copy.com/NUxxnHATLD28</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Ghosts</name>
 		<album>it burns</album>
@@ -127,7 +127,7 @@
         <largeArtworkURL>https://copy.com/XYKr3N7Axplv</largeArtworkURL>
         <smallArtworkURL>https://copy.com/NUxxnHATLD28</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>End of the World</name>
 		<album>it burns</album>
@@ -140,7 +140,7 @@
         <largeArtworkURL>https://copy.com/XYKr3N7Axplv</largeArtworkURL>
         <smallArtworkURL>https://copy.com/NUxxnHATLD28</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>The Future of our Past</name>
 		<album>Darkest Mornings - Brightest Nights</album>
@@ -150,10 +150,10 @@
         <downloadURL>https://copy.com/boL2ep7zO2pC</downloadURL>
 		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>December 31, 2012</releaseDate>
-        <largeArtworkURL>https://copy.com/rsuVkswaBtrT</largeArtworkURL>
-        <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Joking</name>
 		<album>UMP Exclusive</album>
@@ -166,7 +166,7 @@
         <largeArtworkURL></largeArtworkURL>
         <smallArtworkURL></smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Koi</name>
 		<album>UMP Exclusive</album>
@@ -179,7 +179,7 @@
         <largeArtworkURL></largeArtworkURL>
         <smallArtworkURL></smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Catastrophic</name>
 		<album>Synergy EP</album>
@@ -192,7 +192,7 @@
         <largeArtworkURL>https://copy.com/sm8mKBwYNhWS</largeArtworkURL>
         <smallArtworkURL>https://copy.com/d4llPHke9z00</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Liquid Sunshine</name>
 		<album>Synergy EP</album>
@@ -205,7 +205,7 @@
         <largeArtworkURL>https://copy.com/sm8mKBwYNhWS</largeArtworkURL>
         <smallArtworkURL>https://copy.com/d4llPHke9z00</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Vibrance</name>
 		<album>Synergy EP</album>
@@ -218,7 +218,7 @@
         <largeArtworkURL>https://copy.com/sm8mKBwYNhWS</largeArtworkURL>
         <smallArtworkURL>https://copy.com/d4llPHke9z00</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Background Sounds</name>
 		<album>Darkest Mornings - Brightest Nights</album>
@@ -228,10 +228,10 @@
         <downloadURL>https://copy.com/d9wCOBeylhE8</downloadURL>
 		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>April 28, 2013</releaseDate>
-        <largeArtworkURL>https://copy.com/rsuVkswaBtrT</largeArtworkURL>
-        <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Space Invaders</name>
 		<album>UMP Exclusive</album>
@@ -244,7 +244,7 @@
         <largeArtworkURL>https://copy.com/v7rTG0K80lEE</largeArtworkURL>
         <smallArtworkURL>https://copy.com/0pxAEsgqfOmf</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Fractal</name>
 		<album>Fractal - Single</album>
@@ -269,7 +269,7 @@
         <largeArtworkURL>https://copy.com/cbjvbjGwW6gB</largeArtworkURL>
         <smallArtworkURL>https://copy.com/IZ3UQgL0uawn</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>15 Inventions a 2 Voix IV</name>
 		<album>UMP Exclusive</album>
@@ -281,7 +281,7 @@
         <largeArtworkURL></largeArtworkURL>
         <smallArtworkURL></smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Time</name>
 		<album>Darkest Mornings - Brightest Nights</album>
@@ -291,23 +291,23 @@
         <downloadURL>https://copy.com/r9H64y2DVhc3</downloadURL>
 		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>June 4, 2013</releaseDate>
-        <largeArtworkURL>https://copy.com/rsuVkswaBtrT</largeArtworkURL>
-        <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Darkest</name>
 		<album>Darkest Mornings - Brightest Nights</album>
 		<artist>BlackTie Vivid</artist>
 		<genre>Ambient</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/h4lttoRC2tuh</downloadURL>
+        <downloadURL>https://github.com/2CatStudios/2catstudios.github.io/raw/master/UnityMusicPlayer/Downloads/Audio/BlackTie%20Vivid%20-%20Darkest%20Mornings%20_%20Brightest%20Nights%20-%20Darkest.wav</downloadURL>
 		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>June 1, 2013</releaseDate>
-        <largeArtworkURL>https://copy.com/rsuVkswaBtrT</largeArtworkURL>
-        <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>01 Lost on Airport</name>
 		<album>Lost on Airport-Flight</album>
@@ -320,7 +320,7 @@
         <largeArtworkURL>https://copy.com/aNjvvWR2ZbLO</largeArtworkURL>
         <smallArtworkURL>https://copy.com/A1arKTQW0Pbq</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>02 Flight</name>
 		<album>Lost on Airport-Flight</album>
@@ -333,7 +333,7 @@
         <largeArtworkURL>https://copy.com/aNjvvWR2ZbLO</largeArtworkURL>
         <smallArtworkURL>https://copy.com/A1arKTQW0Pbq</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Lume</name>
 		<album>Lume - Single</album>
@@ -347,7 +347,7 @@
         <largeArtworkURL>https://copy.com/DqGh49WwaI6b</largeArtworkURL>
         <smallArtworkURL>https://copy.com/x2uOMA6W8qP8</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Brightest</name>
 		<album>Darkest Mornings - Brightest Nights</album>
@@ -357,10 +357,10 @@
         <downloadURL>https://copy.com/dGfLj68VeTdB</downloadURL>
 		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>September 2, 2013</releaseDate>
-        <largeArtworkURL>https://copy.com/rsuVkswaBtrT</largeArtworkURL>
-        <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
 	</Song>
-    
+
     <Song featured='false'>
 		<name>Rhapsody on Linux</name>
 		<album>it burns</album>
@@ -372,7 +372,7 @@
         <largeArtworkURL>https://copy.com/XYKr3N7Axplv</largeArtworkURL>
         <smallArtworkURL>https://copy.com/NUxxnHATLD28</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Paradoxical</name>
 		<album>Darkest Mornings - Brightest Nights</album>
@@ -382,10 +382,10 @@
         <downloadURL>https://copy.com/hG1JgRWJL9Mt</downloadURL>
 		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>January 2, 2014</releaseDate>
-        <largeArtworkURL>https://copy.com/rsuVkswaBtrT</largeArtworkURL>
-        <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Seaside</name>
 		<album>Synergy EP</album>
@@ -398,7 +398,7 @@
         <largeArtworkURL>https://copy.com/sm8mKBwYNhWS</largeArtworkURL>
         <smallArtworkURL>https://copy.com/d4llPHke9z00</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Sonar</name>
 		<album>Synergy EP</album>
@@ -411,7 +411,7 @@
         <largeArtworkURL>https://copy.com/sm8mKBwYNhWS</largeArtworkURL>
         <smallArtworkURL>https://copy.com/d4llPHke9z00</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Dinolazor Fluxcar</name>
 		<album>Synergy EP</album>
@@ -424,7 +424,7 @@
         <largeArtworkURL>https://copy.com/sm8mKBwYNhWS</largeArtworkURL>
         <smallArtworkURL>https://copy.com/d4llPHke9z00</smallArtworkURL>
 	</Song>
-    
+
     <Song featured='false'>
 		<name>One More</name>
 		<album>Reality - EP</album>
@@ -437,7 +437,7 @@
         <largeArtworkURL>https://copy.com/kfcLTVT7qxff</largeArtworkURL>
         <smallArtworkURL>https://copy.com/KTOcPZpbG71Y</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Reality</name>
 		<album>Reality - EP</album>
@@ -450,7 +450,7 @@
         <largeArtworkURL>https://copy.com/kfcLTVT7qxff</largeArtworkURL>
         <smallArtworkURL>https://copy.com/KTOcPZpbG71Y</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Blue</name>
 		<album>Reality - EP</album>
@@ -463,7 +463,7 @@
         <largeArtworkURL>https://copy.com/kfcLTVT7qxff</largeArtworkURL>
         <smallArtworkURL>https://copy.com/KTOcPZpbG71Y</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Soar</name>
 		<album>Reality - EP</album>
@@ -476,7 +476,7 @@
         <largeArtworkURL>https://copy.com/kfcLTVT7qxff</largeArtworkURL>
         <smallArtworkURL>https://copy.com/KTOcPZpbG71Y</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Starlight (Greippi's mix)</name>
 		<album>Starlight</album>
@@ -489,7 +489,7 @@
         <largeArtworkURL>https://copy.com/rbVKUwnTAetI</largeArtworkURL>
         <smallArtworkURL>https://copy.com/ynNHY1VCWOEu</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Starlight (Raptor Remix)</name>
 		<album>Starlight</album>
@@ -502,7 +502,7 @@
         <largeArtworkURL>https://copy.com/rbVKUwnTAetI</largeArtworkURL>
         <smallArtworkURL>https://copy.com/ynNHY1VCWOEu</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Starlight (Ten of Eleven Remix)</name>
 		<album>Starlight</album>
@@ -515,7 +515,7 @@
         <largeArtworkURL>https://copy.com/rbVKUwnTAetI</largeArtworkURL>
         <smallArtworkURL>https://copy.com/ynNHY1VCWOEu</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='true'>
 		<name>Starlight (Umcaruje's wreck the dancehall mix)</name>
 		<album>Starlight</album>
@@ -528,7 +528,7 @@
         <largeArtworkURL>https://copy.com/rbVKUwnTAetI</largeArtworkURL>
         <smallArtworkURL>https://copy.com/ynNHY1VCWOEu</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Starlight</name>
 		<album>Starlight</album>
@@ -541,7 +541,7 @@
         <largeArtworkURL>https://copy.com/rbVKUwnTAetI</largeArtworkURL>
         <smallArtworkURL>https://copy.com/ynNHY1VCWOEu</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Artic Dream</name>
 		<album>Silent Room</album>
@@ -554,7 +554,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Club Mix 2011</name>
 		<album>Silent Room</album>
@@ -567,7 +567,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Eletectronica</name>
 		<album>Silent Room</album>
@@ -580,7 +580,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Fairy</name>
 		<album>Silent Room</album>
@@ -593,7 +593,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Falling</name>
 		<album>Silent Room</album>
@@ -606,7 +606,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Into your world Remix</name>
 		<album>Silent Room</album>
@@ -619,7 +619,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Lapis Blue (Purify Remix)</name>
 		<album>Silent Room</album>
@@ -632,7 +632,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
     <Song featured='false'>
 		<name>Love (Purify Remix)</name>
 		<album>Silent Room</album>
@@ -645,7 +645,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Moon</name>
 		<album>Silent Room</album>
@@ -658,7 +658,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Natural</name>
 		<album>Silent Room</album>
@@ -671,7 +671,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Perfect Story</name>
 		<album>Silent Room</album>
@@ -684,7 +684,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Sample</name>
 		<album>Silent Room</album>
@@ -697,7 +697,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Silence [Summer Club Mix 2012]</name>
 		<album>Silent Room</album>
@@ -710,7 +710,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Silent Shore</name>
 		<album>Silent Room</album>
@@ -723,7 +723,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Stevia</name>
 		<album>Silent Room</album>
@@ -736,7 +736,7 @@
         <smallArtworkURL>https://copy.com/VNkgncQtJ1QF</smallArtworkURL>
         <largeArtworkURL>https://copy.com/IirTDqQBtcaq</largeArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Choices</name>
 		<album>Doorways EP</album>
@@ -751,7 +751,7 @@
         <largeArtworkURL>https://copy.com/RueF0B9AjaS1</largeArtworkURL>
         <smallArtworkURL>https://copy.com/U8qgTb2WvsNm</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Essence</name>
 		<album>Doorways EP</album>
@@ -766,7 +766,7 @@
         <largeArtworkURL>https://copy.com/RueF0B9AjaS1</largeArtworkURL>
         <smallArtworkURL>https://copy.com/U8qgTb2WvsNm</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Regret</name>
 		<album>Doorways EP</album>
@@ -781,7 +781,7 @@
         <largeArtworkURL>https://copy.com/RueF0B9AjaS1</largeArtworkURL>
         <smallArtworkURL>https://copy.com/U8qgTb2WvsNm</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Unknown</name>
 		<album>Doorways EP</album>
@@ -796,7 +796,7 @@
         <largeArtworkURL>https://copy.com/RueF0B9AjaS1</largeArtworkURL>
         <smallArtworkURL>https://copy.com/U8qgTb2WvsNm</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Solar Eclipse</name>
 		<album>Solar Eclipse - Single</album>
@@ -809,7 +809,7 @@
         <largeArtworkURL>https://copy.com/t74l8EjagCRE</largeArtworkURL>
         <smallArtworkURL>https://copy.com/GLr66ZnZAqVO</smallArtworkURL>
 	</Song>
-    
+
 	<Song featured='false'>
 		<name>Act Of Love</name>
 		<album>Act Of Love-You Are Like Me</album>
@@ -833,7 +833,7 @@
         <downloadURL>https://copy.com/BkMDSNLYMOdh</downloadURL>
 		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>September 08, 2014</releaseDate>
-        <largeArtworkURL>https://copy.com/rsuVkswaBtrT</largeArtworkURL>
-        <smallArtworkURL>https://copy.com/l4ARwnmhSjRf</smallArtworkURL>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
 	</Song>
 </Songs>
