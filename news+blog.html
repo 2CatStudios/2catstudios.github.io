@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link href="/favicon.png" rel="apple-touch-icon">
-        
+
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
         <title>2CatStudios // News+Blog</title>
@@ -19,7 +19,7 @@
             {
                 window.location.href = loc.replace('http://','https://');
             }
-            
+
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
                 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -52,33 +52,54 @@
 
 			<script src="javascripts/currentDate.js"></script>
 			<script type="text/javascript">document.getElementById("date").innerHTML = currentDate();</script>
-            
+
             <p style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; font-size:170px; text-align:center; margin-bottom:0px">2Cat Studios</p>
             <p style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; font-size:128px; text-align:center; margin-top:0px">News+Blog</p>
 
 			<a href="/news+blog_rss.xml" onclick="ga('send', 'event', 'Link', 'Click', 'News+Blog RSS Subscribe', {nonInteraction: true});"><img style="vertical-align:middle" src="/images/third-party/drifty/social-rss.svg" alt="" width="32" height="32"/>Subscribe via RSS</a>
 			<br>
-            
+
+            <article id="2016-03-02-0">
+                <blockquote>
+                    <h3><a href="news+blog.html#2016-03-02-0">Wednesday, March 02, 2016</a></h3>
+                    <p>More Important Things You Should Know</p>
+
+                    <p>Alright, sorry readers, but there's a lot to get through, so we've got no time for jokes today. This'll be quick-fire, too. Ready? Go!</p>
+
+                    <p>We switched all of our icons to svg (basically a vector image), which can scale to any resolution. This will allow, as was mentioned in the last post, mobile devices to more quickly load pages, and no matter your resolution, the icons will look crystal clear. We will continue to format our site for smaller displays, and next we'll be reviewing the actual site size itself.</p>
+                    
+                    <p>Second, the whole site is now set to use HTTPS, and all non-secure requests will be immediately redirected. However, due to our current host, we cannot redirect HTTP requests before content is sent. Basically, this just means that if you access our site via HTTP, you will load whatever resource you're requesting, then be redirected to an HTTPS version. You shouldn't be particularly concerned about this, as we don't transfer any confidential information through this host, but just be aware that unless you update your bookmark (as you do, of course, have 2CatStudios bookmarked), you'll be making an unnecessary load.</p>
+                    
+                    <p>Third, the service which is currently hosting UMP music and artwork files (the OMB backend) will be discontinuing it's service on May 1st, 2016. We're looking into alternative hosting methods, and in keeping with our mission of consolidation, are considering our website host, so you'd have one less partner to worry about. Thankfully, we have enough time to fully review our options and make a transition before the servers will be shut off, but there is a slight chance that, somewhere in the changeover, a brief interruption of service may occur. We are aware that thousands, if not millions, of you rely on UnityMusicPLayer to get through the day, and we will take every precaution to ensure that this will be a smooth and discrete process.</p>
+                    
+                    <p>Fourth, I ran the News+Blog through a spell-check recently. I'm so sorry. I've corrected everything I could find on the website, but I won't push any new updates to the RSS feed (to avoid spamming our dearest friends). If it really matters to you, unsubscribing, clearing your cache, then resubscribing (that's the important part) should fetch all of the latest spelling-error-free articles.</p>
+                    
+                    <p>Finally, we want to apologize for the delay in announcing our next project. Just know that we are working hard, and are more excited than anyone to show off our latest work. Although we're still a ways from release, more information should be ready soon. 'Soon', huh?</p>
+                    
+                    <h5>Michael, 2Cat Studios</h5>
+                </blockquote>
+            </article>
+
             <article id="2016-02-07-0">
                 <blockquote>
                     <h3><a href="news+blog.html#2016-02-07-0">Sunday, February 07, 2016</a></h3>
-                    
+
                     <p>Many Site-Wide Updates, and a Teaser</p>
-                    
+
                     <p>Hello friends, we've got some site-update news to share with you, and then a super exciting preview!</p>
-                    
+
                     <p>First things first, however, the less-exciting news: we'll be updating our website over the coming week to be more portable. This is only the first step towards having a mobile-friendly website, however it will also have some (positive) impact on you; you'll soon see some minor changes as we update what images we can to a higher resolution (some old images of projects long-gone will remain as they are). This is to cater towards devices with "retina displays", or high-density monitors. As I said earlier, this is only the first update in a series of many that will ultimately push our website onto smaller screens.</p>
-                    
+
                     <p>You may have also noticed that our <a href="about-us.html#privacypolicy">Privacy Policy</a> was recently modified. Now, hold on, we have not silently professed to selling all of your private data to North Korea (we haven't, I swear!), we've actually taken steps to make your browsing data on our site more secure. As of Monday, February first, we no longer use CloudApp for download hosting. This may sound like a minor improvement, but CloudApp, as a service provider, also routes through Amazon's S3 web storage, and who knows what else. In an effort to simplify and keep better track of what we do with your data, we've completely transitioned to a more personal hosting-solution: namely, our website. In the interest of transparency, we would like to remind you that we're hosted, now both our website and files, by GitHub.</p>
-                    
+
                     <p>Initially, CloudApp was chosen to allow for download tracking and user metrics, but as we've now finished integrating Google Analytics with our site, we no longer have a need for another third-party to keep track of user access to our content. What does this mean for you? Well, not much, unless you're into reading EULAs, in which case we've got bad news, since we now have one less for you to pretend you can understand.</p>
-                    
+
                     <p>Also, please note that while we are removing one third party from your experience on our site, we are not adding another; the download tracking that now takes place through Google Analytics is not another entity, it is the same service that we (and most sites on the internet) use to track which of our links you click, how long you spend admiring our website, and now which of our files you download. We encourage you to take a peek at our <a href="about-us.html#privacypolicy">Privacy Policy</a> if you'd like to know more, and click through Google Analytics' policy to see how Google handles your data.</p>
-                    
+
                     <p>Okay, I did promise a super exciting preview, now didn't I? It's about time, then, you've put up with enough. Also, keep in mind that we're deep into development on our next project, so while this preview is super exciting, it may yet be a while before we're ready to make another statement. Now, without further ado, please enjoy!</p>
-                    
+
                     <img src="/images/lightyear/teaser.png" alt="Teaser" width="986" height="350"/>
-                    
+
                     <h5>Michael, 2Cat Studios</h5>
                 </blockquote>
             </article>
@@ -89,7 +110,7 @@
 
                     <p>This one New Game that Doctors don't want You to Know About</p>
 
-                    <p>Nineteen out of Twenty medical professionals agree that this one new game can cure mass cell-mutation, hair loss, and lazyness, although only one of those has been verified in lab tests. Either way, the impact that this incredible new video game could have on the medical industry is staggering, hence the secrecy by doctors. Never fear, however, we're going to risk everything to unveil the truth, for only $19.99!</p>
+                    <p>Nineteen out of Twenty medical professionals agree that this one new game can cure mass cell-mutation, hair loss, and laziness, although only one of those has been verified in lab tests. Either way, the impact that this incredible new video game could have on the medical industry is staggering, hence the secrecy by doctors. Never fear, however, we're going to risk everything to unveil the truth, for only $19.99!</p>
 
                     <p>Okay, not really. We are, however, excited to officially endorse <a href="http://combustible-lemonade.itch.io/squared">Squared</a>, the new 2D puzzle game from Jan Heemstra. As a clever twist on the traditional Tetris-style puzzle, Squared forces players to not only make quick decisions, but build the shapes, too. It's a very cool game, and has made our holiday break a bit more enjoyable.</p>
 
@@ -107,7 +128,7 @@
 
 					<p>I will have to say it at some point, so I might as well get this out of the way; happy new year! However, unlike the previous new year posts (which can now easily be found due to in-page linking; see <a href="/news+blog.html#2015-01-28-0">2015</a> and <a href="/news+blog.html#2014-01-02-0">2014</a>), this one isn't late! Actually, this is probably one of the only times that you'll find I've met a deadline. 2016 is looking bright!</p>
 
-					<p>Enough about this miracle of an on-time post, though, and on to the new year! What does 2CatStudios have in store? Well, like I mentioned in the last bulletin, we're almost ready to unveil our next big project. Like, seriously almost ready. Just wait a few weeks! You may also have noticed that our website has been the subject of some smaller changes recently. We've been making a lot of 'behind-the-scenes' modifications in preparation for some major updates that will roll out in the coming months. A seperate post will be made to outline the upcoming features for the site, but the general theme is more interaction; we want to be less abstracted from our audience (you), and seem less, to quote myself, 'far off in a magical cloud of development'. Hopefully we'll be great friends in no time!</p>
+					<p>Enough about this miracle of an on-time post, though, and on to the new year! What does 2CatStudios have in store? Well, like I mentioned in the last bulletin, we're almost ready to unveil our next big project. Like, seriously almost ready. Just wait a few weeks! You may also have noticed that our website has been the subject of some smaller changes recently. We've been making a lot of 'behind-the-scenes' modifications in preparation for some major updates that will roll out in the coming months. A separate post will be made to outline the upcoming features for the site, but the general theme is more interaction; we want to be less abstracted from our audience (you), and seem less, to quote myself, 'far off in a magical cloud of development'. Hopefully we'll be great friends in no time!</p>
 
 					<p>Hold on to your hats now, I can't think of a good segue for this next paragraph, so it's about to get rough.</p>
 
@@ -127,7 +148,7 @@
 
 					<p>Deeply-concerned internet users, hello!</p>
 
-					<p>This is just a quick update to inform you that our privacy policy can now be found on our <a href="about-us.html">About Us</a> page. The general gist is that we don't collect anything outselves, but use several third-party solutions that may, among which is Google Analytics. The information we do receive is used solely for improving user experience on this website – we do not give it to anyone.</p>
+					<p>This is just a quick update to inform you that our privacy policy can now be found on our <a href="about-us.html">About Us</a> page. The general gist is that we don't collect anything ourselves, but use several third-party solutions that may, among which is Google Analytics. The information we do receive is used solely for improving user experience on this website – we do not give it to anyone.</p>
 
 					<p>Also, we're not dead! I promise. Check back in a bit for exciting news!</p>
 
@@ -169,7 +190,7 @@
 
 					<p>The other major topic in this post is the addition of an RSS feed. With this update, you can keep up to date on all our progress, and access all previous News+Blog entries, entirely from your favourite RSS reader. If it makes any difference, know that we did make the RSS ourselves. You don't need to worry about being routed through any third-party services, or making an account on any other website. In a somewhat related way, we also have a lot more freedom over the actual RSS file, so if it's not working well with your reader-of-choice, let us know.</p>
 
-					<p>Finally, just a quick update on the progress of our other projects, and the general state of things. We are working hard on the, as-of-yet, unannounced "Secret Project", and will have some fresh details on that soon. There will probably still be some service disruptions in the coming days, as we do more work on the website. Due to the issues mentioned in the last post, we're working on hosting files locally, further freeing us (and you) from third-party "middle-men", and creating less oppertunities for data to be lost or stolen. Do note that we don't collect cookies, nor do we actually store any information about you, nor your visit. There will probably be a post in the near future, which better outlines our privacy policy, and a page dedicated to that shortly after. In the mean time, know that we don't even gather information, and do all we can to limit what third parties do.</p>
+					<p>Finally, just a quick update on the progress of our other projects, and the general state of things. We are working hard on the, as-of-yet, unannounced "Secret Project", and will have some fresh details on that soon. There will probably still be some service disruptions in the coming days, as we do more work on the website. Due to the issues mentioned in the last post, we're working on hosting files locally, further freeing us (and you) from third-party "middle-men", and creating less opportunities for data to be lost or stolen. Do note that we don't collect cookies, nor do we actually store any information about you, nor your visit. There will probably be a post in the near future, which better outlines our privacy policy, and a page dedicated to that shortly after. In the mean time, know that we don't even gather information, and do all we can to limit what third parties do.</p>
 
 					<h5>Michael, 2Cat Studios</h5>
 				</blockquote>
@@ -181,7 +202,7 @@
 
 					<p>Notice of Upcoming Service Disruption</p>
 
-					<p>Just a heads up; the web server we use for application distribution is changing it's service methods on April 2. Unfortunately, this change makes further use of their service economically unviable for us. Therefore, we will be experimenting with alternative hosting solutions, hopefully without much noticable affect. If, however, there are some periods of unavailability between now and April 2, don't fret!</p>
+					<p>Just a heads up; the web server we use for application distribution is changing it's service methods on April 2. Unfortunately, this change makes further use of their service economically unviable for us. Therefore, we will be experimenting with alternative hosting solutions, hopefully without many noticeable effects. If, however, there are some periods of unavailability between now and April 2, don't fret!</p>
 
 					<h5>Michael, 2Cat Studios</h5>
 				</blockquote>
@@ -195,7 +216,7 @@
 
 					<p>Hello all! Did you know that 2Cat Studios has more than one member? In fact, if I include myself, 2Cat Studios has a whopping total of two members! The more you know...</p>
 
-					<p>In all seriousness, my name is Jan, and I'm that "other guy" who never does anything. Exept perhaps write a blog post every now-and-again. But other than that, nothing at all. So uh... That's kind of everything I have to tell you. Just so you know, Michael isn't imagining things when he refers to us as "we". So um... Bye...</p>
+					<p>In all seriousness, my name is Jan, and I'm that "other guy" who never does anything. Except perhaps write a blog post every now-and-again. But other than that, nothing at all. So uh... That's kind of everything I have to tell you. Just so you know, Michael isn't imagining things when he refers to us as "we". So um... Bye...</p>
 
 					<h5>Jan, 2Cat Studios</h5>
 				</blockquote>
@@ -247,7 +268,7 @@
 
                 <p>Hello everyone, it's been a while, huh? Yeah, sorry about that. Please don't mistake our online absence as a true cause for concern- we've been fine! In fact, the entire 2Cat Studios team has been doing very well. Oh, what's that? <i>"Who are the 2Cat Studios team"?</i> Well, why don't you head on over to the (finally) finished <a href=/about-us.html>About Us</a> page? There you'll find out everything you need to know about the individuals behind the kitty-masks. Now all you stalking dreams can come true!</p>
 
-                <p>As far as development goes, all's well on the homefront, as they say. UnityMusicPlayer 1.25 has been released, which fixed many bugs, and boasted a new UI, which a lot of people have asked for. There are still many things we have planned for UMP, but we're shifting more resources to other projects. What that means for you, dear reader, is that while updates for your favorite audio player may come with less frequency, you'll be able to offset that sadness with pure video-game bliss.</p>
+                <p>As far as development goes, all's well on the home-front, as they say. UnityMusicPlayer 1.25 has been released, which fixed many bugs, and boasted a new UI, which a lot of people have asked for. There are still many things we have planned for UMP, but we're shifting more resources to other projects. What that means for you, dear reader, is that while updates for your favorite audio player may come with less frequency, you'll be able to offset that sadness with pure video-game bliss.</p>
 
                 <p>Yes, your assumption is correct. Our next major project release should be a game, of some description. Oh, don't worry, we do know what we're doing, we just can't share  too much information yet. And, that's for the better, as mystery creates intrigue; intrigue creates interest, and that's what we're going for. Don't forget to check back for more information, and please share our projects with your friends! Your feedback will help us create the greatest video-games ever, and when we take over the world, we'll make you governor.</p>
 
@@ -421,7 +442,7 @@
 
                 <p>Five months isn't too long in-between posts, is it? To be fair, there hasn't been much to write about- even now, I'm just saying the same thing over and over in hopes of taking up space. Don't get the wrong idea, though, we have been working! UnityMusicPlayer is coming along well, and version 1.0 should be releasing soon. We suffered a number of set-backs over the summer- some computers breaking and hard-drives failing- but you can be sure we back up our work more often now. Also, we have started two new projects, and we've very excited to show them off! Unfortunately, though, they're not quite ready. As soon as they're in a working and presentable state we'll let you know (and change the home-page. Seriously, what's up with it always staying the same?!).</p>
 
-                <p>Like the last post, this is mainly to let you know we're not dead. However, with the release of UMP 1.0 and two new projects on the horizon, you can expect to hear more from us soon. Until then, keep well, and don't loose your awesomeness!</p>
+                <p>Like the last post, this is mainly to let you know we're not dead. However, with the release of UMP 1.0 and two new projects on the horizon, you can expect to hear more from us soon. Until then, keep well, and don't lose your awesomeness!</p>
 
                 <h5>Michael, 2Cat Studios</h5>
             </blockquote>

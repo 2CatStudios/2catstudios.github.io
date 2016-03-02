@@ -2,23 +2,48 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
-	<atom:link href="http://2catstudios.github.io/news+blog_rss.xml" rel="self" type="application/rss+xml"/>
+	<atom:link href="https://2catstudios.github.io/news+blog_rss.xml" rel="self" type="application/rss+xml"/>
 	<title>2Cat Studios News+Blog</title>
-	<link>http://2catstudios.github.io/news+blog.html</link>
+	<link>https://2catstudios.github.io/news+blog.html</link>
 	<description>Latest news from 2Cat Studios</description>
 	<language>en-US</language>
 	<lastBuildDate>Sun, 07 Feb 2016 14:23:00 CST</lastBuildDate>
 	<webMaster>gibsonbethke@gmail.com (Michael Bethke)</webMaster>
 	<image>
-    	<url>http://2catstudios.github.io/images/meta/SquareKitty.png</url>
+    	<url>https://2catstudios.github.io/images/meta/SquareKitty.png</url>
     	<title>2Cat Studios News+Blog</title>
-    	<link>http://2catstudios.github.io/news+blog.html</link>
+    	<link>https://2catstudios.github.io/news+blog.html</link>
 	</image>
     
     
     <item>
+        <title>More Important Things You Should Know</title>
+        <link>https://2catstudios.github.io/news+blog.html#2016-03-02-0</link>
+        <description>Alright, sorry readers, but there's a lot to get through, so we've got no time for jokes today. This'll be quick-fire, too. Ready? Go!</description>
+        <content:encoded><![CDATA[<h3>Wednesday, March 02, 2016</h3>
+                    <p>More Important Things You Should Know</p>
+
+                    <p>Alright, sorry readers, but there's a lot to get through, so we've got no time for jokes today. This'll be quick-fire, too. Ready? Go!</p>
+
+                    <p>We switched all of our icons to svg (basically a vector image), which can scale to any resolution. This will allow, as was mentioned in the last post, mobile devices to more quickly load pages, and no matter your resolution, the icons will look crystal clear. We will continue to format our site for smaller displays, and next we'll be reviewing the actual site size itself.</p>
+                    
+                    <p>Second, the whole site is now set to use HTTPS, and all non-secure requests will be immediately redirected. However, due to our current host, we cannot redirect HTTP requests before content is sent. Basically, this just means that if you access our site via HTTP, you will load whatever resource you're requesting, then be redirected to an HTTPS version. You shouldn't be particularly concerned about this, as we don't transfer any confidential information through this host, but just be aware that unless you update your bookmark (as you do, of course, have 2CatStudios bookmarked), you'll be making an unnecessary load.</p>
+                    
+                    <p>Third, the service which is currently hosting UMP music and artwork files (the OMB backend) will be discontinuing it's service on May 1st, 2016. We're looking into alternative hosting methods, and in keeping with our mission of consolidation, are considering our website host, so you'd have one less partner to worry about. Thankfully, we have enough time to fully review our options and make a transition before the servers will be shut off, but there is a slight chance that, somewhere in the changeover, a brief interruption of service may occur. We are aware that thousands, if not millions, of you rely on UnityMusicPLayer to get through the day, and we will take every precaution to ensure that this will be a smooth and discrete process.</p>
+                    
+                    <p>Fourth, I ran the News+Blog through a spell-check recently. I'm so sorry. I've corrected everything I could find on the website, but I won't push any new updates to the RSS feed (to avoid spamming our dearest friends). If it really matters to you, unsubscribing, clearing your cache, then resubscribing (that's the important part) should fetch all of the latest spelling-error-free articles.</p>
+                    
+                    <p>Finally, we want to apologize for the delay in announcing our next project. Just know that we are working hard, and are more excited than anyone to show off our latest work. Although we're still a ways from release, more information should be ready soon. 'Soon', huh?</p>
+                    
+                    <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+        <pubDate>Wed, 02 Mar 2016 14:32:00 -0600</pubDate>
+        <guid isPermaLink="false">2016-03-02-0</guid>
+    </item>
+    
+    
+    <item>
 		<title>Many Site-Wide Updates, and a Teaser</title>
-		<link>http://2catstudios.github.io/news+blog.html#2016-02-07-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2016-02-07-0</link>
 		<description>Hello friends, we've got some site-update news to share with you, and then a super exciting preview!</description>
 		<content:encoded><![CDATA[<h3>Sunday, February 07, 2016</h3>
                     
@@ -32,11 +57,11 @@
                     
                     <p>Initially, CloudApp was chosen to allow for download tracking and user metrics, but as we've now finished integrating Google Analytics with our site, we no longer have a need for another third-party to keep track of user access to our content. What does this mean for you? Well, not much, unless you're into reading EULAs, in which case we've got bad news, since we now have one less for you to pretend you can understand.</p>
                     
-                    <p>Also, please note that while we are removing one third party from your experience on our site, we are not adding another; the download tracking that now takes place through Google Analytics is not another entity, it is the same service that we (and most sites on the internet) use to track which of our links you click, how long you spend admiring our website, and now which of our files you download. We encourage you to take a peek at our <a href="http://2catstudios.github.io/about-us.html#privacypolicy">Privacy Policy</a> if you'd like to know more, and click through Google Analytics' policy to see how Google handles your data.</p>
+                    <p>Also, please note that while we are removing one third party from your experience on our site, we are not adding another; the download tracking that now takes place through Google Analytics is not another entity, it is the same service that we (and most sites on the internet) use to track which of our links you click, how long you spend admiring our website, and now which of our files you download. We encourage you to take a peek at our <a href="https://2catstudios.github.io/about-us.html#privacypolicy">Privacy Policy</a> if you'd like to know more, and click through Google Analytics' policy to see how Google handles your data.</p>
                     
                     <p>Okay, I did promise a super exciting preview, now didn't I? It's about time, then, you've put up with enough. Also, keep in mind that we're deep into development on our next project, so while this preview is super exciting, it may yet be a while before we're ready to make another statement. Now, without further ado, please enjoy!</p>
                     
-                    <img src="http://2catstudios.github.io/images/lightyear/teaser.png" alt="Teaser" width="986" height="350"/>
+                    <img src="https://2catstudios.github.io/images/lightyear/teaser.png" alt="Teaser" width="986" height="350"/>
                     
                     <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Sun, 07 Feb 2016 14:23:00 -0600</pubDate>
@@ -46,13 +71,13 @@
 
 	<item>
 		<title>This one New Game that Doctors don't want You to Know About</title>
-		<link>http://2catstudios.github.io/news+blog.html#2016-01-07-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2016-01-07-0</link>
 		<description>Nineteen out of Twenty medical professionals agree that this one new game can cure mass cell-mutation, hair loss, and lazyness, although only one of those has been verified in lab tests. More details after the jump!</description>
 		<content:encoded><![CDATA[<h3>Thursday, January 07, 2016</h3>
 
             <p>This one New Game that Doctors don't want You to Know About</p>
             
-            <p>Nineteen out of Twenty medical professionals agree that this one new game can cure mass cell-mutation, hair loss, and lazyness, although only one of those has been verified in lab tests. Either way, the impact that this incredible new video game could have on the medical industry is staggering, hence the secrecy by doctors. Never fear, however, we're going to risk everything to unveil the truth, for only $19.99!</p>
+            <p>Nineteen out of Twenty medical professionals agree that this one new game can cure mass cell-mutation, hair loss, and laziness, although only one of those has been verified in lab tests. Either way, the impact that this incredible new video game could have on the medical industry is staggering, hence the secrecy by doctors. Never fear, however, we're going to risk everything to unveil the truth, for only $19.99!</p>
             
             <p>Okay, not really. We are, however, excited to officially endorse <a href="http://combustible-lemonade.itch.io/squared">Squared</a>, the new 2D puzzle game from Jan Heemstra. As a clever twist on the traditional Tetris-style puzzle, Squared forces players to not only make quick decisions, but build the shapes, too. It's a very cool game, and has made our holiday break a bit more enjoyable.</p>
             
@@ -66,13 +91,13 @@
 
 	<item>
 		<title>Nothing Like a Holiday to Write a News+Blog Post</title>
-		<link>http://2catstudios.github.io/news+blog.html#2015-12-31-1</link>
+		<link>https://2catstudios.github.io/news+blog.html#2015-12-31-1</link>
 		<description>I will have to say it at some point, so I might as well get this out of the way; happy new year!</description>
 		<content:encoded><![CDATA[<h3>Thursday, December 31, 2015</h3>
 
             <p>Nothing Like a Holiday to Write a News+Blog Post</p>
 
-			<p>I will have to say it at some point, so I might as well get this out of the way; happy new year! However, unlike the previous new year posts (which can now easily be found due to in-page linking; see <a href="http://2catstudios.github.io/news+blog.html#2015-01-28-0">2015</a> and <a href="http://2catstudios.github.io/news+blog.html#2014-01-02-0">2014</a>), this one isn't late! Actually, this is probably one of the only times that you'll find I've met a deadline. 2016 is looking bright!</p>
+			<p>I will have to say it at some point, so I might as well get this out of the way; happy new year! However, unlike the previous new year posts (which can now easily be found due to in-page linking; see <a href="https://2catstudios.github.io/news+blog.html#2015-01-28-0">2015</a> and <a href="https://2catstudios.github.io/news+blog.html#2014-01-02-0">2014</a>), this one isn't late! Actually, this is probably one of the only times that you'll find I've met a deadline. 2016 is looking bright!</p>
 
 			<p>Enough about this miracle of an on-time post, though, and on to the new year! What does 2CatStudios have in store? Well, like I mentioned in the last bulletin, we're almost ready to unveil our next big project. Like, seriously almost ready. Just wait a few weeks! You may also have noticed that our website has been the subject of some smaller changes recently. We've been making a lot of 'behind-the-scenes' modifications in preparation for some major updates that will roll out in the coming months. A seperate post will be made to outline the upcoming features for the site, but the general theme is more interaction; we want to be less abstracted from our audience (you), and seem less, to quote myself, 'far off in a magical cloud of development'. Hopefully we'll be great friends in no time!</p>
 
@@ -90,7 +115,7 @@
 
 	<item>
 		<title>Privacy Policy</title>
-		<link>http://2catstudios.github.io/news+blog.html#2015-12-20-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2015-12-20-0</link>
 		<description>Deeply-concerned internet users, hello! Read on for some information about our privacy policy.</description>
 		<content:encoded><![CDATA[<h3>Sunday, December 20, 2015</h3>
 
@@ -98,7 +123,7 @@
 
 			<p>Deeply-concerned internet users, hello!</p>
 
-			<p>This is just a quick update to inform you that our privacy policy can now be found on our <a href="http://2catstudios.github.io/about-us.html">About Us</a> page. The general gist is that we don't collect anything outselves, but use several third-party solutions that may, among which is Google Analytics. The information we do receive is used solely for improving user experience on this website – we do not give it to anyone.</p>
+			<p>This is just a quick update to inform you that our privacy policy can now be found on our <a href="https://2catstudios.github.io/about-us.html">About Us</a> page. The general gist is that we don't collect anything outselves, but use several third-party solutions that may, among which is Google Analytics. The information we do receive is used solely for improving user experience on this website – we do not give it to anyone.</p>
 
 			<p>Also, we're not dead! I promise. Check back in a bit for exciting news!</p>
 
@@ -110,7 +135,7 @@
 
 	<item>
 		<title>Is this Another Dry Spell</title>
-		<link>http://2catstudios.github.io/news+blog.html#2015-04-29-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2015-04-29-0</link>
 		<description>It's been over a month (32 days- count 'em) since the last post, is this the beginning of another arduous News+Blog drought?</description>
 		<content:encoded><![CDATA[<h3>Wednesday, April 29, 2015</h3>
 
@@ -135,7 +160,7 @@
 
 	<item>
 		<title>RSS and News+Blog Update</title>
-		<link>http://2catstudios.github.io/news+blog.html#2015-03-28-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2015-03-28-0</link>
 		<description>Since you're reading this, perhaps you've already seen the updated News+Blog page? If not, what do you think of the RSS?</description>
 		<content:encoded><![CDATA[<h3>Saturday, March 28, 2015</h3>
 
@@ -156,7 +181,7 @@
 
 	<item>
 		<title>Notice of Upcoming Service Disruption</title>
-		<link>http://2catstudios.github.io/news+blog.html</link>
+		<link>https://2catstudios.github.io/news+blog.html#2015-03-24-0</link>
 		<description>Notice of Upcoming Service Disruption</description>
 		<content:encoded><![CDATA[<h3>Tuesday, March 24, 2015</h3>
 
@@ -171,7 +196,7 @@
 
 	<item>
 		<title>Not a Ghost</title>
-		<link>http://2catstudios.github.io/news+blog.html#2015-02-05-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2015-02-05-0</link>
 		<description>Hello all! Did you know that 2Cat Studios has more than one member? In fact, if I include myself, 2Cat Studios has a whopping total of two members! The more you know...</description>
 		<content:encoded><![CDATA[<h3>Thursday, February 05, 2015</h3>
 
@@ -188,7 +213,7 @@
 
 	<item>
 		<title>2015 is the Year, and Prototypes</title>
-		<link>http://2catstudios.github.io/news+blog.html#2015-01-28-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2015-01-28-0</link>
 		<description>Happy twenty-fifteen! This year is going to be great, I can feel it. We've got many projects planned for, at least partial, release this year, and a lot of other fun things in store. UnityMusicPlayer will see the last of it's updates, and our "Secret Project" will finally be unveiled.</description>
 		<content:encoded><![CDATA[<h3>Wednesday, January 28, 2015</h3>
 
@@ -207,7 +232,7 @@
 
 	<item>
 		<title>The Transition to New Projects</title>
-		<link>http://2catstudios.github.io/news+blog.html#2014-12-05-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2014-12-05-0</link>
 		<description>Wow- this is, like, weird, huh? A News+Blog post within a month of it's elder. Do we have some follow-up to what little we actually said last time? Have we come to announce our acquisition by EA? Perhaps we have more details of that "next major project", which we were talking about? Read on, to find out.</description>
 		<content:encoded><![CDATA[<h3>Friday, December 05, 2014</h3>
 
@@ -232,13 +257,13 @@
 
 	<item>
 		<title>Our Perceived Inactivity</title>
-		<link>http://2catstudios.github.io/news+blog.html#2014-11-18-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2014-11-18-0</link>
 		<description>Hello everyone, it's been a while, huh? Yeah, sorry about that. Please don't mistake our online absence as a true cause for concern- we've been fine! In fact, the entire 2Cat Studios team has been doing very well.</description>
 		<content:encoded><![CDATA[<h3>Tuesday, November 18, 2014</h3>
 
             <p>Our Perceived Inactivity</p>
 
-            <p>Hello everyone, it's been a while, huh? Yeah, sorry about that. Please don't mistake our online absence as a true cause for concern- we've been fine! In fact, the entire 2Cat Studios team has been doing very well. Oh, what's that? <i>"Who are the 2Cat Studios team"?</i> Well, why don't you head on over to the (finally) finished <a href="http://2catstudios.github.io/about-us.html">About Us</a> page? There you'll find out everything you need to know about the individuals behind the kitty-masks. Now all you stalking dreams can come true!</p>
+            <p>Hello everyone, it's been a while, huh? Yeah, sorry about that. Please don't mistake our online absence as a true cause for concern- we've been fine! In fact, the entire 2Cat Studios team has been doing very well. Oh, what's that? <i>"Who are the 2Cat Studios team"?</i> Well, why don't you head on over to the (finally) finished <a href="https://2catstudios.github.io/about-us.html">About Us</a> page? There you'll find out everything you need to know about the individuals behind the kitty-masks. Now all you stalking dreams can come true!</p>
 
             <p>As far as development goes, all's well on the homefront, as they say. UnityMusicPlayer 1.25 has been released, which fixed many bugs, and boasted a new UI, which a lot of people have asked for. There are still many things we have planned for UMP, but we're shifting more resources to other projects. What that means for you, dear reader, is that while updates for your favorite audio player may come with less frequency, you'll be able to offset that sadness with pure video-game bliss.</p>
 
@@ -251,7 +276,7 @@
 
 	<item>
 		<title>UnityMusicPlayer 1.2- hooray!</title>
-		<link>http://2catstudios.github.io/news+blog.html#2014-07-09-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2014-07-09-0</link>
 		<description>The latest version of UMP has been released! This is certainly cause for a joyous celebration, would you not say so? With the 1.2 release, you'll be able to access music hidden deep in the recesses of your computer, find awesome music even more quickly, and meditate with UMP open, thanks to our new (cleaner) GUI. We have also added a lot more error handling, and music with special characters in the title will now be played without a problem.</description>
 		<content:encoded><![CDATA[<h3>Wednesday, July 09, 2014</h3>
 
@@ -261,7 +286,7 @@
 
             <p>UnityMusicPlayer is an ever-expanding and improving product, and we're proud to bring you the latest version. We have already taken steps to unify UMP, as per our initial vision, and communication between 2Cat apps will work without another update (if only we had more applications). We still have a long list of tweaks to make, and features to include, but we hope you'll love the newest UMP.</p>
 
-            <p>As always, you can keep up to date on our latest progress right here, or on the <a href="http://2catstudios.github.io/unitymusicplayer.html">specific application page</a>. We value your feedback, so please let us know what you think so far, and where you want to see us go in the future. Do you like UMP's new interface? Would you like to see the audio-streaming feature return? No? Send us an email, or message us on <a href="https://twitter.com/MichaelBethke">Twitter</a>. I'm looking forward to hearing from you!</p>
+            <p>As always, you can keep up to date on our latest progress right here, or on the <a href="https://2catstudios.github.io/unitymusicplayer.html">specific application page</a>. We value your feedback, so please let us know what you think so far, and where you want to see us go in the future. Do you like UMP's new interface? Would you like to see the audio-streaming feature return? No? Send us an email, or message us on <a href="httpss://twitter.com/MichaelBethke">Twitter</a>. I'm looking forward to hearing from you!</p>
 
             <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Wed, 09 Jul 2014 00:00:00 -0600</pubDate>
@@ -270,7 +295,7 @@
 
 	<item>
 		<title>It's official, the Wikispaces website will be shutdown in five days!</title>
-		<link>http://2catstudios.github.io/news+blog.html#2014-06-02-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2014-06-02-0</link>
 		<description>It's official, the Wikispaces website will be shutdown in five days! (Note: The old website has been shutdown. Please check back here for all things 2Cat!)</description>
 		<content:encoded><![CDATA[<h3>Monday, June 02, 2014</h3>
 
@@ -282,7 +307,7 @@
 
             <p>Please remember that the closure of the Wikispaces website does in-no-way signify a scaling down, or cutting back of 2Cat Studios. On the contrary, our shift towards a new web-home should be seen as a renewal of our promise to you; we are always striving for the best, and the clearest way forwards is through a new, better, more-stylish website. So, although you won't be able to find us at Wikispaces anymore, please keep checking back here for all our latest endeavors.</p>
 
-            <p>You should update your bookmark (or, make one, if you haven't) to <a href="http://2catstudios.github.io/main.html">http://2catstudios.github.io</a>, as in just a few days, upon arriving at the Wikispaces website, you'll be greeted with a "Wiki not found" page, and that's no fun. This will probably be the last News+Blog article about the old website, I promise. We will also be releasing a new version of UMP (1.2- you won't want to miss it) in a few days, and we'll have more information on our new projects in the near future, so please stay tuned!</p>
+            <p>You should update your bookmark (or, make one, if you haven't) to <a href="http://2catstudios.github.io/main.html">https://2catstudios.github.io</a>, as in just a few days, upon arriving at the Wikispaces website, you'll be greeted with a "Wiki not found" page, and that's no fun. This will probably be the last News+Blog article about the old website, I promise. We will also be releasing a new version of UMP (1.2- you won't want to miss it) in a few days, and we'll have more information on our new projects in the near future, so please stay tuned!</p>
 
 
             <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
@@ -292,7 +317,7 @@
 
 	<item>
 		<title>A new website, and a new version of UMP</title>
-		<link>http://2catstudios.github.io/news+blog.html#2014-04-26-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2014-04-26-0</link>
 		<description>Today I am writing to update you guys on the website situation. What situation, you might ask- well, I'm glad you're curious! For the last couple months, we've been looking into moving our website to a new host (due in-part to UbuntuOne shutting down). Initially, we were planning on simply copying this website, however in the last few weeks it has become clear that an easy solution like that just isn't going to be possible. This realization gave us a lot to think about, but after some internal discussion we decided to completely rebuild the website from the ground up. Nobody on the team is proficient with HTML, but we decided to give it a shot anyway. So far, I think we've made great progress, and I'm proud of all the work that has gone into our new website thus far.</description>
 		<content:encoded><![CDATA[<h3>Saturday, April 26, 2014</h3>
 
@@ -300,7 +325,7 @@
 
             <p>Today I am writing to update you guys on the website situation. What situation, you might ask- well, I'm glad you're curious! For the last couple months, we've been looking into moving our website to a new host (due in-part to UbuntuOne shutting down). Initially, we were planning on simply copying this website, however in the last few weeks it has become clear that an easy solution like that just isn't going to be possible. This realization gave us a lot to think about, but after some internal discussion we decided to completely rebuild the website from the ground up. Nobody on the team is proficient with HTML, but we decided to give it a shot anyway. So far, I think we've made great progress, and I'm proud of all the work that has gone into our new website thus far.</p>
 
-            <p>Now, the plan is to continue to update both websites until the new one has the same content as our old one, then phase out the old one, and eventually shut it down. There is a lot of work that still needs to be completed before we'll be ready to make the switch, but most of that work is behind-the-scenes stuff, so you could absolutely "jump ship" now, and become an early adopter of progress! If you have the adventurer's spirit, you can change your 2Cat Studios bookmark to <a href="http://2catstudios.github.io/main.html">http://2catstudios.github.io</a>; and, to that end, if you'd like to read this article, but with a little more "pizzazz", you can find it on our new News+Blog page, <a href="http://2catstudios.github.io/news+blog.html#04-26-2014-0">http://2catstudios.github.io/news+blog.html</a> (hint: you're already here).</p>
+            <p>Now, the plan is to continue to update both websites until the new one has the same content as our old one, then phase out the old one, and eventually shut it down. There is a lot of work that still needs to be completed before we'll be ready to make the switch, but most of that work is behind-the-scenes stuff, so you could absolutely "jump ship" now, and become an early adopter of progress! If you have the adventurer's spirit, you can change your 2Cat Studios bookmark to <a href="https://2catstudios.github.io/main.html">https://2catstudios.github.io</a>; and, to that end, if you'd like to read this article, but with a little more "pizzazz", you can find it on our new News+Blog page, <a href="https://2catstudios.github.io/news+blog.html#04-26-2014-0">https://2catstudios.github.io/news+blog.html</a> (hint: you're already here).</p>
 
             <p>We are also getting ready to release the 1.2 update of UnityMusicPlayer, and the top three reasons you should be excited are following: 1) UMP 1.2 will unify the entire "UnityMusicPlayer experience". 2) UMP 1.2 boasts a "Featured" tab in the OMB which will make it even easier to find new music. 3) UMP 1.2 is going to bridge the gap between 2Cat Studios applications in ways that we haven't disclosed yet. What's that you say, the third reason isn't exciting? Well, you just wait, as it'll seem exciting soon!</p>
 
@@ -313,7 +338,7 @@
 
 	<item>
 		<title>Happy 1.1 Day! Eer, I mean Valentines Day</title>
-		<link>http://2catstudios.github.io/news+blog.html#2014-02-14-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2014-02-14-0</link>
 		<description>Did you know, UnityMusicPlayer 1.1 released today? Of course you did, I'm just messing with you. A fitting release date, wouldn't you say? It perfectly embodies the way we feel about you! Awe, now I'm blushing.</description>
 		<content:encoded><![CDATA[<h3>Friday, February 14, 2014</h3>
 
@@ -336,7 +361,7 @@
 
 	<item>
 		<title>A shot in the dark from out of nowhere!</title>
-		<link>http://2catstudios.github.io/news+blog.html#2014-01-11-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2014-01-11-0</link>
 		<description>Pretty mysterious title, eh? I bet you didn't see that one coming- speaking of things you probably didn't see coming- segue- what's the deal with 2Cat Publications!? Well, dear reader, it's funny you should ask, because I'm in the mood to explain it. (Note: We have since disbanded the 2Cat Publications project due to lack of interest. This News+Blog post has been preserved for historical purposes, as well as to inform readers about the termination of the project. Thanks for your continued support!)</description>
 		<content:encoded><![CDATA[<h3>Saturday, January 11, 2014</h3>
 
@@ -360,7 +385,7 @@
 
 	<item>
 		<title>The new year is upon us!</title>
-		<link>http://2catstudios.github.io/news+blog.html#2014-01-02-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2014-01-02-0</link>
 		<description>Alright, I don't know what my problem is, but I missed another new/blog-post deadline. I only noticed today, but I was supposed to write a new years update, and it's past new years. I think I know what one of my resolutions should be... Anyway, I know it's late, but happy new years, guys!</description>
 		<content:encoded><![CDATA[<h3>Thursday, January 02, 2014</h3>
 
@@ -377,7 +402,7 @@
 
 	<item>
 		<title>Finished Projects and Satire</title>
-		<link>http://2catstudios.github.io/news+blog.html#2013-11-09-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2013-11-09-0</link>
 		<description>UnityMusicPlayer One, UMP 1.0, has been released! Okay, everybody stop clapping, it's not like we just announced that the price is $100 cheaper than our competitor! Seriously, stop clapping, it does check online whenever you turn it on (for updates, mind you- it will work without an internet connection), that's nothing to be excited about!</description>
 		<content:encoded><![CDATA[<h3>Monday, December 09, 2013</h3>
 
@@ -394,7 +419,7 @@
 
 	<item>
 		<title>News+Blog.cpp</title>
-		<link>http://2catstudios.github.io/news+blog.html#2013-10-31-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2013-10-31-0</link>
 		<description>news+blog.cpp</description>
 		<content:encoded><![CDATA[<h3>Thursday, October 31, 2013</h3>
 
@@ -427,7 +452,7 @@
 
 	<item>
 		<title>Well... uh... should we start with introductions again? Also, mystery projects!</title>
-		<link>http://2catstudios.github.io/news+blog.html#2013-01-24-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2013-01-24-0</link>
 		<description>Five months isn't too long in-between posts, is it? To be fair, there hasn't been much to write about- even now, I'm just saying the same thing over and over in hopes of taking up space. Don't get the wrong idea, though, we have been working! UnityMusicPlayer is coming along well, and version 1.0 should be releasing soon.</description>
 		<content:encoded><![CDATA[<h3>Thursday, October 24, 2013</h3>
 
@@ -444,7 +469,7 @@
 
 	<item>
 		<title>It's been over a month since we last made a new post in this section. Have we decided to discontinue it?</title>
-		<link>http://2catstudios.github.io/news+blog.html#2013-05-20-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2013-05-20-0</link>
 		<description>Well, I'll admit, I have been putting this on the back-burner. But, I want to clarify, it's not entirely my fault!</description>
 		<content:encoded><![CDATA[<h3>Monday, May 20, 2013</h3>
 
@@ -461,7 +486,7 @@
 
 	<item>
 		<title>Concerning the New Website Layout</title>
-		<link>http://2catstudios.github.io/news+blog.html#2013-04-09-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2013-04-09-0</link>
 		<description>Many of you are probably wondering what happened to all of the old projects (hint-hint). Well, the old and discontinued applications have now been consolidated and grouped together on the "Old Projects" page.</description>
 		<content:encoded><![CDATA[<h3>Tuesday, April 09, 2013</h3>
 
@@ -478,7 +503,7 @@
 
 	<item>
 		<title>We've decided that, in the hopes of being more transparent, a blog/news area would be a good idea.</title>
-		<link>http://2catstudios.github.io/news+blog.html#2013-04-08-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2013-04-08-0</link>
 		<description>This is just a quick message to kick-off the new section, and introduce you to some of our plans for the future.</description>
 		<content:encoded><![CDATA[<h3>Monday, April 08, 2013</h3>
 
@@ -501,7 +526,7 @@
 <!--
 	<item>
 		<title></title>
-		<link>http://2catstudios.github.io/news+blog.html#2015-12-31-0</link>
+		<link>https://2catstudios.github.io/news+blog.html#2015-12-31-0</link>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<pubDate>Mon, 01 Jan 2015 00:00:00 -0600</pubDate>
@@ -510,5 +535,5 @@
 -->
 
 <!--
-<enclosure url="http://2catstudios.github.io/favicon.png" length="24598" type="image/png"/>
+<enclosure url="https://2catstudios.github.io/favicon.png" length="24598" type="image/png"/>
 -->
