@@ -14,11 +14,11 @@
         <title>2CatStudios // Challenges</title>
         
         <script>
-            var loc = window.location.href+'';
+            /*var loc = window.location.href+'';
             if (loc.indexOf('http://')==0)
             {
                 window.location.href = loc.replace('http://','https://');
-            }
+            }*/
             
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -39,47 +39,87 @@
             <h1>Challenges</h1>
             <p>Training in unusual ways will lead to a<br>more expansive knowledge of any subject.</p>
             
-            <div id="code">
-                <h1>Programming</h1>
-                <br>
-                <ol>
-                <li id="21-02-16">
-                    <h4><a href="#21-02-16">[21/02/16]</a> Write an Implementation of <a href="https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes">Eratosthenes Sieve</a></h4>
-                    
-                    <h4>&nbsp;&nbsp;Rules</h4>
+            <br>
+            <div id="preamble">
+                <p style="margin-left:20px; margin-right:20px">Welcome to 2Cat Studios' digital library of developer challenges! Here you'll find our ever-expanding arsenal of mental-training-dummies, cerebral-sparring-partners, cognative-combatants, and phrenic-punching-bags. We use these to stay sharp while we're busy working on our other projects, but you're welcome to use them too!</p>
+            
+                <p style="margin-left:20px; margin-right:20px">As a matter of fact, if you do decide to delve into our devious arena, and you come out unscathed, send us an email, and we'll add you to our leaderboards! Please include a link to your source files so we can testify to your genius, and designate whether you want us to share your work with the world, or keep it hidden in a bushel. Do note that we'll assume any project submitted without a license is open source, and will not, as a policy, promote projects which do not allow for distribution and modification.</p>
+            
+                <p style="margin-left:20px; margin-right:20px">Finally, please refrain from contacting us for assistance on these challenges; you're welcome to look through any provided source code if you're stuck, but working through your confusion is the best way to build a solid understanding of a given topic. Finding an error is another story, however, namely, one which involves you emailing us. If the erroneous project is from a third-party, we'll pass on the tip, but either way, you'll have our thanks. That's it for the fine-print, just sign here: ____________________ . Great, now get out there and train!</p>
+            </div>
+            <br>
+            
+            <h2>Table of Contents</h2>
+            <ol>
+                <li><a href="challenges.html#preamble">Introduction</a></li>
+                <li>
+                    <a href="/challenges.html#code">Programming</a>
                     <ul>
-                        <li>INPUT: an integer to be used as the maximum number</li>
-                        <li>OUTPUT: all prime numbers smaller than input</li>
-                        <li>OBJECT: efficiently calculate prime numbers, and get used to translating a mathematical or psudocode concepts into working code.</li>
-                        <li>RESTRICTIONS: none</li>
-                    </ul>
-                    
-                    <h4>&nbsp;&nbsp;Completed by</h4>
-                    <ul>
-                        <li>[24/02/16] Michael, <a href="https://github.com/AVividLight/EratosthenesSieve">Source on GitHub</a></li>
-                        <li>[25/02/16] Anders, Source Provided by Email</li>
-                    </ul>
-                </li>
-                    
-                <br>
-                <br>
-                    
-                <li id="28-02-16"><h4><a href="#28-02-16">[28-02-16]</a> Write an Implementation of <a href="https://en.wikipedia.org/wiki/Pascal%27s_triangle">Pascal's Triangle</a></h4>
-                    
-                    <h4>&nbsp;&nbsp;Rules</h4>
-                    <ul>
-                        <li>INPUT: an integer to be used as the triangle size</li>
-                        <li>OUTPUT: a correct, formatted Pascal's Triangle</li>
-                        <li>OBJECT: work with 1D/flattened arrays in 2D space, and get used to translating a mathematical concepts into working code.</li>
-                        <li>RESTRICTIONS: one dimensional arrays only</li>
-                    </ul>
-                    
-                    <h4>&nbsp;&nbsp;Completed by</h4>
-                    <ul>
-                        <li>[05/03/16] Michael, <a href="https://github.com/AVividLight/PascalsTriangle">Source on GitHub</a></li>
+                        <li><a href="/challenges.html#2016-02-28-0">Pascal's Triangle</a></li>
+                        <li><a href="/challenges.html#2016-02-20-0">The Sieve of Eratosthenes</a></li>
                     </ul>
                 </li>
             </ol>
+            
+            <br>
+            <hr>
+            
+            <div id="code">
+                <h2>Programming</h2>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;Code and Concepts</p>
+                
+                <p style="margin-left:30px; margin-right:30px">Programming can easily become an exercise in looking up information on Stack Overflow, and while being resourceful is good, having a more comprehensive and flexible knowledge of your craft will never hurt. The goal of these programming challenges is to build a familiarity between developers and their language by putting the two in less routine situations, in which the best of both will hopefully become beautifully apparent.</p>
+                
+                <article id="2016-02-28-0">
+                    <blockquote>
+                        <h3><a href="/challenges.html#2016-02-20-0">Thursday, February 28, 2016</a>| An Implementation of <a href="https://en.wikipedia.org/wiki/Pascal%27s_triangle">Pascal's Triangle</a></h3>
+                    
+                        <h4>&nbsp;&nbsp;Description</h4>
+                        <p style="margin-left:20px; margin-right:20px">Understanding Pascal's Triangle is critical to it's successful implementation in code, thankfully however, the concept is very simple. We'll basically be iterating our way to a maximum number, assigning values to an array as we go. If that doesn't seem hard enough, don't worry: to provide more opportunities for learning something new, and to make this more interesting, our challenge requires that we use exclusively 1D arrays.</p>
+                        
+                        <p style="margin-left:20px; margin-right:20px">Altering the way we think about one-dimensional data structures will allow us to be more efficient programmers, more creative with our variables, and perhaps better philosophers.</p>
+                        
+                        <h4>&nbsp;&nbsp;Rules</h4>
+                        <ul>
+                            <li>INPUT: an integer to be used as the triangle size</li>
+                            <li>OUTPUT: a correct, formatted Pascal's Triangle</li>
+                            <li>OBJECT: work with 1D/flfattened arrays in 2D space, and get used to translating a mathematical concepts into working code.</li>
+                            <li>RESTRICTIONS: one-dimensional arrays only</li>
+                        </ul>
+                        
+                        <h4>&nbsp;&nbsp;Completed by</h4>
+                        <ul>
+                            <li>[05/03/16] Michael, <a href="https://github.com/AVividLight/PascalsTriangle">Source on GitHub</a></li>
+                        </ul>
+                    </blockquote>
+                </article>
+                
+                <br>
+                
+                <article id="2016-02-20-0">
+                    <blockquote>
+                        <h3><a href="/challenges.html#2016-02-20-0">Saturday, February 20, 2016</a>| An Implementation of <a href="https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes">The Sieve of Eratosthenes</a></h3>
+                    
+                        <h4>&nbsp;&nbsp;Description</h4>
+                        <p style="margin-left:20px; margin-right:20px">Eratosthenes' Sieve is a very manageable way to find prime numbers, and an excellent example of how mathematics and programming can blend together.</p>
+                        
+                        <p style="margin-left:20px; margin-right:20px">The general concept behind the sieve is that if we eliminate all composit numbers, whatever's left must be prime. This simplicity makes the Sieve of Eratosthenes a fantastic place for us to begin our programming challenges, as it lets us focus on translating logic and existing formulas into working code– a very important skill for programmers.</p>
+                        
+                        <h4>&nbsp;&nbsp;Rules</h4>
+                        <ul>
+                            <li>INPUT: an integer to be used as the maximum number</li>
+                            <li>OUTPUT: all prime numbers smaller than input</li>
+                            <li>OBJECT: efficiently calculate prime numbers, and get used to translating a mathematical or pseudocode concepts into working code.</li>
+                            <li>RESTRICTIONS: none</li>
+                        </ul>
+                        
+                        <h4>&nbsp;&nbsp;Completed by</h4>
+                        <ul>
+                            <li>[24/02/16] Michael, <a href="https://github.com/AVividLight/EratosthenesSieve">Source on GitHub</a></li>
+                            <li>[25/02/16] Anders, Source Provided by Email</li>
+                        </ul>
+                    </blockquote>
+                </article>
             </div>
 		</section>
 		<br>
