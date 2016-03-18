@@ -27,7 +27,7 @@
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Act%20Of%20Love%20_%20You%20Are%20Like%20Me.png</smallArtworkURL>
 	</Song>
 
-	<Song featured='true'>
+	<Song featured='false'>
 		<name>Valley of the Shadows</name>
 		<album>Physics</album>
 		<artist>Wolfgun</artist>
@@ -451,13 +451,13 @@
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Reality%20EP.jpg</smallArtworkURL>
 	</Song>
 
-	<Song featured='false'>
+	<Song featured='true'>
 		<name>Blue</name>
 		<album>Reality - EP</album>
 		<artist>Abludo</artist>
 		<genre>House</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/jidHO3Tlmcdc</downloadURL>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Abludo%20-%20Reality_EP%20-%20Blue.wav?raw=true</downloadURL>
 		<link name='Soundcloud'>http://soundcloud.com/abludomusic</link>
 		<releaseDate>February 13, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Reality%20EP.jpg</largeArtworkURL>
@@ -810,7 +810,7 @@
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SolarEclipse%20-%20Single.jpg</smallArtworkURL>
 	</Song>
 
-	<Song featured='false'>
+	<Song featured='true'>
 		<name>Act Of Love</name>
 		<album>Act Of Love-You Are Like Me</album>
 		<artist>Rchetype</artist>
@@ -824,7 +824,7 @@
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Act%20Of%20Love%20_%20You%20Are%20Like%20Me.png</smallArtworkURL>
 	</Song>
 
-    <Song featured='true'>
+    <Song featured='false'>
 		<name>Speed of Light</name>
 		<album>Darkest Mornings - Brightest Nights</album>
 		<artist>BlackTie Vivid</artist>
