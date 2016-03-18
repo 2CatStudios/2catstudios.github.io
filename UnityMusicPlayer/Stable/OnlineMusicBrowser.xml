@@ -7,8 +7,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/wGPdMB44oQSV</downloadURL>
-		<link name='Bandcamp'>http://purify1.bandcamp.com/track/purify-liberty</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Liberty.ogg?raw=true</downloadURL>
+		<link name='Bandcamp'>https://purify1.bandcamp.com/track/purify-liberty</link>
 		<releaseDate>January 2, 2013</releaseDate>
 		<largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
@@ -20,8 +20,8 @@
 		<artist>Wolfgun</artist>
 		<genre>Dubstep</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/6E3oOHIYpAIg</downloadURL>
-		<link name='Bandcamp'>http://rchetype.bandcamp.com/track/you-are-like-me</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Wolfgun%20-%20Act%20of%20Love%20_%20You%20Are%20Like%20Me%20-%20You%20Are%20Like%20Me.wav?raw=true</downloadURL>
+		<link name='Bandcamp'>https://rchetype.bandcamp.com/track/you-are-like-me</link>
 		<releaseDate>January 1, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Act%20Of%20Love%20_%20You%20Are%20Like%20Me.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Act%20Of%20Love%20_%20You%20Are%20Like%20Me.png</smallArtworkURL>
@@ -33,8 +33,8 @@
 		<artist>Wolfgun</artist>
 		<genre>Dubstep</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/4PByQwDnoLKU</downloadURL>
-		<link name='Bandcamp'>http://wolfgun.bandcamp.com/album/physics</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Wolfgun%20-%20Physics%20-%20Valley%20of%20the%20Shadows.wav?raw=true</downloadURL>
+		<link name='Bandcamp'>https://wolfgun.bandcamp.com/album/physics</link>
 		<releaseDate>January 1, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Physics.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Physics.png</smallArtworkURL>
@@ -46,8 +46,8 @@
 		<artist>Wolfgun</artist>
 		<genre>Trance</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/1bGIX4FEpo3T</downloadURL>
-		<link name='Bandcamp'>http://wolfgun.bandcamp.com/album/sundisk</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Wolfgun%20-%20SUNDISK%20-%20River%20(ft.%20Tim%20Bonvallet).wav?raw=true</downloadURL>
+		<link name='Bandcamp'>https://wolfgun.bandcamp.com/album/sundisk</link>
 		<releaseDate>January 1, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SUNDISK.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SUNDISK.jpg</smallArtworkURL>
@@ -59,8 +59,8 @@
 		<artist>Wolfgun</artist>
 		<genre>Electronic</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/LLUWS7mqCqoO</downloadURL>
-		<link name='Bandcamp'>http://wolfgun.bandcamp.com/album/sundisk</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Wolfgun%20-%20SUNDISK%20-%20Pacific.wav?raw=true</downloadURL>
+		<link name='Bandcamp'>https://wolfgun.bandcamp.com/album/sundisk</link>
 		<releaseDate>January 1, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SUNDISK.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SUNDISK.jpg</smallArtworkURL>
@@ -72,7 +72,7 @@
 		<artist>Combustible Lemonade</artist>
 		<genre>Soundtrack</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/iYiqflTLojFu</downloadURL>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20UMP%20Exclusive%20-%20Classic%20Tetris.unity3d?raw=true</downloadURL>
 		<releaseDate>August 20, 2012</releaseDate>
         <largeArtworkURL></largeArtworkURL>
         <smallArtworkURL></smallArtworkURL>
@@ -84,7 +84,7 @@
 		<artist>Combustible Lemonade</artist>
 		<genre>Classical</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/9Wj34bXA06Ev</downloadURL>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20UMP%20Exclusive%20-%20Epic%20Classic.wav?raw=true</downloadURL>
 		<releaseDate>August 20, 2012</releaseDate>
         <largeArtworkURL></largeArtworkURL>
         <smallArtworkURL></smallArtworkURL>
@@ -96,8 +96,8 @@
 		<artist>Combustible Lemonade</artist>
 		<genre>Dubstep</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/qhh6YIuYH3iy</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/combustible-lemonade/2nd-dubstep-song</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20UMP%20Exclusive%20-%20Blended.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/combustible-lemonade/2nd-dubstep-song</link>
 		<releaseDate>November 28, 2012</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
@@ -109,8 +109,8 @@
 		<artist>Combustible Lemonade</artist>
 		<genre>Dubstep</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/RITpRTl2QDph</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/combustible-lemonade/quantum-realm</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20it%20burns%20-%20Quantum%20Realm.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/combustible-lemonade/quantum-realm</link>
 		<releaseDate>November 28, 2012</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
@@ -122,7 +122,7 @@
 		<artist>Combustible Lemonade</artist>
 		<genre>Dubstep</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/FQFTQwXOpXM3</downloadURL>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20it%20burns%20-%20Ghosts.wav?raw=true</downloadURL>
 		<releaseDate>November 28, 2012</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
@@ -134,8 +134,8 @@
 		<artist>Combustible Lemonade</artist>
 		<genre>Dubstep</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/jjhW4DtKH7cD</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/combustible-lemonade/combustible-lemonade-end-of</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20it%20burns%20-%20End%20of%20the%20World.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/combustible-lemonade/combustible-lemonade-end-of</link>
 		<releaseDate>December 21, 2012</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
@@ -147,8 +147,8 @@
 		<artist>BlackTie Vivid</artist>
 		<genre>Ambient</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/boL2ep7zO2pC</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/BlackTie%20Vivid%20-%20Darkest%20Mornings%20_%20Brightest%20Nights%20-%20The%20Future%20of%20our%20Past.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>December 31, 2012</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
@@ -160,8 +160,8 @@
 		<artist>BlackTie Vivid</artist>
 		<genre>Trance</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/QgH4awoVr1gj</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/BlackTie%20Vivid%20-%20Darkest%20Mornings%20_%20Brightest%20Nights%20-%20Joking.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>August 20, 2012</releaseDate>
         <largeArtworkURL></largeArtworkURL>
         <smallArtworkURL></smallArtworkURL>
@@ -173,8 +173,8 @@
 		<artist>BlackTie Vivid</artist>
 		<genre>Trance</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/KG1uQ630EtfW</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/BlackTie%20Vivid%20-%20Darkest%20Mornings%20_%20Brightest%20Nights%20-%20Koi.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>August 20, 2012</releaseDate>
         <largeArtworkURL></largeArtworkURL>
         <smallArtworkURL></smallArtworkURL>
@@ -186,8 +186,8 @@
 		<artist>Avelocity</artist>
 		<genre>Trance</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/CCvRPvo9YSxp</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/avelocity</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Avelocity%20-%20Synergy%20EP-%20Catastrophic.unity3d?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/avelocity</link>
 		<releaseDate>April 23, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Synergy.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Synergy.jpg</smallArtworkURL>
@@ -199,8 +199,8 @@
 		<artist>Avelocity</artist>
 		<genre>Trance</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/xuzuTixvPpYX</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/avelocity</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Avelocity%20-%20Synergy%20EP-%20Liquid%20Sunshine.unity3d?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/avelocity</link>
 		<releaseDate>April 23, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Synergy.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Synergy.jpg</smallArtworkURL>
@@ -212,8 +212,8 @@
 		<artist>Avelocity</artist>
 		<genre>Trance</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/18qoJTFJ8Y1w</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/avelocity</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Avelocity%20-%20Synergy%20EP-%20Vibrance.unity3d?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/avelocity</link>
 		<releaseDate>April 23, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Synergy.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Synergy.jpg</smallArtworkURL>
@@ -225,8 +225,8 @@
 		<artist>BlackTie Vivid</artist>
 		<genre>Ambient</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/d9wCOBeylhE8</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/BlackTie%20Vivid%20-%20Darkest%20Mornings%20_%20Brightest%20Nights%20-%20Background%20Sounds.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>April 28, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
@@ -238,8 +238,8 @@
 		<artist>Umcaruje</artist>
 		<genre>Electronic</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/liTA0qFWnwED</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/umcaruje</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Umcaruje%20-%20UMP%20Exclusive%20-%20Space%20Invaders.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/umcaruje</link>
 		<releaseDate>April 27, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/space%20invaders.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/space%20invaders.jpg</smallArtworkURL>
@@ -251,8 +251,8 @@
 		<artist>Umcaruje</artist>
 		<genre>Electronic</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/NoS8p9J9XRNB</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/umcaruje</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Umcaruje%20-%20Fractal%20-%20%20Fractal.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/umcaruje</link>
 		<releaseDate>April 27, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Fraktal.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Fraktal.jpg</smallArtworkURL>
@@ -263,8 +263,8 @@
 		<artist>Umcaruje</artist>
 		<genre>Electronic</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/WUlsk1FHInFY</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/umcaruje</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Umcaruje%20-%20Maths%20-%20Maths%20(Umcaruje%20Cover).wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/umcaruje</link>
 		<releaseDate>April 27, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/maths.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/maths.jpg</smallArtworkURL>
@@ -276,7 +276,7 @@
 		<artist>Combustible Lemonade</artist>
 		<genre>Classical</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/P2ovFn8DGcR4</downloadURL>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20UMP%20Exclusive%20-%2015%20Inventions%20a%202%20Voic%20IV.wav?raw=true</downloadURL>
 		<releaseDate>April 27, 2013</releaseDate>
         <largeArtworkURL></largeArtworkURL>
         <smallArtworkURL></smallArtworkURL>
@@ -288,8 +288,8 @@
 		<artist>BlackTie Vivid</artist>
 		<genre>Ambient</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/r9H64y2DVhc3</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/BlackTie%20Vivid%20-%20Darkest%20Mornings%20_%20Brightest%20Nights%20-%20Time.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>June 4, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
@@ -302,7 +302,7 @@
 		<genre>Ambient</genre>
 		<format>wav</format>
         <downloadURL>https://github.com/2CatStudios/2catstudios.github.io/raw/master/UnityMusicPlayer/Downloads/Audio/BlackTie%20Vivid%20-%20Darkest%20Mornings%20_%20Brightest%20Nights%20-%20Darkest.wav</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
+		<link name='Soundcloud'>https://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>June 1, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/giy2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
@@ -314,8 +314,8 @@
 		<artist>Umcaruje</artist>
 		<genre>Chillout</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/pnXFwR8uy7r6</downloadURL>
-		<link name='Bandcamp'>http://umcaruje.bandcamp.com/album/lost-on-airport-flight</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Umcaruje%20-%20Lost%20on%20Airport%20_%20Flight%20-%2001%20Lost%20on%20Airport.wav?raw=true</downloadURL>
+		<link name='Bandcamp'>https://umcaruje.bandcamp.com/album/lost-on-airport-flight</link>
 		<releaseDate>September 2, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Lost%20on%20Airport%20_%20Flight.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Lost%20on%20Airport%20_%20Flight.jpg</smallArtworkURL>
@@ -327,8 +327,8 @@
 		<artist>Umcaruje</artist>
 		<genre>Chillout</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/fKLeGhPt44ch</downloadURL>
-		<link name='Bandcamp'>http://umcaruje.bandcamp.com/album/lost-on-airport-flight</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Umcaruje%20-%20Lost%20on%20Airport%20_%20Flight%20-%2002%20Flight.wav?raw=true</downloadURL>
+		<link name='Bandcamp'>https://umcaruje.bandcamp.com/album/lost-on-airport-flight</link>
 		<releaseDate>September 2, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Lost%20on%20Airport%20_%20Flight.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Lost%20on%20Airport%20_%20Flight.jpg</smallArtworkURL>
@@ -340,9 +340,9 @@
 		<artist>ManiaRib</artist>
 		<genre>Chillout</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/0bF2njIGEPru</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/brian-amin</link>
-		<link name='Blogspot'>http://brian-amin.blogspot.com</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/ManiaRib%20-%20Lume%20-%20Lume.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/brian-amin</link>
+		<link name='Blogspot'>https://brian-amin.blogspot.com</link>
 		<releaseDate>September 2, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Lume.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Lume.jpg</smallArtworkURL>
@@ -354,8 +354,8 @@
 		<artist>BlackTie Vivid</artist>
 		<genre>Ambient</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/dGfLj68VeTdB</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/BlackTie%20Vivid%20-%20Darkest%20Mornings%20_%20Brightest%20Nights%20-%20Brightest.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>September 2, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
@@ -367,7 +367,7 @@
 		<artist>Combustible Lemonade</artist>
 		<genre>Dubstep</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/jQuGNQaKdpu6</downloadURL>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20it%20burns%20-%20Rhapsody%20on%20Linux.wav?raw=true</downloadURL>
 		<releaseDate>September 3, 2013</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
@@ -379,8 +379,8 @@
 		<artist>BlackTie Vivid</artist>
 		<genre>Ambient</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/hG1JgRWJL9Mt</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/BlackTie%20Vivid%20-%20Darkest%20Mornings%20_%20Brightest%20Nights%20-%20Paradoxical.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>January 2, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
@@ -392,8 +392,8 @@
 		<artist>Avelocity</artist>
 		<genre>Drum and Bass</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/Fp4Y9KdJzSxa</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/avelocity</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Avelocity%20-%20Synergy%20EP-%20Seaside.unity3d?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/avelocity</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Synergy.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Synergy.jpg</smallArtworkURL>
@@ -405,21 +405,21 @@
 		<artist>Avelocity</artist>
 		<genre>House</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/fw6udtNvkENb</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/avelocity</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Avelocity%20-%20Synergy%20EP-%20Sonar.unity3d?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/avelocity</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Synergy.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Synergy.jpg</smallArtworkURL>
 	</Song>
 
 	<Song featured='false'>
-		<name>Dinolazor Fluxcar</name>
+		<name>Dinolazor Fluxcat</name>
 		<album>Synergy EP</album>
 		<artist>Avelocity</artist>
 		<genre>Dubstep</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/NuKi24RqZ2Vx</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/avelocity</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Avelocity%20-%20Synergy%20EP-%20Dinolazor%20Fluxcat.unity3d?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/avelocity</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Synergy.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Synergy.jpg</smallArtworkURL>
@@ -431,8 +431,8 @@
 		<artist>Abludo</artist>
 		<genre>Dubstep</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/4syD0PNeSIr7</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/abludomusic</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Abludo%20-%20Reality_EP%20-%20One%20More.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/abludomusic</link>
 		<releaseDate>February 13, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Reality%20EP.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Reality%20EP.jpg</smallArtworkURL>
@@ -444,8 +444,8 @@
 		<artist>Abludo</artist>
 		<genre>Trance</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/ND7gChKfUJt0</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/abludomusic</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Abludo%20-%20Reality_EP%20-%20Reality.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/abludomusic</link>
 		<releaseDate>February 13, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Reality%20EP.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Reality%20EP.jpg</smallArtworkURL>
@@ -458,7 +458,7 @@
 		<genre>House</genre>
 		<format>wav</format>
         <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Abludo%20-%20Reality_EP%20-%20Blue.wav?raw=true</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/abludomusic</link>
+		<link name='Soundcloud'>https://soundcloud.com/abludomusic</link>
 		<releaseDate>February 13, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Reality%20EP.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Reality%20EP.jpg</smallArtworkURL>
@@ -470,8 +470,8 @@
 		<artist>Abludo</artist>
 		<genre>Drum and Bass</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/DHyru2kjwogg</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/abludomusic</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Abludo%20-%20Reality_EP%20-%20Soar.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/abludomusic</link>
 		<releaseDate>February 13, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Reality%20EP.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Reality%20EP.jpg</smallArtworkURL>
@@ -483,8 +483,8 @@
 		<artist>Avelocity</artist>
 		<genre>House</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/j0MtpcGcXUtg</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/avelocity</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Avelocity%20-%20Starlight-%20%20Starlight%20(Greippi's%20mix).unity3d?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/avelocity</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Starlight.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Starlight.jpg</smallArtworkURL>
@@ -496,8 +496,8 @@
 		<artist>Avelocity</artist>
 		<genre>House</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/2bWr7MxU0Com</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/avelocity</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Avelocity%20-%20Starlight-%20Starlight%20(RaptorRemix).unity3d?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/avelocity</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Starlight.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Starlight.jpg</smallArtworkURL>
@@ -509,8 +509,8 @@
 		<artist>Avelocity</artist>
 		<genre>House</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/nbyPZaKujto8</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/avelocity</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Avelocity%20-%20Starlight-%20Starlight%20(Ten%20Of%20Eleven%20Remix).unity3d?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/avelocity</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Starlight.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Starlight.jpg</smallArtworkURL>
@@ -522,8 +522,8 @@
 		<artist>Avelocity</artist>
 		<genre>House</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/QWg8JgBv27Pr</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/avelocity</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Avelocity%20-%20Starlight-%20Starlight%20(Umcaruje's%20wreck%20the%20dancehall%20mix).unity3d?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/avelocity</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Starlight.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Starlight.jpg</smallArtworkURL>
@@ -535,21 +535,21 @@
 		<artist>Avelocity</artist>
 		<genre>House</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/Vxs80thqSnQQ</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/avelocity</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Avelocity%20-%20Starlight-%20Starlight.unity3d?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/avelocity</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Starlight.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Starlight.jpg</smallArtworkURL>
 	</Song>
 
 	<Song featured='false'>
-		<name>Artic Dream</name>
+		<name>Arctic Dream</name>
 		<album>Silent Room</album>
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/jRs7OhrGTv2C</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Arctic%20Dream.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -561,8 +561,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/2O0ekOszC6SV</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Club%20Mix%202011.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -574,8 +574,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/hecDIsjQeBrX</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Eletectronica.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -587,8 +587,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/D8CtVxSw7nDM</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Fairy.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -600,8 +600,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/dxRXL3QmTBdb</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Falling.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -613,8 +613,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/pqPpQQ6z0zGW</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Into%20your%20world%20Remix.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -626,8 +626,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/Io4kVJjU6zeS</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Lapis%20Blue%20(Purify%20Remix).ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -639,8 +639,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/lJZgW96RZou6</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Love%20(DJ%20Purify%20Remix).ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -652,8 +652,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/809o4MZr6YWf</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Moon.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -665,8 +665,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/0tfUkIxTYRBg</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Natural.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -678,8 +678,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/dZYd1oWKFL1H</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Perfect%20Storm.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -691,8 +691,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/gSTBUZwtNWik</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Sample.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -704,8 +704,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/GnjdxHjZsZdA</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Silence%20%5BSummer%20Club%20Mix%202012%5D.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -717,8 +717,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/OOVOuEiBvnSY</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Silent%20Shore.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -730,8 +730,8 @@
 		<artist>DJ Purify</artist>
 		<genre>Trance</genre>
 		<format>ogg</format>
-        <downloadURL>https://copy.com/u9dzsj2wjJVn</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/dj-purify</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/DJ%20Purify%20-%20Silent%20Room%20-%20Stevia.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/dj-purify</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SilentRoom.png</smallArtworkURL>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SilentRoom.jpg</largeArtworkURL>
@@ -743,10 +743,10 @@
 		<artist>Face of Flynn</artist>
 		<genre>Soundtrack</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/JbxbSMYNXolJ</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/faceoflynn</link>
-		<link name='Facebook'>http://www.facebook.com/Raptor980</link>
-		<link name='Bandcamp'>http://faceoflynn.bandcamp.com/</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Face%20of%20Flyn%20-%20Doorways%20EP%20-%20Choices.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/faceoflynn</link>
+		<link name='Facebook'>https://www.facebook.com/Raptor980</link>
+		<link name='Bandcamp'>https://faceoflynn.bandcamp.com/</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Doorways%20EP.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Doorways%20EP.jpg</smallArtworkURL>
@@ -758,10 +758,10 @@
 		<artist>Face of Flynn</artist>
 		<genre>Soundtrack</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/eOu3g7KxbA0F</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/faceoflynn</link>
-		<link name='Facebook'>http://www.facebook.com/Raptor980</link>
-		<link name='Bandcamp'>http://faceoflynn.bandcamp.com/</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Face%20of%20Flyn%20-%20Doorways%20EP%20-%20Essence.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/faceoflynn</link>
+		<link name='Facebook'>https://www.facebook.com/Raptor980</link>
+		<link name='Bandcamp'>https://faceoflynn.bandcamp.com/</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Doorways%20EP.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Doorways%20EP.jpg</smallArtworkURL>
@@ -773,10 +773,10 @@
 		<artist>Face of Flynn</artist>
 		<genre>Soundtrack</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/KsOVVhOnt6Wx</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/faceoflynn</link>
-		<link name='Facebook'>http://www.facebook.com/Raptor980</link>
-		<link name='Bandcamp'>http://faceoflynn.bandcamp.com/</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Face%20of%20Flyn%20-%20Doorways%20EP%20-%20Regret.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/faceoflynn</link>
+		<link name='Facebook'>https://www.facebook.com/Raptor980</link>
+		<link name='Bandcamp'>https://faceoflynn.bandcamp.com/</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Doorways%20EP.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Doorways%20EP.jpg</smallArtworkURL>
@@ -788,10 +788,10 @@
 		<artist>Face of Flynn</artist>
 		<genre>Soundtrack</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/yxfAooSJnupL</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/faceoflynn</link>
-		<link name='Facebook'>http://www.facebook.com/Raptor980</link>
-		<link name='Bandcamp'>http://faceoflynn.bandcamp.com/</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Face%20of%20Flyn%20-%20Doorways%20EP%20-%20Unknown.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/faceoflynn</link>
+		<link name='Facebook'>https://www.facebook.com/Raptor980</link>
+		<link name='Bandcamp'>https://faceoflynn.bandcamp.com/</link>
 		<releaseDate>February 14, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Doorways%20EP.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Doorways%20EP.jpg</smallArtworkURL>
@@ -803,8 +803,8 @@
 		<artist>Second Flight</artist>
 		<genre>Drum and Bass</genre>
 		<format>aiff</format>
-        <downloadURL>https://copy.com/t4cn2wZY8Ew1</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/second_flight/</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Second%20Flight%20-%20Solar%20Eclipse%20_%20Single%20-%20Solar%20Eclipse.aiff?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/second_flight/</link>
 		<releaseDate>February 16, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/SolarEclipse%20-%20Single.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/SolarEclipse%20-%20Single.jpg</smallArtworkURL>
@@ -816,9 +816,9 @@
 		<artist>Rchetype</artist>
 		<genre>Dubstep</genre>
 		<format>unity3d</format>
-        <downloadURL>https://copy.com/KfuS2qA4aqrN</downloadURL>
-		<link name='Bandcamp'>http://rchetype.bandcamp.com/track/you-are-like-me</link>
-		<link name='Facebook'>http://www.facebook.com/Rchetype</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Rchetype%20-%20Act%20of%20Love%20_%20You%20Are%20Like%20Me%20-%20Act%20of%20Love.unity3d?raw=true</downloadURL>
+		<link name='Bandcamp'>https://rchetype.bandcamp.com/track/you-are-like-me</link>
+		<link name='Facebook'>https://www.facebook.com/Rchetype</link>
 		<releaseDate>February 22, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/Act%20Of%20Love%20_%20You%20Are%20Like%20Me.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/Act%20Of%20Love%20_%20You%20Are%20Like%20Me.png</smallArtworkURL>
@@ -830,8 +830,8 @@
 		<artist>BlackTie Vivid</artist>
 		<genre>Ambient</genre>
 		<format>wav</format>
-        <downloadURL>https://copy.com/BkMDSNLYMOdh</downloadURL>
-		<link name='Soundcloud'>http://soundcloud.com/blacktie-vivid</link>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/BlackTie%20Vivid%20-%20Darkest%20Mornings%20_%20Brightest%20Nights%20-%20Speed%20of%20Light.wav?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/blacktie-vivid</link>
 		<releaseDate>September 08, 2014</releaseDate>
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Full%20Size/DarkestMornings-BrightestNights.jpg</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/2catstudios.github.io/master/UnityMusicPlayer/Downloads/Artwork/Scaled/DarkestMornings-BrightestNights.jpg</smallArtworkURL>
