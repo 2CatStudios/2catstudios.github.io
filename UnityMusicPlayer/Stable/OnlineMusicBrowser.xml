@@ -1,6 +1,84 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <Songs>
+    <Song featured='false'>
+		<name>Everything</name>
+		<album>it burns</album>
+		<artist>Combustible Lemonade</artist>
+		<genre>Jazz</genre>
+		<format>ogg</format>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20it%20burns%20-%20Everything.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/combustible-lemonade</link>
+		<releaseDate>March 18, 2015</releaseDate>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
+	</Song>
+    
+    <Song featured='false'>
+		<name>Rekt (Combustible Lemonade Remix)</name>
+		<album>it burns</album>
+		<artist>Combustible Lemonade</artist>
+		<genre>Dubstep</genre>
+		<format>ogg</format>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20it%20burns%20-%20Rekt_CL-Remix.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/combustible-lemonade</link>
+		<releaseDate>February 07, 2015</releaseDate>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
+	</Song>
+    
+    <Song featured='false'>
+		<name>Chime Minuet</name>
+		<album>it burns</album>
+		<artist>Combustible Lemonade</artist>
+		<genre>Classical</genre>
+		<format>ogg</format>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20it%20burns%20-%20ChimeMinuet.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/combustible-lemonade</link>
+		<releaseDate>November 18, 2014</releaseDate>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
+	</Song>
+    
+    <Song featured='false'>
+		<name>Keyboard Yeah!</name>
+		<album>it burns</album>
+		<artist>Combustible Lemonade</artist>
+		<genre>Jazz</genre>
+		<format>ogg</format>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20it%20burns%20-%20KeyboardYeah!.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/combustible-lemonade</link>
+		<releaseDate>August 30, 2014</releaseDate>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
+	</Song>
+    
+    <Song featured='false'>
+		<name>The Other Castle</name>
+		<album>it burns</album>
+		<artist>Combustible Lemonade</artist>
+		<genre>Dubstep</genre>
+		<format>ogg</format>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20it%20burns%20-%20The%20Other%20castle.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/combustible-lemonade</link>
+		<releaseDate>April 01, 2014</releaseDate>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
+	</Song>
+    
+    <Song featured='false'>
+		<name>The Universe</name>
+		<album>it burns</album>
+		<artist>Combustible Lemonade</artist>
+		<genre>Chillout</genre>
+		<format>ogg</format>
+        <downloadURL>https://github.com/2CatStudios/UnityMusicPlayer/blob/master/Downloads/Audio/Combustible%20Lemonade%20-%20it%20burns%20-%20The%20Universe.ogg?raw=true</downloadURL>
+		<link name='Soundcloud'>https://soundcloud.com/combustible-lemonade</link>
+		<releaseDate>November 18, 2013</releaseDate>
+        <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
+        <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
+	</Song>
+
 	<Song featured='false'>
 		<name>Liberty</name>
 		<album>Silent Room</album>
