@@ -13,7 +13,7 @@
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
 	</Song>
-    
+
     <Song featured='false'>
 		<name>Rekt (Combustible Lemonade Remix)</name>
 		<album>it burns</album>
@@ -26,7 +26,7 @@
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
 	</Song>
-    
+
     <Song featured='false'>
 		<name>Chime Minuet</name>
 		<album>it burns</album>
@@ -39,7 +39,7 @@
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
 	</Song>
-    
+
     <Song featured='false'>
 		<name>Keyboard Yeah!</name>
 		<album>it burns</album>
@@ -52,8 +52,8 @@
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
 	</Song>
-    
-    <Song featured='false'>
+
+    <Song featured='true'>
 		<name>The Other Castle</name>
 		<album>it burns</album>
 		<artist>Combustible Lemonade</artist>
@@ -65,7 +65,7 @@
         <largeArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Full%20Size/CombustibleLemonade.png</largeArtworkURL>
         <smallArtworkURL>https://raw.githubusercontent.com/2CatStudios/UnityMusicPlayer/master/Downloads/Artwork/Scaled/CombustibleLemonade.png</smallArtworkURL>
 	</Song>
-    
+
     <Song featured='false'>
 		<name>The Universe</name>
 		<album>it burns</album>
