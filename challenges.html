@@ -57,8 +57,9 @@
                     <li>
                         <a href="/challenges.html#code">Programming</a>
                         <ul>
-                            <li><a href="/challenges.html#2016-02-28-0">Pascal's Triangle</a></li>
-                            <li><a href="/challenges.html#2016-02-20-0">The Sieve of Eratosthenes</a></li>
+							<li><a href="/challenges.html#dawkins_weasel">Dawkin's Weasel</a></li>
+                            <li><a href="/challenges.html#pascals_triangle">Pascal's Triangle</a></li>
+                            <li><a href="/challenges.html#eratosthenes_sieve">The Sieve of Eratosthenes</a></li>
                         </ul>
                     </li>
                 </ol>
@@ -73,9 +74,43 @@
                 
                 <p style="margin-left:30px; margin-right:30px">Programming can easily become an exercise in looking up information on Stack Overflow, and while being resourceful is good, having a more comprehensive and flexible knowledge of your craft will never hurt. The goal of these programming challenges is to build a familiarity between developers and their language by putting the two in less routine situations, in which the best of both will hopefully become beautifully apparent.</p>
                 
+				<article id="dawkins_weasel">
+					<blockquote>
+						<h3><a href="/challenges.html#dawkins_weasel"><img style="vertical-align:middle; padding: 0px 0px 0px 0px" src="/images/third-party/drifty/link.svg" alt="Page Anchor" width="32" height="32"/></a> An Implementation of <a href="https://en.wikipedia.org/wiki/Weasel_program">Dawkin's Weasel</a></h3>
+						
+						<h4>&nbsp;&nbsp;Description</h4>
+						<p style="margin-left: 20px; margin-right: 20px">On a scale of 0 to 9, with 9 being critically important for your success in the technology industry, and 0 being not important at all, I'd rate Dawkin's Weasel a shaky 2. But, that's not what programming is about, right? We just want to have fun with computers, and what could be more fun than simulating evolution?! Rated in terms of pure endorphen-releasing power, Dawkin's Weasel is a solid 11.</p>
+						
+						<p style="margin-left: 20px; margin-right: 20px">Following with the pattern of these challenges being conceptually simple to grasp, we'll outline how Dawkin's Weasel works in just five steps (edited, originally from <a href="https://en.wikipedia.org/wiki/Weasel_program">Wikipedia</a>):</p>
+						
+						<ol>
+							<li>Start with a random string of characters (to make it easier, match the length to your target length).</li>
+							<li>Make copies of the string (the more the merrier).</li>
+							<li>For each character in each of the copies, with a probability of P%, replace (mutate) the character with a new random character.</li>
+							<li>Compare each new string with the target string, and give each a fitness score (the number of characters in the string that are correct).</li>
+							<li>If any of the new strings has a perfect score, break. Otherwise, take the highest scoring string, and go to step 2.</li>
+						</ol>
+						
+						<h4>&nbsp;&nbsp;Rules</h4>
+						<ul>
+							<li>INPUT: a string, to be used as the target string</li>
+							<li>OUTPUT: the best string from each generation, and the match, once it's found</li>
+							<li>OBJECT: have fun with more-or-less pointless computing, and practice creating code from a very brief prompt</li>
+							<li>RESTRICTIONS: None! Do it up!</li>
+						</ul>
+						
+						<h4>&nbsp;&nbsp;Completed by</h4>
+						<ul>
+							<li>[09/04/16] Michael, <a href="https://github.com/AVividLight/Dawkins-Weasel">Source on GitHub</a></li>
+						</ul>
+					</blockquote>
+				</article>
+				
+				<br>
+				
                 <article id="pascals_triangle">
                     <blockquote>
-                        <h3><a href="/challenges.html#pascals_triangle">Thursday, February 28, 2016</a>| An Implementation of <a href="https://en.wikipedia.org/wiki/Pascal%27s_triangle">Pascal's Triangle</a></h3>
+						<h3><a href="/challenges.html#pascals_triangle"><img style="vertical-align:middle; padding: 0px 0px 0px 0px" src="/images/third-party/drifty/link.svg" alt="Page Anchor" width="32" height="32"/></a> An Implementation of <a href="https://en.wikipedia.org/wiki/Pascal%27s_triangle">Pascal's Triangle</a></h3>
                     
                         <h4>&nbsp;&nbsp;Description</h4>
                         <p style="margin-left:20px; margin-right:20px">Understanding Pascal's Triangle is critical to it's successful implementation in code, thankfully however, the concept is very simple. We'll basically be iterating our way to a maximum number, assigning values to an array as we go. If that doesn't seem hard enough, don't worry: to provide more opportunities for learning something new, and to make this more interesting, our challenge requires that we use exclusively 1D arrays.</p>
@@ -101,7 +136,7 @@
                 
                 <article id="eratosthenes_sieve">
                     <blockquote>
-                        <h3><a href="/challenges.html#eratosthenes_sieve">Saturday, February 20, 2016</a>| An Implementation of <a href="https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes">The Sieve of Eratosthenes</a></h3>
+                        <h3><a href="/challenges.html#eratosthenes_sieve"><img style="vertical-align:middle; padding: 0px 0px 0px 0px" src="/images/third-party/drifty/link.svg" alt="Page Anchor" width="32" height="32"/></a> An Implementation of <a href="https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes">The Sieve of Eratosthenes</a></h3>
                     
                         <h4>&nbsp;&nbsp;Description</h4>
                         <p style="margin-left:20px; margin-right:20px">Eratosthenes' Sieve is a very manageable way to find prime numbers, and an excellent example of how mathematics and programming can blend together.</p>
