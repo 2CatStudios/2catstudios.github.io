@@ -17,10 +17,31 @@
 	
 	
 	<item>
+		<title>Methinks It's Like A Weasel</title>
+		<link>https://2catstudios.github.io/news+blog.html#2016-04-09-0</link>
+		<description></description>
+		<content:encoded><![CDATA[<h3>Saturday, April 09, 2016</h3>
+					
+					<p>Methinks It's Like A Weasel</p>
+					
+					<p>Heads up, programmers: we wrote a new challenge today, <a href="https://2catstudios.github.io/challenges.html#dawkins_weasel">An Implementation of Dawkin's Weasel</a>. It's very fun, and the end result is well worth the effort– you'll feel like Bjarne Stroustrup himself. Plus, this challenge is so cute, it'll weasel it's way into your heart.</p>
+					
+					<p>*cough*</p>
+					
+					<p>The idea behind this one came from a very insightful YouTube video by Daniel Shiffman, <a href="https://youtu.be/6l6b78Y4V7Y">Genetic Algorithms and Evolutionary Computing (The Nature of Code)</a>. We recommend you spend some time watching it, even if you're going to pass on this challenge, as it considers a division of programming that may well become huge as computers get more powerful in the near future. That division being evolutionary and genetic programming, or creating software that solves its own problems, and evolves to meet new objectives. This challenge on touches the surface, but can help you attain the mindset needed for more advanced design problems.</p>
+					
+					<p>Despite this challenge's description, it may actually be critical to success in future software design, so take the time to practice and learn now!</p>
+					
+					<h4>Michael, 2Cat Studios</h4>]]></content:encoded>
+		<pubData>Sat, 09 Apr 2016 16:50:00 -0600</pubData>
+		<guid isPermaLink="false">2016-04-09-0</guid>
+	</item>
+	
+	<item>
 		<title>Three Years of News+Blog!</title>
 		<link>https://2catstudios.github.io/news+blog.html#2016-04-08-1</link>
 		<description>Hello, friends! Indeed, today is a happy day, as we celebrate our third year of News+Blog posts! We're incredibly proud of what this News+Blog has become, and it certainly wouldn't be anything without our readers, so thank you!</description>
-		<content:encoded><![CDATA[<h3>Friday, March 08, 2016</h3>
+		<content:encoded><![CDATA[<h3>Friday, April 08, 2016</h3>
 					
 					<p>Three Years of News+Blog!</p>
 					
