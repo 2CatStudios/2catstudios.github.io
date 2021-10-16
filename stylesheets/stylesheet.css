@@ -340,6 +340,25 @@ Full-Width Styles
 	min-height: 760px;
 }
 
+.header_menu {
+	border-top: 0px;
+    border-left: 2px solid #373737;
+    border-right: 2px solid #373737;
+    border-bottom: 2px solid #373737;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    position: relative;
+    width: 1024px;
+    height: 100%;
+    
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
 img.centeredImage {
     display: block;
     margin-left: auto;
