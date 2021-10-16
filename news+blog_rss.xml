@@ -10,9 +10,9 @@
 	<lastBuildDate>Sun, 07 Feb 2016 14:23:00 CST</lastBuildDate>
 	<webMaster>gibsonbethke@gmail.com (Michael Bethke)</webMaster>
 	<image>
-    	<url>https://2catstudios.github.io/images/meta/SquareKitty.png</url>
-    	<title>2Cat Studios News+Blog</title>
-    	<link>https://2catstudios.github.io/news+blog.html</link>
+		<url>https://2catstudios.github.io/images/meta/SquareKitty.png</url>
+		<title>2Cat Studios News+Blog</title>
+		<link>https://2catstudios.github.io/news+blog.html</link>
 	</image>
 	
 	
@@ -21,18 +21,17 @@
 		<link>https://2catstudios.github.io/news+blog.html#2016-04-09-0</link>
 		<description>Heads up, programmers: we wrote a new challenge today, An Implementation of Dawkin's Weasel. It's very fun, and the end result is well worth the effort– you'll feel like Bjarne Stroustrup himself. Plus, this challenge is so cute, it'll weasel it's way into your heart.</description>
 		<content:encoded><![CDATA[<h3>Saturday, April 09, 2016</h3>
-					
-					<p>Methinks It's Like A Weasel</p>
-					
-					<p>Heads up, programmers: we wrote a new challenge today, <a href="https://2catstudios.github.io/challenges.html#dawkins_weasel">An Implementation of Dawkin's Weasel</a>. It's very fun, and the end result is well worth the effort– you'll feel like Bjarne Stroustrup himself. Plus, this challenge is so cute, it'll weasel it's way into your heart.</p>
-					
-					<p>*cough*</p>
-					
-					<p>The idea behind this one came from a very insightful YouTube video by Daniel Shiffman, <a href="https://youtu.be/6l6b78Y4V7Y">Genetic Algorithms and Evolutionary Computing (The Nature of Code)</a>. We recommend you spend some time watching it, even if you're going to pass on this challenge, as it considers a division of programming that may well become huge as computers get more powerful in the near future. That division being evolutionary and genetic programming, or creating software that solves its own problems, and evolves to meet new objectives. This challenge only touches the surface, but can help you attain the mindset needed for more advanced design problems.</p>
-					
-					<p>Despite this challenge's description, it may actually be critical to success in future software design, so take the time to practice and learn now!</p>
-					
-					<h4>Michael, 2Cat Studios</h4>]]></content:encoded>
+			<p>Methinks It's Like A Weasel</p>
+			
+			<p>Heads up, programmers: we wrote a new challenge today, <a href="https://2catstudios.github.io/challenges.html#dawkins_weasel">An Implementation of Dawkin's Weasel</a>. It's very fun, and the end result is well worth the effort– you'll feel like Bjarne Stroustrup himself. Plus, this challenge is so cute, it'll weasel it's way into your heart.</p>
+			
+			<p>*cough*</p>
+			
+			<p>The idea behind this one came from a very insightful YouTube video by Daniel Shiffman, <a href="https://youtu.be/6l6b78Y4V7Y">Genetic Algorithms and Evolutionary Computing (The Nature of Code)</a>. We recommend you spend some time watching it, even if you're going to pass on this challenge, as it considers a division of programming that may well become huge as computers get more powerful in the near future. That division being evolutionary and genetic programming, or creating software that solves its own problems, and evolves to meet new objectives. This challenge only touches the surface, but can help you attain the mindset needed for more advanced design problems.</p>
+			
+			<p>Despite this challenge's description, it may actually be critical to success in future software design, so take the time to practice and learn now!</p>
+			
+			<h4>Michael, 2Cat Studios</h4>]]></content:encoded>
 		<pubDate>Sat, 09 Apr 2016 16:50:00 -0600</pubDate>
 		<guid isPermaLink="false">2016-04-09-1</guid>
 	</item>
@@ -42,102 +41,100 @@
 		<link>https://2catstudios.github.io/news+blog.html#2016-04-08-1</link>
 		<description>Hello, friends! Indeed, today is a happy day, as we celebrate our third year of News+Blog posts! We're incredibly proud of what this News+Blog has become, and it certainly wouldn't be anything without our readers, so thank you!</description>
 		<content:encoded><![CDATA[<h3>Friday, April 08, 2016</h3>
-					
-					<p>Three Years of News+Blog!</p>
-					
-					<p>Hello, friends! Indeed, today is a happy day, as we celebrate our third year of News+Blog posts! We're incredibly proud of what this News+Blog has become, and it certainly wouldn't be anything without our readers, so thank you!</p>
-					
-					<p>These three years since we decided to become "more transparent" have gone by amazingly quickly. We've made a lot of mistakes, learned a bunch, had a ton of fun, and evolved based on the feedback you've given us. Still, it's hard to understand just how much time has passed, so let's do a little number crunching to really put things in perspective. The first post we made, three years ago to the day, was a nice little "hello", and a brief notice about UMP 0.9, the latest release in the pipeline. Since then, lots of updates for UMP were released, ultimately ending with version 1.25, nearly two years later. During that time, we made a new website, which was updated many times itself, tried a few silly ideas (I still can't get over 2Cat Studications), and started a few new projects. And, we kept you informed all along the way.</p>
-					
-					<p>"But, how would we quantify the degree to which you have kept us up to date?", I hear you ask. Counting our articles, we've made 25 independent posts, averaging something like 400 words per feature. We kept you in the loop, too, writing a post on average once every 45 days. Okay, there was that one time we didn't write anything for 235 days (which really messed up our average), but seriously, you readers know what's been going on!</p>
-					
-					<p>Writing these News+Blog posts has been a pleasure. Not only has it helped us keep our work in perspective, and connect more with our audience, but we now have a beautiful record of how things were going at different points in the 2Cat Studios' career. Already, it's fun to look back at some of our earlier posts to see just what was going on. I'm starting to feel very existential, thinking about myself from three years ago; my, how some things have changed, and others have stayed the same. At least I wrote this one on time!</p>
-					
-					<code>Oh, hey there! This is Jan's VI, JAN-9000, sorry to bust in on your News+Blog post. I heard there was a celebration today, and wanted to relay Jan's excitement. Unfortinately, Jan is super busy with exams this week, because he decided it would be a good idea to do two fulltime university courses. He was able to spare a few moments for a statement, however: "Hi I'm busy bye thanks for reading". Hopefully you can feel the joy eminating from his words. That's all, please return to your lives. This has been Jan-9000, now signing off.</code>
-					
-					<p>All this is to say, thank you, friends; here's to another three years!</p>
-					
-					<p>P.S. The transfer of UMP files went off without a hitch, you can still download cool new tracks with ease, and now have confidence that even less of your data is being sent off-site. Our new system takes a little bit longer to do some caching, so you may see slow download speeds right after a track is made available, but don't worry, everything will be fine.</p>
-					
-					<h4>Michael and Jan, 2Cat Studios</h4>]]></content:encoded>
+			<p>Three Years of News+Blog!</p>
+			
+			<p>Hello, friends! Indeed, today is a happy day, as we celebrate our third year of News+Blog posts! We're incredibly proud of what this News+Blog has become, and it certainly wouldn't be anything without our readers, so thank you!</p>
+			
+			<p>These three years since we decided to become "more transparent" have gone by amazingly quickly. We've made a lot of mistakes, learned a bunch, had a ton of fun, and evolved based on the feedback you've given us. Still, it's hard to understand just how much time has passed, so let's do a little number crunching to really put things in perspective. The first post we made, three years ago to the day, was a nice little "hello", and a brief notice about UMP 0.9, the latest release in the pipeline. Since then, lots of updates for UMP were released, ultimately ending with version 1.25, nearly two years later. During that time, we made a new website, which was updated many times itself, tried a few silly ideas (I still can't get over 2Cat Studications), and started a few new projects. And, we kept you informed all along the way.</p>
+			
+			<p>"But, how would we quantify the degree to which you have kept us up to date?", I hear you ask. Counting our articles, we've made 25 independent posts, averaging something like 400 words per feature. We kept you in the loop, too, writing a post on average once every 45 days. Okay, there was that one time we didn't write anything for 235 days (which really messed up our average), but seriously, you readers know what's been going on!</p>
+			
+			<p>Writing these News+Blog posts has been a pleasure. Not only has it helped us keep our work in perspective, and connect more with our audience, but we now have a beautiful record of how things were going at different points in the 2Cat Studios' career. Already, it's fun to look back at some of our earlier posts to see just what was going on. I'm starting to feel very existential, thinking about myself from three years ago; my, how some things have changed, and others have stayed the same. At least I wrote this one on time!</p>
+			
+			<code>Oh, hey there! This is Jan's VI, JAN-9000, sorry to bust in on your News+Blog post. I heard there was a celebration today, and wanted to relay Jan's excitement. Unfortinately, Jan is super busy with exams this week, because he decided it would be a good idea to do two fulltime university courses. He was able to spare a few moments for a statement, however: "Hi I'm busy bye thanks for reading". Hopefully you can feel the joy eminating from his words. That's all, please return to your lives. This has been Jan-9000, now signing off.</code>
+			
+			<p>All this is to say, thank you, friends; here's to another three years!</p>
+			
+			<p>P.S. The transfer of UMP files went off without a hitch, you can still download cool new tracks with ease, and now have confidence that even less of your data is being sent off-site. Our new system takes a little bit longer to do some caching, so you may see slow download speeds right after a track is made available, but don't worry, everything will be fine.</p>
+			
+			<h4>Michael and Jan, 2Cat Studios</h4>]]></content:encoded>
 		<pubDate>Fri, 08 Apr 2016 17:03:00 -0600</pubDate>
 		<guid isPermaLink="false">2016-04-08-1</guid>
 	</item>
-    
-    
-    <item>
+	
+	
+	<item>
 		<title>Challenges, UMP, and Spring! Oh my.</title>
 		<link>https://2catstudios.github.io/news+blog.html#2016-03-20-0</link>
 		<description>Ah, yes, if I compare the total size, minus the current Y-index, to zero, I'll be able to determine the value of the index up and over one... Oh! Hello, I didn't see you there! It looks like you caught me working out one of our new challenges, again. Hahaha, you just can't stop an inquisitive mind from learning, am I right? What's that, you haven't heard of our wonderful challenges? Well, take a seat, I'll explain.</description>
 		<content:encoded><![CDATA[<h3>Sunday, March 20, 2016</h3>
-                    <p>Challenges, UMP, and Spring! Oh my.</p>
-                    
-                    <p>Ah, yes, if I compare the total size, minus the current Y-index, to zero, I'll be able to determine the value of the index up and over one... Oh! Hello, I didn't see you there! It looks like you caught me working out one of our new challenges, again. Hahaha, you just can't stop an inquisitive mind from learning, am I right? What's that, you haven't heard of our wonderful challenges? Well, take a seat, I'll explain.</p>
-                    
-                    <p>The premise of our new <a href="https://2catstudios.github.io/challenges.html">Challenges</a> page is very simple, but please indulge me for just a moment; in essence, this is another step towards becoming more transparent (albeit a somewhat unusual one), as we want these challenges to create more avenues for engagement with our audience. Since we've decided that you lovely readers are primarily human-beings (scratch the "officially branded ball of yarn" idea (scratch- get it?)), and are a little more involved in technology than most, offering some relevant "community building", "loyal follower creating" activities seems to be just the thing to do. Indeed, it is difficult to fall too far down the computer rabbit-hole without having many interactions with code in some way, and who doesn't still hold their childhood dream of becoming a computer programmer close to their heart. With these things in mind, we created the Challenges page, hoping that aspiring developers and experienced pros alike would find some enjoyment in open-ended programming experiments, written in such a way as to prompt clever solutions, or force an alternate way of thinking.</p>
-                    
-                    <p>We will not specify which language must be used, nor the specific approach you must take, and not even what the end result must look like, we just want to provide direction, a tangible goal, and some interesting restrictions that promote creativity. We do these challenges here in the studio as a fun deviation from our main projects, and we're hoping that community members will also take them up and share their results. We have a leader-boad, of sorts, under each challenge, and we'll update it with your name as soon as you let us know that you've completed a challenge. We'd love to see how you did it, too, and will share your project with everyone else, in case it could help someone who's struggling. Of course, you can request that we keep your source private, but we'll be unhappy, and ban you from using StackOverflow for a day (note: we cannot enforce this ban, and are not affiliated with StackOverflow).</p>
-                    
-                    <p>I see you're interested, but before you go to get started, there are two other things I need to mention. First, we're absolutely open to full challenges from the community, just write a little something, prepare an example, and it send it our way. It doesn't need to be about code, we're hoping to provide some art related challenges soon, and there's no reason that they should be limited to those two categories. Second, (and this might seem self-evident) we'll be adding new challenges periodically, so keep an eye on the page! We're considering adding a second RSS feed specifically for the challenges, but may write little "heads-ups" here anyway. Let us know if you have an opinion about this!</p>
-                    
-                    <p>Okay, enough about challenges, you just need to know that they're fun, require your attention, and we'll be adding more. Now, what about UnityMusicPlayer? Well, dear reader, let me relay to you the good news: UMP's transition to a new host is complete, and the process was quite smooth, if I may say so myself. We also want to mention that although UMP is no longer in development, we are certainly accepting <a href="https://2catstudios.github.io/unitymusicplayer_artist_form.html">artist applications</a>, and would like to note that Combustible Lemonade's newest songs were added to our register during the transition. Hooray for independent musicians, and hooray for free music!</p>
+			<p>Challenges, UMP, and Spring! Oh my.</p>
+			
+			<p>Ah, yes, if I compare the total size, minus the current Y-index, to zero, I'll be able to determine the value of the index up and over one... Oh! Hello, I didn't see you there! It looks like you caught me working out one of our new challenges, again. Hahaha, you just can't stop an inquisitive mind from learning, am I right? What's that, you haven't heard of our wonderful challenges? Well, take a seat, I'll explain.</p>
+			
+			<p>The premise of our new <a href="https://2catstudios.github.io/challenges.html">Challenges</a> page is very simple, but please indulge me for just a moment; in essence, this is another step towards becoming more transparent (albeit a somewhat unusual one), as we want these challenges to create more avenues for engagement with our audience. Since we've decided that you lovely readers are primarily human-beings (scratch the "officially branded ball of yarn" idea (scratch- get it?)), and are a little more involved in technology than most, offering some relevant "community building", "loyal follower creating" activities seems to be just the thing to do. Indeed, it is difficult to fall too far down the computer rabbit-hole without having many interactions with code in some way, and who doesn't still hold their childhood dream of becoming a computer programmer close to their heart. With these things in mind, we created the Challenges page, hoping that aspiring developers and experienced pros alike would find some enjoyment in open-ended programming experiments, written in such a way as to prompt clever solutions, or force an alternate way of thinking.</p>
+			
+			<p>We will not specify which language must be used, nor the specific approach you must take, and not even what the end result must look like, we just want to provide direction, a tangible goal, and some interesting restrictions that promote creativity. We do these challenges here in the studio as a fun deviation from our main projects, and we're hoping that community members will also take them up and share their results. We have a leader-boad, of sorts, under each challenge, and we'll update it with your name as soon as you let us know that you've completed a challenge. We'd love to see how you did it, too, and will share your project with everyone else, in case it could help someone who's struggling. Of course, you can request that we keep your source private, but we'll be unhappy, and ban you from using StackOverflow for a day (note: we cannot enforce this ban, and are not affiliated with StackOverflow).</p>
+			
+			<p>I see you're interested, but before you go to get started, there are two other things I need to mention. First, we're absolutely open to full challenges from the community, just write a little something, prepare an example, and it send it our way. It doesn't need to be about code, we're hoping to provide some art related challenges soon, and there's no reason that they should be limited to those two categories. Second, (and this might seem self-evident) we'll be adding new challenges periodically, so keep an eye on the page! We're considering adding a second RSS feed specifically for the challenges, but may write little "heads-ups" here anyway. Let us know if you have an opinion about this!</p>
+			
+			<p>Okay, enough about challenges, you just need to know that they're fun, require your attention, and we'll be adding more. Now, what about UnityMusicPlayer? Well, dear reader, let me relay to you the good news: UMP's transition to a new host is complete, and the process was quite smooth, if I may say so myself. We also want to mention that although UMP is no longer in development, we are certainly accepting <a href="https://2catstudios.github.io/unitymusicplayer_artist_form.html">artist applications</a>, and would like to note that Combustible Lemonade's newest songs were added to our register during the transition. Hooray for independent musicians, and hooray for free music!</p>
 
-                    <p>Oh, also, happy spring!</p>
-                    
-                    <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<p>Oh, also, happy spring!</p>
+			
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Sun, 20 Mar 2016 12:30:00 -0600</pubDate>
 		<guid isPermaLink="false">2016-03-20-0</guid>
 	</item>
-    
-    
-    <item>
-        <title>More Important Things You Should Know</title>
-        <link>https://2catstudios.github.io/news+blog.html#2016-03-02-0</link>
-        <description>Alright, sorry readers, but there's a lot to get through, so we've got no time for jokes today. This'll be quick-fire, too. Ready? Go!</description>
-        <content:encoded><![CDATA[<h3>Wednesday, March 02, 2016</h3>
-                    <p>More Important Things You Should Know</p>
+	
+	
+	<item>
+		<title>More Important Things You Should Know</title>
+		<link>https://2catstudios.github.io/news+blog.html#2016-03-02-0</link>
+		<description>Alright, sorry readers, but there's a lot to get through, so we've got no time for jokes today. This'll be quick-fire, too. Ready? Go!</description>
+		<content:encoded><![CDATA[<h3>Wednesday, March 02, 2016</h3>
+			<p>More Important Things You Should Know</p>
 
-                    <p>Alright, sorry readers, but there's a lot to get through, so we've got no time for jokes today. This'll be quick-fire, too. Ready? Go!</p>
+			<p>Alright, sorry readers, but there's a lot to get through, so we've got no time for jokes today. This'll be quick-fire, too. Ready? Go!</p>
 
-                    <p>We switched all of our icons to svg (basically a vector image), which can scale to any resolution. This will allow, as was mentioned in the last post, mobile devices to more quickly load pages, and no matter your resolution, the icons will look crystal clear. We will continue to format our site for smaller displays, and next we'll be reviewing the actual site size itself.</p>
-                    
-                    <p>Second, the whole site is now set to use HTTPS, and all non-secure requests will be immediately redirected. However, due to our current host, we cannot redirect HTTP requests before content is sent. Basically, this just means that if you access our site via HTTP, you will load whatever resource you're requesting, then be redirected to an HTTPS version. You shouldn't be particularly concerned about this, as we don't transfer any confidential information through this host, but just be aware that unless you update your bookmark (as you do, of course, have 2CatStudios bookmarked), you'll be making an unnecessary load.</p>
-                    
-                    <p>Third, the service which is currently hosting UMP music and artwork files (the OMB backend) will be discontinuing it's service on May 1st, 2016. We're looking into alternative hosting methods, and in keeping with our mission of consolidation, are considering our website host, so you'd have one less partner to worry about. Thankfully, we have enough time to fully review our options and make a transition before the servers will be shut off, but there is a slight chance that, somewhere in the changeover, a brief interruption of service may occur. We are aware that thousands, if not millions, of you rely on UnityMusicPLayer to get through the day, and we will take every precaution to ensure that this will be a smooth and discrete process.</p>
-                    
-                    <p>Fourth, I ran the News+Blog through a spell-check recently. I'm so sorry. I've corrected everything I could find on the website, but I won't push any new updates to the RSS feed (to avoid spamming our dearest friends). If it really matters to you, unsubscribing, clearing your cache, then resubscribing (that's the important part) should fetch all of the latest spelling-error-free articles.</p>
-                    
-                    <p>Finally, we want to apologize for the delay in announcing our next project. Just know that we are working hard, and are more excited than anyone to show off our latest work. Although we're still a ways from release, more information should be ready soon. 'Soon', huh?</p>
-                    
-                    <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
-        <pubDate>Wed, 02 Mar 2016 14:32:00 -0600</pubDate>
-        <guid isPermaLink="false">2016-03-02-0</guid>
-    </item>
-    
-    
-    <item>
+			<p>We switched all of our icons to svg (basically a vector image), which can scale to any resolution. This will allow, as was mentioned in the last post, mobile devices to more quickly load pages, and no matter your resolution, the icons will look crystal clear. We will continue to format our site for smaller displays, and next we'll be reviewing the actual site size itself.</p>
+			
+			<p>Second, the whole site is now set to use HTTPS, and all non-secure requests will be immediately redirected. However, due to our current host, we cannot redirect HTTP requests before content is sent. Basically, this just means that if you access our site via HTTP, you will load whatever resource you're requesting, then be redirected to an HTTPS version. You shouldn't be particularly concerned about this, as we don't transfer any confidential information through this host, but just be aware that unless you update your bookmark (as you do, of course, have 2CatStudios bookmarked), you'll be making an unnecessary load.</p>
+			
+			<p>Third, the service which is currently hosting UMP music and artwork files (the OMB backend) will be discontinuing it's service on May 1st, 2016. We're looking into alternative hosting methods, and in keeping with our mission of consolidation, are considering our website host, so you'd have one less partner to worry about. Thankfully, we have enough time to fully review our options and make a transition before the servers will be shut off, but there is a slight chance that, somewhere in the changeover, a brief interruption of service may occur. We are aware that thousands, if not millions, of you rely on UnityMusicPLayer to get through the day, and we will take every precaution to ensure that this will be a smooth and discrete process.</p>
+			
+			<p>Fourth, I ran the News+Blog through a spell-check recently. I'm so sorry. I've corrected everything I could find on the website, but I won't push any new updates to the RSS feed (to avoid spamming our dearest friends). If it really matters to you, unsubscribing, clearing your cache, then resubscribing (that's the important part) should fetch all of the latest spelling-error-free articles.</p>
+			
+			<p>Finally, we want to apologize for the delay in announcing our next project. Just know that we are working hard, and are more excited than anyone to show off our latest work. Although we're still a ways from release, more information should be ready soon. 'Soon', huh?</p>
+			
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+		<pubDate>Wed, 02 Mar 2016 14:32:00 -0600</pubDate>
+		<guid isPermaLink="false">2016-03-02-0</guid>
+	</item>
+	
+	
+	<item>
 		<title>Many Site-Wide Updates, and a Teaser</title>
 		<link>https://2catstudios.github.io/news+blog.html#2016-02-07-0</link>
 		<description>Hello friends, we've got some site-update news to share with you, and then a super exciting preview!</description>
 		<content:encoded><![CDATA[<h3>Sunday, February 07, 2016</h3>
-                    
-                    <p>Many Site-Wide Updates, and a Teaser</p>
-                    
-                    <p>Hello friends, we've got some site-update news to share with you, and then a super exciting preview!</p>
-                    
-                    <p>First things first, however, the less-exciting news: we'll be updating our website over the coming week to be more portable. This is only the first step towards having a mobile-friendly website, however it will also have some (positive) impact on you; you'll soon see some minor changes as we update what images we can to a higher resolution (some old images of projects long-gone will remain as they are). This is to cater towards devices with "retina displays", or high-density monitors. As I said earlier, this is only the first update in a series of many that will ultimately push our website onto smaller screens.</p>
-                    
-                    <p>You may have also noticed that our Privacy Policy was recently modified. Now, hold on, we have not silently professed to selling all of your private data to North Korea (we haven't, I swear!), we've actually taken steps to make your browsing data on our site more secure. As of Monday, February first, we no longer use CloudApp for download hosting. This may sound like a minor improvement, but CloudApp, as a service provider, also routes through Amazon's S3 web storage, and who knows what else. In an effort to simplify and keep better track of what we do with your data, we've completely transitioned to a more personal hosting-solution: namely, our website. In the interest of transparency, we would like to remind you that we're hosted, now both our website and files, by GitHub.</p>
-                    
-                    <p>Initially, CloudApp was chosen to allow for download tracking and user metrics, but as we've now finished integrating Google Analytics with our site, we no longer have a need for another third-party to keep track of user access to our content. What does this mean for you? Well, not much, unless you're into reading EULAs, in which case we've got bad news, since we now have one less for you to pretend you can understand.</p>
-                    
-                    <p>Also, please note that while we are removing one third party from your experience on our site, we are not adding another; the download tracking that now takes place through Google Analytics is not another entity, it is the same service that we (and most sites on the internet) use to track which of our links you click, how long you spend admiring our website, and now which of our files you download. We encourage you to take a peek at our <a href="https://2catstudios.github.io/about-us.html#privacypolicy">Privacy Policy</a> if you'd like to know more, and click through Google Analytics' policy to see how Google handles your data.</p>
-                    
-                    <p>Okay, I did promise a super exciting preview, now didn't I? It's about time, then, you've put up with enough. Also, keep in mind that we're deep into development on our next project, so while this preview is super exciting, it may yet be a while before we're ready to make another statement. Now, without further ado, please enjoy!</p>
-                    
-                    <img src="https://2catstudios.github.io/images/lightyear/teaser.png" alt="Teaser" width="986" height="350"/>
-                    
-                    <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<p>Many Site-Wide Updates, and a Teaser</p>
+			
+			<p>Hello friends, we've got some site-update news to share with you, and then a super exciting preview!</p>
+			
+			<p>First things first, however, the less-exciting news: we'll be updating our website over the coming week to be more portable. This is only the first step towards having a mobile-friendly website, however it will also have some (positive) impact on you; you'll soon see some minor changes as we update what images we can to a higher resolution (some old images of projects long-gone will remain as they are). This is to cater towards devices with "retina displays", or high-density monitors. As I said earlier, this is only the first update in a series of many that will ultimately push our website onto smaller screens.</p>
+			
+			<p>You may have also noticed that our Privacy Policy was recently modified. Now, hold on, we have not silently professed to selling all of your private data to North Korea (we haven't, I swear!), we've actually taken steps to make your browsing data on our site more secure. As of Monday, February first, we no longer use CloudApp for download hosting. This may sound like a minor improvement, but CloudApp, as a service provider, also routes through Amazon's S3 web storage, and who knows what else. In an effort to simplify and keep better track of what we do with your data, we've completely transitioned to a more personal hosting-solution: namely, our website. In the interest of transparency, we would like to remind you that we're hosted, now both our website and files, by GitHub.</p>
+			
+			<p>Initially, CloudApp was chosen to allow for download tracking and user metrics, but as we've now finished integrating Google Analytics with our site, we no longer have a need for another third-party to keep track of user access to our content. What does this mean for you? Well, not much, unless you're into reading EULAs, in which case we've got bad news, since we now have one less for you to pretend you can understand.</p>
+			
+			<p>Also, please note that while we are removing one third party from your experience on our site, we are not adding another; the download tracking that now takes place through Google Analytics is not another entity, it is the same service that we (and most sites on the internet) use to track which of our links you click, how long you spend admiring our website, and now which of our files you download. We encourage you to take a peek at our <a href="https://2catstudios.github.io/about-us.html#privacypolicy">Privacy Policy</a> if you'd like to know more, and click through Google Analytics' policy to see how Google handles your data.</p>
+			
+			<p>Okay, I did promise a super exciting preview, now didn't I? It's about time, then, you've put up with enough. Also, keep in mind that we're deep into development on our next project, so while this preview is super exciting, it may yet be a while before we're ready to make another statement. Now, without further ado, please enjoy!</p>
+			
+			<img src="https://2catstudios.github.io/images/lightyear/teaser.png" alt="Teaser" width="986" height="350"/>
+			
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Sun, 07 Feb 2016 14:23:00 -0600</pubDate>
 		<guid isPermaLink="false">2016-02-07-2</guid>
 	</item>
@@ -148,18 +145,17 @@
 		<link>https://2catstudios.github.io/news+blog.html#2016-01-07-0</link>
 		<description>Nineteen out of Twenty medical professionals agree that this one new game can cure mass cell-mutation, hair loss, and lazyness, although only one of those has been verified in lab tests. More details after the jump!</description>
 		<content:encoded><![CDATA[<h3>Thursday, January 07, 2016</h3>
-
-            <p>This one New Game that Doctors don't want You to Know About</p>
-            
-            <p>Nineteen out of Twenty medical professionals agree that this one new game can cure mass cell-mutation, hair loss, and laziness, although only one of those has been verified in lab tests. Either way, the impact that this incredible new video game could have on the medical industry is staggering, hence the secrecy by doctors. Never fear, however, we're going to risk everything to unveil the truth, for only $19.99!</p>
-            
-            <p>Okay, not really. We are, however, excited to officially endorse <a href="http://combustible-lemonade.itch.io/squared">Squared</a>, the new 2D puzzle game from Jan Heemstra. As a clever twist on the traditional Tetris-style puzzle, Squared forces players to not only make quick decisions, but build the shapes, too. It's a very cool game, and has made our holiday break a bit more enjoyable.</p>
-            
-            <p>Squared has been in development for something like twelve months, and was built with the <a href="http://godotengine.org">Godot engine</a>, so it's crossplatform, running on OS X, Linux, and Windows. Specific information can be found on it's <a href="http://combustible-lemonade.itch.io/squared">official site</a>, but we just wanted to give it a shout-out here, as it's worthy of recognition. Development is ongoing, so please report any bugs or feature requests on the <a href="https://github.com/CombustibleLemonade/Squared">GitHub page</a>. We reached out to Jan for a statement about his new game, and this is what he had to say: <i>I MADE GAME. BUY NAO 4 FREE!</i>.</p>
-            
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
-        <pubDate>Thu, 07 Jan 2016 08:01:26 -0600</pubDate>
-        <guid isPermaLink="false">2016-01-07-0</guid>
+			<p>This one New Game that Doctors don't want You to Know About</p>
+			
+			<p>Nineteen out of Twenty medical professionals agree that this one new game can cure mass cell-mutation, hair loss, and laziness, although only one of those has been verified in lab tests. Either way, the impact that this incredible new video game could have on the medical industry is staggering, hence the secrecy by doctors. Never fear, however, we're going to risk everything to unveil the truth, for only $19.99!</p>
+			
+			<p>Okay, not really. We are, however, excited to officially endorse <a href="http://combustible-lemonade.itch.io/squared">Squared</a>, the new 2D puzzle game from Jan Heemstra. As a clever twist on the traditional Tetris-style puzzle, Squared forces players to not only make quick decisions, but build the shapes, too. It's a very cool game, and has made our holiday break a bit more enjoyable.</p>
+			
+			<p>Squared has been in development for something like twelve months, and was built with the <a href="http://godotengine.org">Godot engine</a>, so it's crossplatform, running on OS X, Linux, and Windows. Specific information can be found on it's <a href="http://combustible-lemonade.itch.io/squared">official site</a>, but we just wanted to give it a shout-out here, as it's worthy of recognition. Development is ongoing, so please report any bugs or feature requests on the <a href="https://github.com/CombustibleLemonade/Squared">GitHub page</a>. We reached out to Jan for a statement about his new game, and this is what he had to say: <i>I MADE GAME. BUY NAO 4 FREE!</i>.</p>
+			
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+		<pubDate>Thu, 07 Jan 2016 08:01:26 -0600</pubDate>
+		<guid isPermaLink="false">2016-01-07-0</guid>
 	</item>
 
 
@@ -168,8 +164,7 @@
 		<link>https://2catstudios.github.io/news+blog.html#2015-12-31-1</link>
 		<description>I will have to say it at some point, so I might as well get this out of the way; happy new year!</description>
 		<content:encoded><![CDATA[<h3>Thursday, December 31, 2015</h3>
-
-            <p>Nothing Like a Holiday to Write a News+Blog Post</p>
+			<p>Nothing Like a Holiday to Write a News+Blog Post</p>
 
 			<p>I will have to say it at some point, so I might as well get this out of the way; happy new year! However, unlike the previous new year posts (which can now easily be found due to in-page linking; see <a href="https://2catstudios.github.io/news+blog.html#2015-01-28-0">2015</a> and <a href="https://2catstudios.github.io/news+blog.html#2014-01-02-0">2014</a>), this one isn't late! Actually, this is probably one of the only times that you'll find I've met a deadline. 2016 is looking bright!</p>
 
@@ -192,7 +187,6 @@
 		<link>https://2catstudios.github.io/news+blog.html#2015-12-20-0</link>
 		<description>Deeply-concerned internet users, hello! Read on for some information about our privacy policy.</description>
 		<content:encoded><![CDATA[<h3>Sunday, December 20, 2015</h3>
-
 			<p>Privacy Policy</p>
 
 			<p>Deeply-concerned internet users, hello!</p>
@@ -212,7 +206,6 @@
 		<link>https://2catstudios.github.io/news+blog.html#2015-04-29-0</link>
 		<description>It's been over a month (32 days- count 'em) since the last post, is this the beginning of another arduous News+Blog drought?</description>
 		<content:encoded><![CDATA[<h3>Wednesday, April 29, 2015</h3>
-
 			<p>Is this Another Dry Spell</p>
 
 			<p>It's been over a month (32 days- count 'em) since the last post, is this the beginning of another arduous News+Blog drought?</p>
@@ -237,7 +230,6 @@
 		<link>https://2catstudios.github.io/news+blog.html#2015-03-28-0</link>
 		<description>Since you're reading this, perhaps you've already seen the updated News+Blog page? If not, what do you think of the RSS?</description>
 		<content:encoded><![CDATA[<h3>Saturday, March 28, 2015</h3>
-
 			<p>RSS and News+Blog Update</p>
 
 			<p>Since you're reading this, perhaps you've already seen the updated News+Blog page? If not, why don't you scroll up.</p>
@@ -258,7 +250,6 @@
 		<link>https://2catstudios.github.io/news+blog.html#2015-03-24-0</link>
 		<description>Notice of Upcoming Service Disruption</description>
 		<content:encoded><![CDATA[<h3>Tuesday, March 24, 2015</h3>
-
 			<p>Notice of Upcoming Service Disruption</p>
 
 			<p>Just a heads up; the web server we use for application distribution is changing it's service methods on April 2. Unfortunately, this change makes further use of their service economically unviable for us. Therefore, we will be experimenting with alternative hosting solutions, hopefully without much noticable affect. If, however, there are some periods of unavailability between now and April 2, don't fret!</p>
@@ -273,7 +264,6 @@
 		<link>https://2catstudios.github.io/news+blog.html#2015-02-05-0</link>
 		<description>Hello all! Did you know that 2Cat Studios has more than one member? In fact, if I include myself, 2Cat Studios has a whopping total of two members! The more you know...</description>
 		<content:encoded><![CDATA[<h3>Thursday, February 05, 2015</h3>
-
 			<p>Not a Ghost</p>
 
 			<p>Hello all! Did you know that 2Cat Studios has more than one member? In fact, if I include myself, 2Cat Studios has a whopping total of two members! The more you know...</p>
@@ -290,7 +280,6 @@
 		<link>https://2catstudios.github.io/news+blog.html#2015-01-28-0</link>
 		<description>Happy twenty-fifteen! This year is going to be great, I can feel it. We've got many projects planned for, at least partial, release this year, and a lot of other fun things in store. UnityMusicPlayer will see the last of it's updates, and our "Secret Project" will finally be unveiled.</description>
 		<content:encoded><![CDATA[<h3>Wednesday, January 28, 2015</h3>
-
 			<p>2015 is the Year, and Prototypes</p>
 
 			<p>Happy twenty-fifteen! This year is going to be great, I can feel it. We've got many projects planned for, at least partial, release this year, and a lot of other fun things in store. UnityMusicPlayer will see the last of it's updates, and our "Secret Project" will finally be unveiled.</p>
@@ -309,22 +298,21 @@
 		<link>https://2catstudios.github.io/news+blog.html#2014-12-05-0</link>
 		<description>Wow- this is, like, weird, huh? A News+Blog post within a month of it's elder. Do we have some follow-up to what little we actually said last time? Have we come to announce our acquisition by EA? Perhaps we have more details of that "next major project", which we were talking about? Read on, to find out.</description>
 		<content:encoded><![CDATA[<h3>Friday, December 05, 2014</h3>
+			<p>The Transition to New Projects</p>
 
-            <p>The Transition to New Projects</p>
+			<p>Wow- this is, like, weird, huh? A News+Blog post within a month of it's elder. Do we have some follow-up to what little we actually said last time? Have we come to announce our acquisition by EA? Perhaps we have more details of that "next major project", which we were talking about? Read on, to find out.</p>
 
-            <p>Wow- this is, like, weird, huh? A News+Blog post within a month of it's elder. Do we have some follow-up to what little we actually said last time? Have we come to announce our acquisition by EA? Perhaps we have more details of that "next major project", which we were talking about? Read on, to find out.</p>
+			<p>If you choose answer two, we're afraid to say- you're incorrect. We are not being bought by EA, that was just for impact. Answer one is similarly incorrect. So, that leaves the choice three, right? Wrong.</p>
 
-            <p>If you choose answer two, we're afraid to say- you're incorrect. We are not being bought by EA, that was just for impact. Answer one is similarly incorrect. So, that leaves the choice three, right? Wrong.</p>
+			<p>What is this post about, then? Well, seeing as the development of UMP is slowing, and we're starting to concentrate more on other projects (more information coming soon!), we thought it would be a good time to outline the transition from UMP to whatever's next. Why- because I have time to write right now. Be thankful I'm even working today! (Note: I wrote this section on a holiday.)</p>
 
-            <p>What is this post about, then? Well, seeing as the development of UMP is slowing, and we're starting to concentrate more on other projects (more information coming soon!), we thought it would be a good time to outline the transition from UMP to whatever's next. Why- because I have time to write right now. Be thankful I'm even working today! (Note: I wrote this section on a holiday.)</p>
+			<p>UnityMusicPlayer has been a wild ride. Wild, in the sense that we've had to learn a lot, and we never quite knew where it would take us. A ride, in that we truly enjoyed the process. UMP isn't complete, and we're not done working on it, but after so many years of it holding our focus, even this decrease in attention feels a little lonesome. In the coming weeks and months, we're going to try to fix some of UMP's long-standing bugs. Namely, by UMP 1.2, you should be able to play audio of any length (2GB+), without hiccup, and escaped characters should correctly display in the OMB. There are a few other minor things we'd like to fix, and a few minutiae things to add, but generally, we have no more massive updates planned for UnityMusicPlayer. It's sad, even to type.</p>
 
-            <p>UnityMusicPlayer has been a wild ride. Wild, in the sense that we've had to learn a lot, and we never quite knew where it would take us. A ride, in that we truly enjoyed the process. UMP isn't complete, and we're not done working on it, but after so many years of it holding our focus, even this decrease in attention feels a little lonesome. In the coming weeks and months, we're going to try to fix some of UMP's long-standing bugs. Namely, by UMP 1.2, you should be able to play audio of any length (2GB+), without hiccup, and escaped characters should correctly display in the OMB. There are a few other minor things we'd like to fix, and a few minutiae things to add, but generally, we have no more massive updates planned for UnityMusicPlayer. It's sad, even to type.</p>
+			<p>The point of this post is not to reminisce about UMP, that's probably coming later. No, instead, we're writing this to encourage you to look to the future. With more projects coming up, we'll probably seem a lot more busy, and indeed, we'll have a lot more variety of content to make. In the transitional period to come, you'll most likely see many more News+Blog posts, as there will be a lot of exciting things to talk about. Who knows, we may even start posting images here (let us know if you'd like to see that via our email or <a href="https://twitter.com/MichaelBethke">Twitter</a>)! Our other project pages will hopefully see some love, too, as in this unsettled period we'll do some metaphorical house-cleaning on the website.</p>
 
-            <p>The point of this post is not to reminisce about UMP, that's probably coming later. No, instead, we're writing this to encourage you to look to the future. With more projects coming up, we'll probably seem a lot more busy, and indeed, we'll have a lot more variety of content to make. In the transitional period to come, you'll most likely see many more News+Blog posts, as there will be a lot of exciting things to talk about. Who knows, we may even start posting images here (let us know if you'd like to see that via our email or <a href="https://twitter.com/MichaelBethke">Twitter</a>)! Our other project pages will hopefully see some love, too, as in this unsettled period we'll do some metaphorical house-cleaning on the website.</p>
+			<p>Oh, uh, the transitional period. Right. So, basically, we're going to wind-down development of new features for UMP, and start posting more about our upcoming projects. A huge post for that one sentence, huh?</p>
 
-            <p>Oh, uh, the transitional period. Right. So, basically, we're going to wind-down development of new features for UMP, and start posting more about our upcoming projects. A huge post for that one sentence, huh?</p>
-
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Fri, 05 Dec 2014 00:01:00 -0600</pubDate>
 		<guid isPermaLink="false">2014-12-05-0</guid>
 	</item>
@@ -334,16 +322,15 @@
 		<link>https://2catstudios.github.io/news+blog.html#2014-11-18-0</link>
 		<description>Hello everyone, it's been a while, huh? Yeah, sorry about that. Please don't mistake our online absence as a true cause for concern- we've been fine! In fact, the entire 2Cat Studios team has been doing very well.</description>
 		<content:encoded><![CDATA[<h3>Tuesday, November 18, 2014</h3>
+			<p>Our Perceived Inactivity</p>
 
-            <p>Our Perceived Inactivity</p>
+			<p>Hello everyone, it's been a while, huh? Yeah, sorry about that. Please don't mistake our online absence as a true cause for concern- we've been fine! In fact, the entire 2Cat Studios team has been doing very well. Oh, what's that? <i>"Who are the 2Cat Studios team"?</i> Well, why don't you head on over to the (finally) finished <a href="https://2catstudios.github.io/about-us.html">About Us</a> page? There you'll find out everything you need to know about the individuals behind the kitty-masks. Now all you stalking dreams can come true!</p>
 
-            <p>Hello everyone, it's been a while, huh? Yeah, sorry about that. Please don't mistake our online absence as a true cause for concern- we've been fine! In fact, the entire 2Cat Studios team has been doing very well. Oh, what's that? <i>"Who are the 2Cat Studios team"?</i> Well, why don't you head on over to the (finally) finished <a href="https://2catstudios.github.io/about-us.html">About Us</a> page? There you'll find out everything you need to know about the individuals behind the kitty-masks. Now all you stalking dreams can come true!</p>
+			<p>As far as development goes, all's well on the homefront, as they say. UnityMusicPlayer 1.25 has been released, which fixed many bugs, and boasted a new UI, which a lot of people have asked for. There are still many things we have planned for UMP, but we're shifting more resources to other projects. What that means for you, dear reader, is that while updates for your favorite audio player may come with less frequency, you'll be able to offset that sadness with pure video-game bliss.</p>
 
-            <p>As far as development goes, all's well on the homefront, as they say. UnityMusicPlayer 1.25 has been released, which fixed many bugs, and boasted a new UI, which a lot of people have asked for. There are still many things we have planned for UMP, but we're shifting more resources to other projects. What that means for you, dear reader, is that while updates for your favorite audio player may come with less frequency, you'll be able to offset that sadness with pure video-game bliss.</p>
+			<p>Yes, your assumption is correct. Our next major project release should be a game, of some description. Oh, don't worry, we do know what we're doing, we just can't share  too much information yet. And, that's for the better, as mystery creates intrigue; intrigue creates interest, and that's what we're going for. Don't forget to check back for more information, and please share our projects with your friends! Your feedback will help us create the greatest video-games ever, and when we take over the world, we'll make you governor.</p>
 
-            <p>Yes, your assumption is correct. Our next major project release should be a game, of some description. Oh, don't worry, we do know what we're doing, we just can't share  too much information yet. And, that's for the better, as mystery creates intrigue; intrigue creates interest, and that's what we're going for. Don't forget to check back for more information, and please share our projects with your friends! Your feedback will help us create the greatest video-games ever, and when we take over the world, we'll make you governor.</p>
-
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Tue, 18 Nov 2014 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2014-11-18-0</guid>
 	</item>
@@ -353,16 +340,15 @@
 		<link>https://2catstudios.github.io/news+blog.html#2014-07-09-0</link>
 		<description>The latest version of UMP has been released! This is certainly cause for a joyous celebration, would you not say so? With the 1.2 release, you'll be able to access music hidden deep in the recesses of your computer, find awesome music even more quickly, and meditate with UMP open, thanks to our new (cleaner) GUI. We have also added a lot more error handling, and music with special characters in the title will now be played without a problem.</description>
 		<content:encoded><![CDATA[<h3>Wednesday, July 09, 2014</h3>
+			<p>UnityMusicPlayer 1.2- hooray!</p>
 
-            <p>UnityMusicPlayer 1.2- hooray!</p>
+			<p>The latest version of UMP has been released! This is certainly cause for a joyous celebration, would you not say so? With the 1.2 release, you'll be able to access music hidden deep in the recesses of your computer, find awesome music even more quickly, and meditate with UMP open, thanks to our new (cleaner) GUI. We have also added a lot more error handling, and music with special characters in the title will now be played without a problem.</p>
 
-            <p>The latest version of UMP has been released! This is certainly cause for a joyous celebration, would you not say so? With the 1.2 release, you'll be able to access music hidden deep in the recesses of your computer, find awesome music even more quickly, and meditate with UMP open, thanks to our new (cleaner) GUI. We have also added a lot more error handling, and music with special characters in the title will now be played without a problem.</p>
+			<p>UnityMusicPlayer is an ever-expanding and improving product, and we're proud to bring you the latest version. We have already taken steps to unify UMP, as per our initial vision, and communication between 2Cat apps will work without another update (if only we had more applications). We still have a long list of tweaks to make, and features to include, but we hope you'll love the newest UMP.</p>
 
-            <p>UnityMusicPlayer is an ever-expanding and improving product, and we're proud to bring you the latest version. We have already taken steps to unify UMP, as per our initial vision, and communication between 2Cat apps will work without another update (if only we had more applications). We still have a long list of tweaks to make, and features to include, but we hope you'll love the newest UMP.</p>
+			<p>As always, you can keep up to date on our latest progress right here, or on the <a href="https://2catstudios.github.io/unitymusicplayer.html">specific application page</a>. We value your feedback, so please let us know what you think so far, and where you want to see us go in the future. Do you like UMP's new interface? Would you like to see the audio-streaming feature return? No? Send us an email, or message us on <a href="httpss://twitter.com/MichaelBethke">Twitter</a>. I'm looking forward to hearing from you!</p>
 
-            <p>As always, you can keep up to date on our latest progress right here, or on the <a href="https://2catstudios.github.io/unitymusicplayer.html">specific application page</a>. We value your feedback, so please let us know what you think so far, and where you want to see us go in the future. Do you like UMP's new interface? Would you like to see the audio-streaming feature return? No? Send us an email, or message us on <a href="httpss://twitter.com/MichaelBethke">Twitter</a>. I'm looking forward to hearing from you!</p>
-
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Wed, 09 Jul 2014 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2014-07-09-0</guid>
 	</item>
@@ -372,19 +358,18 @@
 		<link>https://2catstudios.github.io/news+blog.html#2014-06-02-0</link>
 		<description>It's official, the Wikispaces website will be shutdown in five days! (Note: The old website has been shutdown. Please check back here for all things 2Cat!)</description>
 		<content:encoded><![CDATA[<h3>Monday, June 02, 2014</h3>
+			<h6>Note: The old website has been shutdown. Please check back here for all things 2Cat!</h6>
 
-            <h6>Note: The old website has been shutdown. Please check back here for all things 2Cat!</h6>
+			<p>It's official, the Wikispaces website will be shutdown in five days!</p>
 
-            <p>It's official, the Wikispaces website will be shutdown in five days!</p>
+			<p>On the seventh of June, the website run on Wikispaces (not this one) will be shut down. The reason, of course, is that our new website (the one you're currently using) is significantly better and more versatile, while also being easier to update. Our Wikispaces website has been very useful, but we just feel like it's time to move on. Following the termination of our website on Wikispaces, all comment sections will be closed, so you'll have to resort to email or <a href="https://twitter.com/MichaelBethke">social-networks</a> if you want to contact us.</p>
 
-            <p>On the seventh of June, the website run on Wikispaces (not this one) will be shut down. The reason, of course, is that our new website (the one you're currently using) is significantly better and more versatile, while also being easier to update. Our Wikispaces website has been very useful, but we just feel like it's time to move on. Following the termination of our website on Wikispaces, all comment sections will be closed, so you'll have to resort to email or <a href="https://twitter.com/MichaelBethke">social-networks</a> if you want to contact us.</p>
+			<p>Please remember that the closure of the Wikispaces website does in-no-way signify a scaling down, or cutting back of 2Cat Studios. On the contrary, our shift towards a new web-home should be seen as a renewal of our promise to you; we are always striving for the best, and the clearest way forwards is through a new, better, more-stylish website. So, although you won't be able to find us at Wikispaces anymore, please keep checking back here for all our latest endeavors.</p>
 
-            <p>Please remember that the closure of the Wikispaces website does in-no-way signify a scaling down, or cutting back of 2Cat Studios. On the contrary, our shift towards a new web-home should be seen as a renewal of our promise to you; we are always striving for the best, and the clearest way forwards is through a new, better, more-stylish website. So, although you won't be able to find us at Wikispaces anymore, please keep checking back here for all our latest endeavors.</p>
-
-            <p>You should update your bookmark (or, make one, if you haven't) to <a href="http://2catstudios.github.io/main.html">https://2catstudios.github.io</a>, as in just a few days, upon arriving at the Wikispaces website, you'll be greeted with a "Wiki not found" page, and that's no fun. This will probably be the last News+Blog article about the old website, I promise. We will also be releasing a new version of UMP (1.2- you won't want to miss it) in a few days, and we'll have more information on our new projects in the near future, so please stay tuned!</p>
+			<p>You should update your bookmark (or, make one, if you haven't) to <a href="http://2catstudios.github.io/main.html">https://2catstudios.github.io</a>, as in just a few days, upon arriving at the Wikispaces website, you'll be greeted with a "Wiki not found" page, and that's no fun. This will probably be the last News+Blog article about the old website, I promise. We will also be releasing a new version of UMP (1.2- you won't want to miss it) in a few days, and we'll have more information on our new projects in the near future, so please stay tuned!</p>
 
 
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Mon, 02 Jun 2014 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2014-06-02-0</guid>
 	</item>
@@ -394,18 +379,17 @@
 		<link>https://2catstudios.github.io/news+blog.html#2014-04-26-0</link>
 		<description>Today I am writing to update you guys on the website situation. What situation, you might ask- well, I'm glad you're curious! For the last couple months, we've been looking into moving our website to a new host (due in-part to UbuntuOne shutting down). Initially, we were planning on simply copying this website, however in the last few weeks it has become clear that an easy solution like that just isn't going to be possible. This realization gave us a lot to think about, but after some internal discussion we decided to completely rebuild the website from the ground up. Nobody on the team is proficient with HTML, but we decided to give it a shot anyway. So far, I think we've made great progress, and I'm proud of all the work that has gone into our new website thus far.</description>
 		<content:encoded><![CDATA[<h3>Saturday, April 26, 2014</h3>
+			<p>A new website, and a new version of UMP</p>
 
-            <p>A new website, and a new version of UMP</p>
+			<p>Today I am writing to update you guys on the website situation. What situation, you might ask- well, I'm glad you're curious! For the last couple months, we've been looking into moving our website to a new host (due in-part to UbuntuOne shutting down). Initially, we were planning on simply copying this website, however in the last few weeks it has become clear that an easy solution like that just isn't going to be possible. This realization gave us a lot to think about, but after some internal discussion we decided to completely rebuild the website from the ground up. Nobody on the team is proficient with HTML, but we decided to give it a shot anyway. So far, I think we've made great progress, and I'm proud of all the work that has gone into our new website thus far.</p>
 
-            <p>Today I am writing to update you guys on the website situation. What situation, you might ask- well, I'm glad you're curious! For the last couple months, we've been looking into moving our website to a new host (due in-part to UbuntuOne shutting down). Initially, we were planning on simply copying this website, however in the last few weeks it has become clear that an easy solution like that just isn't going to be possible. This realization gave us a lot to think about, but after some internal discussion we decided to completely rebuild the website from the ground up. Nobody on the team is proficient with HTML, but we decided to give it a shot anyway. So far, I think we've made great progress, and I'm proud of all the work that has gone into our new website thus far.</p>
+			<p>Now, the plan is to continue to update both websites until the new one has the same content as our old one, then phase out the old one, and eventually shut it down. There is a lot of work that still needs to be completed before we'll be ready to make the switch, but most of that work is behind-the-scenes stuff, so you could absolutely "jump ship" now, and become an early adopter of progress! If you have the adventurer's spirit, you can change your 2Cat Studios bookmark to <a href="https://2catstudios.github.io/main.html">https://2catstudios.github.io</a>; and, to that end, if you'd like to read this article, but with a little more "pizzazz", you can find it on our new News+Blog page, <a href="https://2catstudios.github.io/news+blog.html#04-26-2014-0">https://2catstudios.github.io/news+blog.html</a> (hint: you're already here).</p>
 
-            <p>Now, the plan is to continue to update both websites until the new one has the same content as our old one, then phase out the old one, and eventually shut it down. There is a lot of work that still needs to be completed before we'll be ready to make the switch, but most of that work is behind-the-scenes stuff, so you could absolutely "jump ship" now, and become an early adopter of progress! If you have the adventurer's spirit, you can change your 2Cat Studios bookmark to <a href="https://2catstudios.github.io/main.html">https://2catstudios.github.io</a>; and, to that end, if you'd like to read this article, but with a little more "pizzazz", you can find it on our new News+Blog page, <a href="https://2catstudios.github.io/news+blog.html#04-26-2014-0">https://2catstudios.github.io/news+blog.html</a> (hint: you're already here).</p>
+			<p>We are also getting ready to release the 1.2 update of UnityMusicPlayer, and the top three reasons you should be excited are following: 1) UMP 1.2 will unify the entire "UnityMusicPlayer experience". 2) UMP 1.2 boasts a "Featured" tab in the OMB which will make it even easier to find new music. 3) UMP 1.2 is going to bridge the gap between 2Cat Studios applications in ways that we haven't disclosed yet. What's that you say, the third reason isn't exciting? Well, you just wait, as it'll seem exciting soon!</p>
 
-            <p>We are also getting ready to release the 1.2 update of UnityMusicPlayer, and the top three reasons you should be excited are following: 1) UMP 1.2 will unify the entire "UnityMusicPlayer experience". 2) UMP 1.2 boasts a "Featured" tab in the OMB which will make it even easier to find new music. 3) UMP 1.2 is going to bridge the gap between 2Cat Studios applications in ways that we haven't disclosed yet. What's that you say, the third reason isn't exciting? Well, you just wait, as it'll seem exciting soon!</p>
+			<p>And with that, I'm afraid I'll have to bid you a fond farewell; we've got a lot of work to do, and it's not going to finish itself. Don't forget to check out the new website, and if you have any comments or concerns, please get in touch with us by sending an email to gibsonbethke@gmail.com!</p>
 
-            <p>And with that, I'm afraid I'll have to bid you a fond farewell; we've got a lot of work to do, and it's not going to finish itself. Don't forget to check out the new website, and if you have any comments or concerns, please get in touch with us by sending an email to gibsonbethke@gmail.com!</p>
-
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Sat, 26 Apr 2014 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2014-04-26-0</guid>
 	</item>
@@ -415,20 +399,19 @@
 		<link>https://2catstudios.github.io/news+blog.html#2014-02-14-0</link>
 		<description>Did you know, UnityMusicPlayer 1.1 released today? Of course you did, I'm just messing with you. A fitting release date, wouldn't you say? It perfectly embodies the way we feel about you! Awe, now I'm blushing.</description>
 		<content:encoded><![CDATA[<h3>Friday, February 14, 2014</h3>
+			<p>Happy 1.1 Day! Eer, I mean Valentines Day</p>
 
-            <p>Happy 1.1 Day! Eer, I mean Valentines Day</p>
+			<p>Did you know, UnityMusicPlayer 1.1 released today? Of course you did, I'm just messing with you. A fitting release date, wouldn't you say? It perfectly embodies the way we feel about you! Awe, now I'm blushing.</p>
 
-            <p>Did you know, UnityMusicPlayer 1.1 released today? Of course you did, I'm just messing with you. A fitting release date, wouldn't you say? It perfectly embodies the way we feel about you! Awe, now I'm blushing.</p>
+			<p>UnityMusicPlayer 1.1 has been released, and with it, a bunch of changes and fixes. First and foremost, the OnlineMusicBrowser got a makeover. And, just between you and I, I think the MusicViewer is jealous. Also included in the 1.1 update is a fix for the endless loading that would sometimes happen when playing an encrypted track. It is with great sadness, however, that I must inform you: the Streaming feature has been temporarily removed. I know, that was your favorite feature, but it was broken, and would have held back the Valentines Day release. Don't worry, though, it will probably see a return in another update. We have also expanded the settings window, and added a new audio-visualizer effect (although we removed motion blur).</p>
 
-            <p>UnityMusicPlayer 1.1 has been released, and with it, a bunch of changes and fixes. First and foremost, the OnlineMusicBrowser got a makeover. And, just between you and I, I think the MusicViewer is jealous. Also included in the 1.1 update is a fix for the endless loading that would sometimes happen when playing an encrypted track. It is with great sadness, however, that I must inform you: the Streaming feature has been temporarily removed. I know, that was your favorite feature, but it was broken, and would have held back the Valentines Day release. Don't worry, though, it will probably see a return in another update. We have also expanded the settings window, and added a new audio-visualizer effect (although we removed motion blur).</p>
+			<p>One of the main things we worked on (and are continuing to work on) is ease of use and the experience new users have when first starting our application. The 1.1 release marks the first of a few updates that will feature updated tutorials, richer explanations, simplified UI, and things of this sort. We realize that the basic color-scheme is a turn-off for some users, and that is also something we're looking into, however it is "bland" by design. To improve the ease of use, we're planning on integrating the MusicManager, MusicViewer, and OnlineMusicBrowser more, and the planned updates should make using UMP easier and quicker, as well as making it simpler for first-time users to grasp the "flow" of UMP. The fact that I think there even is a "flow" to UMP gives us a lot to work on.</p>
 
-            <p>One of the main things we worked on (and are continuing to work on) is ease of use and the experience new users have when first starting our application. The 1.1 release marks the first of a few updates that will feature updated tutorials, richer explanations, simplified UI, and things of this sort. We realize that the basic color-scheme is a turn-off for some users, and that is also something we're looking into, however it is "bland" by design. To improve the ease of use, we're planning on integrating the MusicManager, MusicViewer, and OnlineMusicBrowser more, and the planned updates should make using UMP easier and quicker, as well as making it simpler for first-time users to grasp the "flow" of UMP. The fact that I think there even is a "flow" to UMP gives us a lot to work on.</p>
+			<p>The future of UMP is looking bright, at least from my perspective. We'll try to keep you updated on the goings-on at 2Cat Studios, but we've got a lot of work to do, so if I miss another deadline, you'll know why.</p>
 
-            <p>The future of UMP is looking bright, at least from my perspective. We'll try to keep you updated on the goings-on at 2Cat Studios, but we've got a lot of work to do, so if I miss another deadline, you'll know why.</p>
+			<p>I would like to finish this post by giving a huge shout-out to the artists who currently have music on UnityMusicPlayer- thank you very much! You have all been a pleasure to work with, and I hope we can continue to have such wonderful releases on UMP for years to come! For those of you who didn't know, we got twenty-five new tracks on UMP within the two days leading up to Valentines Day! Once again, thanks guys!</p>
 
-            <p>I would like to finish this post by giving a huge shout-out to the artists who currently have music on UnityMusicPlayer- thank you very much! You have all been a pleasure to work with, and I hope we can continue to have such wonderful releases on UMP for years to come! For those of you who didn't know, we got twenty-five new tracks on UMP within the two days leading up to Valentines Day! Once again, thanks guys!</p>
-
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Fri, 14 Feb 2014 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2014-02-14-0</guid>
 	</item>
@@ -438,21 +421,20 @@
 		<link>https://2catstudios.github.io/news+blog.html#2014-01-11-0</link>
 		<description>Pretty mysterious title, eh? I bet you didn't see that one coming- speaking of things you probably didn't see coming- segue- what's the deal with 2Cat Publications!? Well, dear reader, it's funny you should ask, because I'm in the mood to explain it. (Note: We have since disbanded the 2Cat Publications project due to lack of interest. This News+Blog post has been preserved for historical purposes, as well as to inform readers about the termination of the project. Thanks for your continued support!)</description>
 		<content:encoded><![CDATA[<h3>Saturday, January 11, 2014</h3>
+			<h6>Note: We have since disbanded the 2Cat Publications project due to lack of interest. This News+Blog post has been preserved for historical purposes, as well as to inform readers about the termination of the project. Thanks for your continued support!</h6>
 
-            <h6>Note: We have since disbanded the 2Cat Publications project due to lack of interest. This News+Blog post has been preserved for historical purposes, as well as to inform readers about the termination of the project. Thanks for your continued support!</h6>
+			<p>A shot in the dark from out of nowhere!</p>
 
-            <p>A shot in the dark from out of nowhere!</p>
+			<p>Pretty mysterious title, eh? I bet you didn't see that one coming- speaking of things you probably didn't see coming- segue- what's the deal with 2Cat Publications!? Well, dear reader, it's funny you should ask, because I'm in the mood to explain it. Basically, I wanted to write an interview of myself as a kind of comedic way to interest people in UnityMusicPlayer. After thinking about how to make that happen, I came to the idea of making a news site, and just like that, 2Cat Publications was born. Initially, it was just going to be a joke, but the more I thought about it, the more fun it seemed. You'll still find unabashed comedic self-promotion on the site, but we're going to try to cover real news, too. And, who better to write about important events than I, the (usually late) author of these blog posts?!</p>
 
-            <p>Pretty mysterious title, eh? I bet you didn't see that one coming- speaking of things you probably didn't see coming- segue- what's the deal with 2Cat Publications!? Well, dear reader, it's funny you should ask, because I'm in the mood to explain it. Basically, I wanted to write an interview of myself as a kind of comedic way to interest people in UnityMusicPlayer. After thinking about how to make that happen, I came to the idea of making a news site, and just like that, 2Cat Publications was born. Initially, it was just going to be a joke, but the more I thought about it, the more fun it seemed. You'll still find unabashed comedic self-promotion on the site, but we're going to try to cover real news, too. And, who better to write about important events than I, the (usually late) author of these blog posts?!</p>
+			<p>Okay, I might not be the best columnist out there, but I will try my best, and we'll see where this goes together. From time to time you may see features by guest-authors, and we'll try to vary the inflow of news to include both serious headlines and funny attempts at directing people towards our own products. But, enough of this intro, what is 2Cat Publications really about?</p>
 
-            <p>Okay, I might not be the best columnist out there, but I will try my best, and we'll see where this goes together. From time to time you may see features by guest-authors, and we'll try to vary the inflow of news to include both serious headlines and funny attempts at directing people towards our own products. But, enough of this intro, what is 2Cat Publications really about?</p>
+			<p>2Cat Publications is going to be an internet-based IT news outlet. We're going to start rather small, covering only topics that are interesting to us, but we do have plans to expand. In the beginning, the focus will be gaming and gaming industry news, with some basic coverage on the software/technology sector. We're hoping that, eventually, we'll be able to produce a wider and fuller array of coverage that both informs and entertains. Although we're just starting out, we hope you'll join us on our newest endeavor.</p>
 
-            <p>2Cat Publications is going to be an internet-based IT news outlet. We're going to start rather small, covering only topics that are interesting to us, but we do have plans to expand. In the beginning, the focus will be gaming and gaming industry news, with some basic coverage on the software/technology sector. We're hoping that, eventually, we'll be able to produce a wider and fuller array of coverage that both informs and entertains. Although we're just starting out, we hope you'll join us on our newest endeavor.</p>
+			<p>So, that's that. I hope this has been, at least, somewhat enlightening. We're not completely clear on the details, either, so don't feel alone. This side of our website will stay mainly focused on 2Cat Studios, and this News/Blog-thing will remain devoted to the software/games we're creating. 2Cat Publications will likely have a similar blog-thing, but that will be focused on the development of the 2Cat Publications site and team. We're going to give this our best shot, so please look forward to it!</p>
 
-            <p>So, that's that. I hope this has been, at least, somewhat enlightening. We're not completely clear on the details, either, so don't feel alone. This side of our website will stay mainly focused on 2Cat Studios, and this News/Blog-thing will remain devoted to the software/games we're creating. 2Cat Publications will likely have a similar blog-thing, but that will be focused on the development of the 2Cat Publications site and team. We're going to give this our best shot, so please look forward to it!</p>
-
-            <h5>Michael, 2Cat Network</h5>
-            <p>(Does that sound too cheesy? How about Michael, 2Cat Studications?)</p>]]></content:encoded>
+			<h5>Michael, 2Cat Network</h5>
+			<p>(Does that sound too cheesy? How about Michael, 2Cat Studications?)</p>]]></content:encoded>
 		<pubDate>Sat, 11 Jan 2014 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2014-01-11-0</guid>
 	</item>
@@ -462,14 +444,13 @@
 		<link>https://2catstudios.github.io/news+blog.html#2014-01-02-0</link>
 		<description>Alright, I don't know what my problem is, but I missed another new/blog-post deadline. I only noticed today, but I was supposed to write a new years update, and it's past new years. I think I know what one of my resolutions should be... Anyway, I know it's late, but happy new years, guys!</description>
 		<content:encoded><![CDATA[<h3>Thursday, January 02, 2014</h3>
+			<p>The new year is upon us!</p>
 
-            <p>The new year is upon us!</p>
+			<p>Alright, I don't know what my problem is, but I missed another new/blog-post deadline. I only noticed today, but I was supposed to write a new years update, and it's past new years. I think I know what one of my resolutions should be... Anyway, I know it's late, but happy new years, guys!</p>
 
-            <p>Alright, I don't know what my problem is, but I missed another new/blog-post deadline. I only noticed today, but I was supposed to write a new years update, and it's past new years. I think I know what one of my resolutions should be... Anyway, I know it's late, but happy new years, guys!</p>
+			<p>Now, on to more interesting topics. This year should be a big one for us; we're going to try to change development engines, move to a new programming language, and possibly expand our team. We're also planning on revealing more information about our two new projects, and executing phase two of our world-domination plan. So, we hope you had a nice christmas and new year, and we'll talk to you soon. Please remember to keep checking back for updates, as there will be a lot more information rolling out over the next few months.</p>
 
-            <p>Now, on to more interesting topics. This year should be a big one for us; we're going to try to change development engines, move to a new programming language, and possibly expand our team. We're also planning on revealing more information about our two new projects, and executing phase two of our world-domination plan. So, we hope you had a nice christmas and new year, and we'll talk to you soon. Please remember to keep checking back for updates, as there will be a lot more information rolling out over the next few months.</p>
-
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Thu, 02 Jan 2014 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2014-01-02-0</guid>
 	</item>
@@ -479,14 +460,13 @@
 		<link>https://2catstudios.github.io/news+blog.html#2013-11-09-0</link>
 		<description>UnityMusicPlayer One, UMP 1.0, has been released! Okay, everybody stop clapping, it's not like we just announced that the price is $100 cheaper than our competitor! Seriously, stop clapping, it does check online whenever you turn it on (for updates, mind you- it will work without an internet connection), that's nothing to be excited about!</description>
 		<content:encoded><![CDATA[<h3>Monday, December 09, 2013</h3>
+			<p>Finished Projects and Satire</p>
 
-            <p>Finished Projects and Satire</p>
+			<p>UnityMusicPlayer One, UMP 1.0, has been released! Okay, everybody stop clapping, it's not like we just announced that the price is $100 cheaper than our competitor! Seriously, stop clapping, it does check online whenever you turn it on (for updates, mind you- it will work without an internet connection), that's nothing to be excited about! Ah, thank you, that's better- I'll start again; today we released UnityMusicPlayer 1.0, and we've very proud to have made it this far. UMP is our first (major) completed project, so, naturally, this is a momentous day. We won't be partying for long, though, as we have a few other projects in the pipeline- you'll be hearing more about them soon. You can expect a bit more "fun" in our upcoming projects, too, so please look forward to them.</p>
 
-            <p>UnityMusicPlayer One, UMP 1.0, has been released! Okay, everybody stop clapping, it's not like we just announced that the price is $100 cheaper than our competitor! Seriously, stop clapping, it does check online whenever you turn it on (for updates, mind you- it will work without an internet connection), that's nothing to be excited about! Ah, thank you, that's better- I'll start again; today we released UnityMusicPlayer 1.0, and we've very proud to have made it this far. UMP is our first (major) completed project, so, naturally, this is a momentous day. We won't be partying for long, though, as we have a few other projects in the pipeline- you'll be hearing more about them soon. You can expect a bit more "fun" in our upcoming projects, too, so please look forward to them.</p>
+			<p>UnityMusicPlayer is just the first step towards world-domination, and we won't give up now! Our plan will become clear as we get closer to open-development, but be sure to check back every now-and-then for the latest 2Cat Studios news. For now, this is all we can say, but with the overwhelming support we've received from you guys in the past, we can't wait to reveal our new projects. From all of us here at 2Cat Studios, thank you.</p>
 
-            <p>UnityMusicPlayer is just the first step towards world-domination, and we won't give up now! Our plan will become clear as we get closer to open-development, but be sure to check back every now-and-then for the latest 2Cat Studios news. For now, this is all we can say, but with the overwhelming support we've received from you guys in the past, we can't wait to reveal our new projects. From all of us here at 2Cat Studios, thank you.</p>
-
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Mon, 09 Dec 2013 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2013-11-09-0</guid>
 	</item>
@@ -496,30 +476,29 @@
 		<link>https://2catstudios.github.io/news+blog.html#2013-10-31-0</link>
 		<description>news+blog.cpp</description>
 		<content:encoded><![CDATA[<h3>Thursday, October 31, 2013</h3>
+			<p>News+Blog.cpp</p>
 
-            <p>News+Blog.cpp</p>
-
-            <p>/* This is how our genius minds work! KOPYRITED SO U CANT DO STUF WID DIS! */</p>
-            <p>#include &lt;iostream&gt;</p>
-            <p>#include &lt;autism&gt;</p>
-            <p>#include &lt;lazyness&gt;</p>
-            <p>#include &lt;MAKETHISANINTEGERNAO&gt;</p>
-            <p>#include "TOOMUCHFREAKINGHOMEWORK.hpp"</p>
-            <br>
-            <p>int doingStuff = false;</p>
-            <br>
-            <p>using namespace std;</p>
-            <br>
-            <p>int main () {</p>
-            <p>if (autism::savant==programming && lazyness::doSomeThing) {</p>
-            <p>cout &lt;&lt; lazyness.resultOfDoingSomething &lt;&lt; endl;</p>
-            <p>int doingStuff = true;</p>
-            <p>} else {</p>
-            <p>cout &lt;&lt; "We're totally working really hard on lots of stuff!" &lt;&lt; endl &lt;&lt; randomTooMuchHomeworkExcuse;</p>
-            <p>int doingStuff = false;</p>
-            <p>}</p>
-            <p>return ("-Jan Heemstra, 2Cat Studios".MAKETHISANINTEGERNAO-42);</p>
-            <p>}</p>]]></content:encoded>
+			<p>/* This is how our genius minds work! KOPYRITED SO U CANT DO STUF WID DIS! */</p>
+			<p>#include &lt;iostream&gt;</p>
+			<p>#include &lt;autism&gt;</p>
+			<p>#include &lt;lazyness&gt;</p>
+			<p>#include &lt;MAKETHISANINTEGERNAO&gt;</p>
+			<p>#include "TOOMUCHFREAKINGHOMEWORK.hpp"</p>
+			<br>
+			<p>int doingStuff = false;</p>
+			<br>
+			<p>using namespace std;</p>
+			<br>
+			<p>int main () {</p>
+			<p>if (autism::savant==programming && lazyness::doSomeThing) {</p>
+			<p>cout &lt;&lt; lazyness.resultOfDoingSomething &lt;&lt; endl;</p>
+			<p>int doingStuff = true;</p>
+			<p>} else {</p>
+			<p>cout &lt;&lt; "We're totally working really hard on lots of stuff!" &lt;&lt; endl &lt;&lt; randomTooMuchHomeworkExcuse;</p>
+			<p>int doingStuff = false;</p>
+			<p>}</p>
+			<p>return ("-Jan Heemstra, 2Cat Studios".MAKETHISANINTEGERNAO-42);</p>
+			<p>}</p>]]></content:encoded>
 		<pubDate>Thu, 31 Oct 2013 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2013-10-31-0</guid>
 	</item>
@@ -529,14 +508,13 @@
 		<link>https://2catstudios.github.io/news+blog.html#2013-01-24-0</link>
 		<description>Five months isn't too long in-between posts, is it? To be fair, there hasn't been much to write about- even now, I'm just saying the same thing over and over in hopes of taking up space. Don't get the wrong idea, though, we have been working! UnityMusicPlayer is coming along well, and version 1.0 should be releasing soon.</description>
 		<content:encoded><![CDATA[<h3>Thursday, October 24, 2013</h3>
+			<p>Well... uh... should we start with introductions again? Also, mystery projects!</p>
 
-            <p>Well... uh... should we start with introductions again? Also, mystery projects!</p>
+			<p>Five months isn't too long in-between posts, is it? To be fair, there hasn't been much to write about- even now, I'm just saying the same thing over and over in hopes of taking up space. Don't get the wrong idea, though, we have been working! UnityMusicPlayer is coming along well, and version 1.0 should be releasing soon. We suffered a number of set-backs over the summer- some computers breaking and hard-drives failing- but you can be sure we back up our work more often now. Also, we have started two new projects, and we've very excited to show them off! Unfortunately, though, they're not quite ready. As soon as they're in a working and presentable state we'll let you know (and change the home-page. Seriously, what's up with it always staying the same?!).</p>
 
-            <p>Five months isn't too long in-between posts, is it? To be fair, there hasn't been much to write about- even now, I'm just saying the same thing over and over in hopes of taking up space. Don't get the wrong idea, though, we have been working! UnityMusicPlayer is coming along well, and version 1.0 should be releasing soon. We suffered a number of set-backs over the summer- some computers breaking and hard-drives failing- but you can be sure we back up our work more often now. Also, we have started two new projects, and we've very excited to show them off! Unfortunately, though, they're not quite ready. As soon as they're in a working and presentable state we'll let you know (and change the home-page. Seriously, what's up with it always staying the same?!).</p>
+			<p>Like the last post, this is mainly to let you know we're not dead. However, with the release of UMP 1.0 and two new projects on the horizon, you can expect to hear more from us soon. Until then, keep well, and don't loose your awesomeness!</p>
 
-            <p>Like the last post, this is mainly to let you know we're not dead. However, with the release of UMP 1.0 and two new projects on the horizon, you can expect to hear more from us soon. Until then, keep well, and don't loose your awesomeness!</p>
-
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Thu, 24 Oct 2013 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2013-01-24-0</guid>
 	</item>
@@ -546,14 +524,13 @@
 		<link>https://2catstudios.github.io/news+blog.html#2013-05-20-0</link>
 		<description>Well, I'll admit, I have been putting this on the back-burner. But, I want to clarify, it's not entirely my fault!</description>
 		<content:encoded><![CDATA[<h3>Monday, May 20, 2013</h3>
+			<p>It's been over a month since we last made a new post in this section. Have we decided to discontinue it?</p>
 
-            <p>It's been over a month since we last made a new post in this section. Have we decided to discontinue it?</p>
+			<p>Well, I'll admit, I have been putting this on the back-burner. But, I want to clarify, it's not entirely my fault!.. Well, maybe it is, but I'm not ignoring you guys, it's just kinda' hard to come up with topics worthy of a blog (this is a blog, right?), when you're in the middle of core development. We've been working to add features for live performances, as well as fix some bugs and optimize for better performance under-the-hood. So, I guess I could have written posts for each of those things, but I don't know how many of you would read an article about how we fixed some bugs in our software.</p>
 
-            <p>Well, I'll admit, I have been putting this on the back-burner. But, I want to clarify, it's not entirely my fault!.. Well, maybe it is, but I'm not ignoring you guys, it's just kinda' hard to come up with topics worthy of a blog (this is a blog, right?), when you're in the middle of core development. We've been working to add features for live performances, as well as fix some bugs and optimize for better performance under-the-hood. So, I guess I could have written posts for each of those things, but I don't know how many of you would read an article about how we fixed some bugs in our software.</p>
+			<p>So, this is just to check-in. We'll try to keep this up to date, but in times like these, there really isn't much to say.</p>
 
-            <p>So, this is just to check-in. We'll try to keep this up to date, but in times like these, there really isn't much to say.</p>
-
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Mon, 20 May 2013 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2013-05-20-0</guid>
 	</item>
@@ -563,14 +540,13 @@
 		<link>https://2catstudios.github.io/news+blog.html#2013-04-09-0</link>
 		<description>Many of you are probably wondering what happened to all of the old projects (hint-hint). Well, the old and discontinued applications have now been consolidated and grouped together on the "Old Projects" page.</description>
 		<content:encoded><![CDATA[<h3>Tuesday, April 09, 2013</h3>
+			<p>Concerning the New Website Layout</p>
 
-            <p>Concerning the New Website Layout</p>
+			<p>Many of you are probably wondering what happened to all of the old projects (hint-hint). Well, the old and discontinued applications have now been consolidated and grouped together on the "Old Projects" page. You can still download them, but we've moved their download page as well. We've been shifting everything around lately in the hope that your visit to our website will be easier and better. Also, as we've decided to discontinue those old applications, they would just be collecting dust on the homepage.</p>
 
-            <p>Many of you are probably wondering what happened to all of the old projects (hint-hint). Well, the old and discontinued applications have now been consolidated and grouped together on the "Old Projects" page. You can still download them, but we've moved their download page as well. We've been shifting everything around lately in the hope that your visit to our website will be easier and better. Also, as we've decided to discontinue those old applications, they would just be collecting dust on the homepage.</p>
+			<p>So, I hope this clears up some confusion; you can still view and download them, but you'll have to look under the "Old Projects" page to do so. We won't be updating them any more, and we may release their source code at some point in the future, but for right now, at least they have each other.</p>
 
-            <p>So, I hope this clears up some confusion; you can still view and download them, but you'll have to look under the "Old Projects" page to do so. We won't be updating them any more, and we may release their source code at some point in the future, but for right now, at least they have each other.</p>
-
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Tue, 09 Apr 2013 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2013-04-09-0</guid>
 	</item>
@@ -580,16 +556,15 @@
 		<link>https://2catstudios.github.io/news+blog.html#2013-04-08-0</link>
 		<description>This is just a quick message to kick-off the new section, and introduce you to some of our plans for the future.</description>
 		<content:encoded><![CDATA[<h3>Monday, April 08, 2013</h3>
+			<p>We've decided that, in the hopes of being more transparent, a blog/news area would be a good idea. This is just a quick message to kick-off the new section, and introduce you to some of our plans for the future.</p>
 
-            <p>We've decided that, in the hopes of being more transparent, a blog/news area would be a good idea. This is just a quick message to kick-off the new section, and introduce you to some of our plans for the future.</p>
+			<p>So, first off, the quick message. We just want to say thanks for supporting us so much over the years; we couldn't have done any of this without you guys behind us all the way! We're doing our best to bring you the most amazing applications on the market, and I know we're not there yet, but with your suggestions and comments, we truly can achieve our goal, and I'm confident we will! Once again, thanks guys, you're amazing!</p>
 
-            <p>So, first off, the quick message. We just want to say thanks for supporting us so much over the years; we couldn't have done any of this without you guys behind us all the way! We're doing our best to bring you the most amazing applications on the market, and I know we're not there yet, but with your suggestions and comments, we truly can achieve our goal, and I'm confident we will! Once again, thanks guys, you're amazing!</p>
+			<p>Next, plans. We're putting the finishing touches on UnityMusicPlayer 0.9, and talking to some artists so we can have the biggest update yet. Lots of new features, major speed and performance improvements, and top songs from some of our favorite musical artists. We're hoping to get everything sorted out in the next week, and to update no later than the 21st. After the release of UMP 0.9, we're going to take a few days to reorganize, then start work again on UnityMusicPlayer. After the 0.9 update, there will be a lot of work to do, and you probably won't see any smaller updates until UMP 1.0 comes out, but that's why we've made this new section! We'll try to keep you guys updated on our progress, post interesting information, tease new features, and just try to keep in touch while the long development cycle passes.</p>
 
-            <p>Next, plans. We're putting the finishing touches on UnityMusicPlayer 0.9, and talking to some artists so we can have the biggest update yet. Lots of new features, major speed and performance improvements, and top songs from some of our favorite musical artists. We're hoping to get everything sorted out in the next week, and to update no later than the 21st. After the release of UMP 0.9, we're going to take a few days to reorganize, then start work again on UnityMusicPlayer. After the 0.9 update, there will be a lot of work to do, and you probably won't see any smaller updates until UMP 1.0 comes out, but that's why we've made this new section! We'll try to keep you guys updated on our progress, post interesting information, tease new features, and just try to keep in touch while the long development cycle passes.</p>
+			<p>That's it for right now, guys, thanks for taking the time to read this!</p>
 
-            <p>That's it for right now, guys, thanks for taking the time to read this!</p>
-
-            <h5>Michael, 2Cat Studios</h5>]]></content:encoded>
+			<h5>Michael, 2Cat Studios</h5>]]></content:encoded>
 		<pubDate>Mon, 08 Apr 2013 00:00:00 -0600</pubDate>
 		<guid isPermaLink="false">2013-04-08-0</guid>
 	</item>
